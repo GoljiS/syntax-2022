@@ -1,5 +1,5 @@
 ---
-title: "RAJ 2022 Introduction Course"
+title: "Syntax 2022 Introduction Course"
 author: "Teodor Petrič"
 date: "2021-10-03"
 site: bookdown::bookdown_site
