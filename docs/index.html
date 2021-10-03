@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Syntax 2022 Introduction Course</title>
-  <meta name="description" content="Syntax 2022 Introduction Course" />
+  <title>Syntax 2021/2022</title>
+  <meta name="description" content="Syntax 2021/2022" />
   <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Syntax 2022 Introduction Course" />
+  <meta property="og:title" content="Syntax 2021/2022" />
   <meta property="og:type" content="book" />
   
   <meta property="og:image" content="/pictures/hayiti__wcloud_lemmas.png" />
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Syntax 2022 Introduction Course" />
+  <meta name="twitter:title" content="Syntax 2021/2022" />
   
   
   <meta name="twitter:image" content="/pictures/hayiti__wcloud_lemmas.png" />
@@ -32,7 +32,7 @@
   
   
 
-
+<link rel="next" href="gegenstand-und-sinn-der-syntax.html"/>
 <script src="libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -96,7 +96,14 @@ div.csl-indent {
 <li><a href="./">RAJ 2022 Intro</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="#einführung"><i class="fa fa-check"></i><b>1</b> Einführung</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Einführung</a></li>
+<li class="chapter" data-level="2" data-path="gegenstand-und-sinn-der-syntax.html"><a href="gegenstand-und-sinn-der-syntax.html"><i class="fa fa-check"></i><b>2</b> Gegenstand und Sinn der Syntax</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="gegenstand-und-sinn-der-syntax.html"><a href="gegenstand-und-sinn-der-syntax.html#äußerung"><i class="fa fa-check"></i><b>2.1</b> Äußerung</a></li>
+<li class="chapter" data-level="2.2" data-path="gegenstand-und-sinn-der-syntax.html"><a href="gegenstand-und-sinn-der-syntax.html#prototypischer-satz"><i class="fa fa-check"></i><b>2.2</b> Prototypischer Satz</a></li>
+<li class="chapter" data-level="2.3" data-path="gegenstand-und-sinn-der-syntax.html"><a href="gegenstand-und-sinn-der-syntax.html#syntaktische-grundbeziehungen"><i class="fa fa-check"></i><b>2.3</b> Syntaktische Grundbeziehungen</a></li>
+<li class="chapter" data-level="2.4" data-path="gegenstand-und-sinn-der-syntax.html"><a href="gegenstand-und-sinn-der-syntax.html#identifikationsverfahren"><i class="fa fa-check"></i><b>2.4</b> Identifikationsverfahren</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -109,7 +116,7 @@ div.csl-indent {
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Syntax 2022 Introduction Course</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Syntax 2021/2022</a>
           </h1>
         </div>
 
@@ -118,42 +125,34 @@ div.csl-indent {
 
             <section class="normal" id="section-">
 <div id="header">
-<h1 class="title">Syntax 2022 Introduction Course</h1>
+<h1 class="title">Syntax 2021/2022</h1>
 <p class="author"><em>Teodor Petrič</em></p>
 <p class="date"><em>2021-10-03</em></p>
 </div>
 <div id="einführung" class="section level1" number="1">
 <h1><span class="header-section-number">Kapitel 1</span> Einführung</h1>
-<p><img src="pictures/hayiti__wcloud_lemmas.png" width="500" /></p>
-<p>In diesem Einführungskurs machen wir Sie mit quantitativen Methoden zur
-Erfassung von linguistischen Merkmalen in deutschen, englischen und
-slowenischen Texten bekannt.</p>
-<p>Unseren Kurs beginnen wir mit wichtigen Grundlagen für die Verwendung
-der Benutzeroberfläche <code>RStudio</code> und die Manipulation von Dateien und
-Datensätzen. Neben einigen <code>Base-R</code>-Funktionen lernen wir vor allem, mit
-den Funktionen des Programmbündels <code>tidyverse</code> umzugehen.</p>
-<p>In mehreren Kurseinheiten beschäftigen wir uns mit kleineren Datensätzen
-aus dem Bereich Sprachverwendung und einigen grundlegenden statistischen
-Testmethoden.</p>
-<p>In einer Kurseinheit vergleichen wir Ermittlungsfunktionen in <code>R</code> und
-<code>Microsoft Excel</code>, einem beliebten Tabellenprogramm.</p>
-<p>Das Thema mehrerer Kurseinheiten ist die Zerlegung von Texten in
-kleinere Einheiten und ihre Bearbeitung auf verschiedenen linguistischen
-Ebenen: auf phonetischer, graphematischer, morphologischer und
-syntaktischer Ebene.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p><img src="pictures/Syntax_intro_01.png" width="100%" /></p>
+<p>In diesem Einführungskurs machen wir Sie mit grundlegenden Methoden zur
+Erfassung von linguistischen, insbesondere aber syntaktischen Merkmalen
+in deutschen und slowenischen Texten bekannt.</p>
+<p>Unseren Kurs beginnen wir mit Frage, wozu wir überhaupt über Sprache
+reden und <em>zu welchem Zweck über Syntax?</em></p>
+<p>Da sich mehrere Wissenschaften mit Sprache auseinandersetzen, ist es
+sinnvoll, Syntax von anderen wissenschaftlichen Disziplinen abzugrenzen,
+um den <em>Gegenstand der Syntax</em> (als Bestandteil der Systemlinguistik)
+besser erkennen zu können.</p>
+<p>In jeder wissenschaftlichen Disziplin werden grundlegende Einheiten
+definiert. In der Syntax ist der <em>Satz</em> die maßgebliche Basiseinheit.
+Wie jede linguistische Einheit, kann man Sätze verschiedentlich
+definieren. Im Rahmen der Einführungsstunde wird ein <em>prototypischer
+Satz</em> definiert. Von der syntaktischen Einheit <em>Satz</em> ist die
+kommunikative Einheit <em>Äußerung</em> zu unterscheiden.</p>
+<p>Andere Themen im Verlauf der Einführung in die deutsche Syntax sind
+<em>syntaktische Elemente, syntaktische Mittel und Verfahren zur Ermittlung
+syntaktischer Einheiten</em> wie etwa der Satztypen, Satzglieder und
+Attribute.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
 
-<div id="refs" class="references csl-bib-body hanging-indent">
-<div class="csl-entry">
-Xie, Yihui. 2015. <em>Dynamic Documents with <span>R</span> and Knitr</em>. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. <a href="http://yihui.name/knitr/">http://yihui.name/knitr/</a>.
 </div>
-</div>
-</div>
-
-
-
-
-
-
 <h3>References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-xie2015" class="csl-entry">
@@ -163,7 +162,7 @@ Xie, Yihui. 2015. <em>Dynamic Documents with <span>R</span> and Knitr</em>. 2nd 
 <div class="footnotes">
 <hr />
 <ol start="1">
-<li id="fn1"><p>Dieses Buch wurde mit <code>Bookdown</code> <span class="citation">(<a href="#ref-xie2015" role="doc-biblioref">Xie 2015</a>)</span> verfasst.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn1"><p>Dieses Buch wurde mit <code>Bookdown</code> <span class="citation">(<a href="#ref-xie2015" role="doc-biblioref">Xie 2015</a>)</span> verfasst.<a href="index.html#fnref1" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
@@ -172,7 +171,7 @@ Xie, Yihui. 2015. <em>Dynamic Documents with <span>R</span> and Knitr</em>. 2nd 
         </div>
       </div>
 
-
+<a href="gegenstand-und-sinn-der-syntax.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

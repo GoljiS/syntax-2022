@@ -1,5 +1,5 @@
 ---
-title: "Syntax 2022 Introduction Course"
+title: "Syntax 2021/2022"
 author: "Teodor Petrič"
 date: "2021-10-03"
 site: bookdown::bookdown_site
@@ -27,28 +27,31 @@ editor_options:
 
 # Einführung
 
-<img src="pictures/hayiti__wcloud_lemmas.png" width="500" />
+<img src="pictures/Syntax_intro_01.png" width="100%" />
 
-In diesem Einführungskurs machen wir Sie mit quantitativen Methoden zur
-Erfassung von linguistischen Merkmalen in deutschen, englischen und
-slowenischen Texten bekannt.
+In diesem Einführungskurs machen wir Sie mit grundlegenden Methoden zur
+Erfassung von linguistischen, insbesondere aber syntaktischen Merkmalen
+in deutschen und slowenischen Texten bekannt.
 
-Unseren Kurs beginnen wir mit wichtigen Grundlagen für die Verwendung
-der Benutzeroberfläche `RStudio` und die Manipulation von Dateien und
-Datensätzen. Neben einigen `Base-R`-Funktionen lernen wir vor allem, mit
-den Funktionen des Programmbündels `tidyverse` umzugehen.
+Unseren Kurs beginnen wir mit Frage, wozu wir überhaupt über Sprache
+reden und *zu welchem Zweck über Syntax?*
 
-In mehreren Kurseinheiten beschäftigen wir uns mit kleineren Datensätzen
-aus dem Bereich Sprachverwendung und einigen grundlegenden statistischen
-Testmethoden.
+Da sich mehrere Wissenschaften mit Sprache auseinandersetzen, ist es
+sinnvoll, Syntax von anderen wissenschaftlichen Disziplinen abzugrenzen,
+um den *Gegenstand der Syntax* (als Bestandteil der Systemlinguistik)
+besser erkennen zu können.
 
-In einer Kurseinheit vergleichen wir Ermittlungsfunktionen in `R` und
-`Microsoft Excel`, einem beliebten Tabellenprogramm.
+In jeder wissenschaftlichen Disziplin werden grundlegende Einheiten
+definiert. In der Syntax ist der *Satz* die maßgebliche Basiseinheit.
+Wie jede linguistische Einheit, kann man Sätze verschiedentlich
+definieren. Im Rahmen der Einführungsstunde wird ein *prototypischer
+Satz* definiert. Von der syntaktischen Einheit *Satz* ist die
+kommunikative Einheit *Äußerung* zu unterscheiden.
 
-Das Thema mehrerer Kurseinheiten ist die Zerlegung von Texten in
-kleinere Einheiten und ihre Bearbeitung auf verschiedenen linguistischen
-Ebenen: auf phonetischer, graphematischer, morphologischer und
-syntaktischer Ebene.[^index-1]
+Andere Themen im Verlauf der Einführung in die deutsche Syntax sind
+*syntaktische Elemente, syntaktische Mittel und Verfahren zur Ermittlung
+syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
+Attribute.[^index-1]
 
 [^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
 
