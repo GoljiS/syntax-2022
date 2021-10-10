@@ -1,7 +1,7 @@
 ---
 title: "Syntax 2021/2022"
 author: "Teodor Petrič"
-date: "2021-10-03"
+date: "2021-10-10"
 site: bookdown::bookdown_site
 bibliography: [book.bib, packages.bib]
 bibio-style: "apalike"
@@ -13,7 +13,7 @@ cover-image: "pictures/hayiti__wcloud_lemmas.png"
 resources:
 - name: featuredImage
   params:
-    description: "Text linguistics in R"
+    description: "German Syntax in R"
   src: "pictures/hayiti__wcloud_lemmas.png" 
 editor_options:
   markdown:
@@ -54,5 +54,33 @@ syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
 Attribute.[^index-1]
 
 [^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
+
+Hinweise[^index-2]:
+
+[^index-2]: Clipart von <https://www.clipartmax.com/>
+
+::: rmdnote
+Das ist eine Definition (rmdnote).
+:::
+
+::: rmdtip
+Das ist ein Tip oder eine Info (rmdtip).
+:::
+
+::: rmdrobot
+Das ist ein Arbeitsvorschlag (rmdrobot).
+:::
+
+::: rmdrstudio
+Das ist der RStudio Logotyp (rmdrstudio).
+:::
+
+::: rmdwarning
+Das ist eine Warnung (rmdwarning).
+:::
+
+::: rmderror
+Das ist eine Fehlermeldung (rmderror).
+:::
 
 

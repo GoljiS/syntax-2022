@@ -17,7 +17,9 @@ Inhalt 		Absicht
 Äußerung
 Satzförmig	<-->	nicht-satzförmig
 
-*Äußerungen* lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können (Bußmann 21990: 52). Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *Performanz* oder Parole. *Sätze* sind hingegen Einheiten des Sprachsystems und gehören somit auf die Ebene der *Kompetenz* oder Langue. 
+:::rmdnote
+`Äußerungen` lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können (Bußmann 21990: 52). Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *Performanz* oder Parole. `Sätze` sind hingegen Einheiten des Sprachsystems und gehören somit auf die Ebene der *Kompetenz* oder Langue. 
+:::
 
 *Äußerungen* können die Form (d.h. die Struktur, den Aufbau) von Sätzen (z.B. Hauptsätzen) oder satzförmigen Konstruktionen (z.B. Nebensätzen, Infinitivgruppen) haben, oder auch nicht-satzförmig (z.B. als Nominalphrase) auftreten (vgl. Engel 1988: 33).
 

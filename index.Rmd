@@ -13,7 +13,7 @@ cover-image: "pictures/hayiti__wcloud_lemmas.png"
 resources:
 - name: featuredImage
   params:
-    description: "Text linguistics in R"
+    description: "German Syntax in R"
   src: "pictures/hayiti__wcloud_lemmas.png" 
 editor_options:
   markdown:
@@ -63,6 +63,34 @@ syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
 Attribute.[^index-1]
 
 [^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
+
+Hinweise[^index-2]:
+
+[^index-2]: Clipart von <https://www.clipartmax.com/>
+
+::: rmdnote
+Das ist eine Definition (rmdnote).
+:::
+
+::: rmdtip
+Das ist ein Tip oder eine Info (rmdtip).
+:::
+
+::: rmdrobot
+Das ist ein Arbeitsvorschlag (rmdrobot).
+:::
+
+::: rmdrstudio
+Das ist der RStudio Logotyp (rmdrstudio).
+:::
+
+::: rmdwarning
+Das ist eine Warnung (rmdwarning).
+:::
+
+::: rmderror
+Das ist eine Fehlermeldung (rmderror).
+:::
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
