@@ -4,3 +4,4 @@ gegenstand-und-sinn-der-syntax
 prototypischer-satz
 syntaktische-grundbeziehungen
 identifikationsverfahren
+next

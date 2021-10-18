@@ -322,3 +322,69 @@ In (3g) hat das Verb vortragen im Gegensatz zum Verb halten in (3a) volle lexika
 Die beiden folgenden Dependenzdiagramme sollen dies veranschaulichen: In (3a) steht das Nomen Vortrag auf erster Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” beträgt somit 1. In (3g) steht das Verb vortragen (das dieselbe Grundbedeutung hat wie das Nomen Vortrag) auf nullter Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” ist also größer als in (3a) und beträgt 2. Die Präpositionalphrase ist in (3a) nur indirekt abhängig vom regierenden Verb halten, direkt abhängig dagegen vom regierenden Nomen Vortrag, das mit dem Verb vortragen in (3g) stammgleich und von der Grundbedeutung her damit äquivalent ist. Die Präpositionalphrase ist in (3g) nur indirekt abhängig vom regierenden Verb vortragen, direkt abhängig dagegen vom regierenden Nomen Text. Das Nomen Vortrag hat zwar wie das Verb vortragen eine gemeinsame Bedeutungskomponente (“etwas vor einem Auditorium sprachlich vermitteln”), daneben aber auch noch die Bedeutungskomponente "Text". Durch diese zusätzliche Bedeutungskomponente ist es ein ausgezeichneter Kandidat für die Objektstelle des Verbs vortragen. 
 
 
+:::rmdrobot
+1. Was ist eine sprachliche Äußerung?    
+2. Wie haben wir den prototypischen Satz definiert?    
+3. Welches Verhältnis besteht zwischen Äußerungen und Sätzen?    
+4. Welche syntaktischen Mittel können laut Eisenberg unterschieden werden?    
+5. Welche (syntaktischen) Identifikationsverfahren haben wir im Unterricht eingeführt?    
+6. Zeigen Sie an einem oder zwei geeigneten Textbeispielen den Unterschied zwischen kommunikativer Funktion, syntaktischer Funktion und Bedeutung!    
+:::
+
+:::rmdrobot
+Lesen Sie den Text über den Rapper *Capital Bra* (https://www.zdf.de/nachrichten/heute/das-phaenomen-capital-bra-100.html)!
+Sehen Sie sich den Video-Beitrag (mit Untertiteln an)!
+*YouTube*-Video der Sendung *Germania* über *Capital Bra*: https://www.youtube.com/watch?v=7_oNPNvjphs
+
+Beschreiben Sie, welchen Eindruck Sie beim Lesen von der Sprache in den beiden Texten erhalten haben? Können Sie Unterschiede zwischen den beiden Texten erkennen? *Wie* wird gesprochen bzw. geschrieben?
+:::
+
+:::rmdrobot
+Zur computergestützen Textanalyse verwenden wir nun *Voyant Tools*: https://voyant-tools.org/. Adresse des Tutorials: https://voyant-tools.org/docs/#!/guide/tutorial.
+
+Wir "füttern" das Programm mit beiden Texten (*ZDF*-Beitrag, Untertitel zum *YouTube*-Video). Die Daten sollen uns bei unserer stilistischen Analyse behilflich sein.
+
+Wir erhalten mehrere Angaben und Darstellungen von *Voyant Tools*: z.B.    
+1. *Wortwolke* (Cirrus): Welche (inhaltlich relevanten) Wortformen kommen im ZDF-Text am häufigsten vor, welche in den Germania-Untertiteln? Wie erklären Sie sich die Unterschiede? Schauen Sie sich auch die *Trends*-Darstellung an!    
+2. Haben Sie beim Lesen noch *weitere Unterschiede* in der Wortwahl bemerkt, die in den beiden Bilddarstellungen nicht sichtbar sind?    
+3. *Dokumentlänge*: Wie viele *Äußerungen* umfassen die beiden Texte? Welcher ist länger? Kann man den Unterschied mit Hilf der syntaktischen Einheit *Satz* beschreiben?    
+4. *Wortschatzdichte* (lexikalische Diversität): In welchem der beiden Texte werden mehr unterschiedliche Wortformen verwendet? In welchem der beiden werden öfters dieselben Wortformen benutzt?    
+5. *Phrasen*: Welche Wortverbindungen werden in dem einen oder anderen Text wiederholt verwendet?    
+6. *Korrelationen*^["The correlation coefficient is calculated by comparing the relative frequencies of terms (relative to each document for the corpus or relative to each segment of document). A coefficient that approaches 1 indicates that values correlate positively, they rise and fall together. A coefficient that approaches -1 indicates that values correlate negatively, frequencies rise for one term as it drops for the other. Coefficients that approach 0 indicate little correlation, positive or negative." - https://voyant-tools.org/docs/#!/guide/correlations] (Zusammenhänge): Welche Wörter kommen in dem einen oder anderen Text gemeinsam vor (hohe Korrelation + Signifikanz kleiner als 0,05)?    
+:::
+
+<img src="pictures/capital_bra_untertitel.svg" width="100%" /><img src="pictures/capital_bra_zdf.svg" width="100%" />
+
+
+:::rmdrobot
+Versuchen Sie eine stilistische Analyse des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools*!
+
+Video: https://www.youtube.com/watch?v=KS7vWUEeQJE    
+Songtext: https://genius.com/Ngee-normalitat-lyrics    
+:::
+
+
+```
+## Das Phänomen Capital Bra - Erfolgreicher als die Beatles und Abba
+## Datum: 14.04.2019 15:00 Uhr
+## Aus Sibirien in die deutsche Hitparade: Capital Bra gilt als derzeit erfolgreichster Vertreter des Deutschraps. Einst war er provokant, doch längst ist er kommerziell erfolgreich.
+## Es ist ein historischer Moment, ein Stück deutscher Musikgeschichte - daran will zumindest der Hallensprecher gar keinen Zweifel aufkommen lassen. Mehr Nummer-eins-Hits als die Legenden Abba und Beatles habe der Künstler bundesweit eingesammelt, heißt es vor dem Konzert von Deutschlands derzeit wohl erfolgreichstem Rapmusiker in Mannheim. Dann kommt Vladislav Balovatsky alias Capital Bra auf die Bühne und bringt mehr als 2.000 Jugendliche zum Singen und Tanzen. Der Mann mit der Mütze ist ein Phänomen - vom "Wachwechsel im Pop" schreibt bereits das Fachmagazin "Rolling Stone".
+## Junge Fans
+## Für Capital Bra ist Mannheim die erste Station seiner Tournee, die den 24-jährigen Berliner kreuz und quer durch Deutschland führt, außerdem nach Wien und Zürich. Textsicher singen die Besucher an diesem Abend Zeile für Zeile mit, ziehen die Endvokale wie der Sänger auf der Bühne: "Weit und breit keine Gegnaaaa, komm wir wechseln das Themaaaa, ich will 22-Zoll-Rädaaaa, und die Sitze aus Ledaaaa". Die Songs ähneln einander, es geht um Aufsteigerträume und dosierte Kritik am Staat sowie um Mädchen, Mode, Maschinen. In rund 80 Minuten spielt Capital Bra seine Hits, darunter "Cherry Lady" und "Neymar".
+##     "Das ist richtig stabil." Kai, ein Fan
+## Den meisten gefällt es. "Das ist richtig stabil", sagt der 17-jährige Kai aus Heidelberg. Und die 15-jährige Jana aus Karlsruhe schwärmt: "Also, ich feiere den." Fast pausenlos filmen sie abwechselnd den Musiker und sich mit dem Smartphone. Ruhelos tanzt Capital Bra, musikalisch unterstützt von einem DJ, auf der Bühne hin und her - im Dresscode der Straßengang: lässige Kleidung und Baseballcap. Auf seine Frage "Was geht ab, Bratans und Bratinas?", wie der Musiker seine Fans nennt, folgen "Capi Capi"-Sprechchöre. Es ist für die meisten der jungen Besucher eine ausgelassene Feier - und draußen wartet der Vater im Auto.
+## Kleinkriminelle Vergangenheit
+## Der in Sibirien geborene und in der Ukraine aufgewachsene Capital Bra steht für viele stellvertretend für den einst provokanten Straßenrap, der den Weg aus prekären Plattenbauten in situierte Vorstadtvillen gefunden hat. Die Musikform sei längst in der Mitte der Gesellschaft angekommen, sagt Marcus Kleiner, Professor für Medien- und Kommunikationswissenschaft an der SRH Hochschule der populären Künste Berlin. Fans seien vor allem 12- bis 25-Jährige.
+## Capital Bra über seine neue Heimat Deutschland
+## Capital Bra wurde in Sibirien geboren, ist in der Ukraine aufgewachsen - und kam mit sieben Jahren nach Deutschland. Wie das für ihn war, hat er bereits vor zwei Jahren den Kollegen von Germania erzählt - einem Format von funk, dem gemeinsamen Jugendangebot von ARD und ZDF. Deutschland sei längst seine Heimat, sagte Capital Bra damals. "Ich bin hier groß geworden, hab hier die Sprache gelernt, meine Freunde sind hier, meine Familie ist hier." Hier geht es zum ganzen Video auf YouTube.
+## "Bra" steht für "Brat", das russische Wort für Bruder. "Brat" heißt auch ein russischer Kultfilm über einen Außenseiter. Der Rapper, der aus der Kälte kam, zog mit sieben Jahren mit seiner Mutter nach Berlin-Hohenschönhausen und wurde durch die Veranstaltung "Rap am Mittwoch" bekannt. Der Vergleich mit Abba und den Beatles hinkt indes - im digitalen Zeitalter entstehen Hitparaden ganz anders als damals.
+## Der Reiz bestehe darin, dass Capital Bra aus seiner kleinkriminellen Vergangenheit und anderen kontroversen Themen aus seinem Leben kein Hehl mache und die Entwicklung vom "Bordstein zur Skyline" möglichst authentisch zu inszenieren versuche, sagt Experte Kleiner. Seinen heranwachsenden Fans vermittele der Musiker die Botschaft: "Jeder kann es schaffen." Und: "Bleib Dir treu." Damit erreiche er das für die Jugend wichtige "Empowerment" (etwa: Selbstbestimmung).
+## Rap in Mittelschicht längst nicht mehr verpönt
+## Dabei entbehrt der Erfolg eines aus Sibirien stammenden Rappers in Deutschland in diesen Tagen nicht einer gewissen Ironie. Erst vor kurzem kontrollierten in Russland Polizei und Geheimdienst Rap-Konzerte und unterbanden sie zum Teil. Rap und andere Formen der Popkultur beruhten auf drei Dingen, kritisierte Kremlchef Wladimir Putin: "Sex, Drogen und Protest." Aber eine offene Konfrontation mit der einflussreichen Subkultur vermeidet Moskaus Machtapparat bisher. Capital Bra schildere in seinen Songs zwar Gewalterfahrung, rufe aber nicht zur Gewalt auf, sagt Kleiner der Deutschen Presse-Agentur. Rap sei schon lange in der Mittelschicht nicht mehr verpönt. "Dort wird er als eine Art Verwilderungsunterhaltung konsumiert - ähnlich dem Stellvertretererlebnis beim Schauen von Thrillern oder Horrorfilmen."
+## Capital Bra habe kein neues Genre geschaffen, sondern sich an ein erfolgreiches Genre erfolgreich angeschlossen, betont Kleiner. Der Musiker vereine auf eine für Fans attraktive Weise Wortspiele sowie den ungefilterten Ausdruck von Gefühlen und Gedanken und dynamischem Beat, meint der 45-jährige Wissenschaftler. "Er hat einen ganz guten Flow." In der renommierten Popakademie in Mannheim ist Rap längst Unterrichtsstoff. Manche sehen den Sprechgesang selbst schon als Pop.
+## Quelle: Wolfgang Jung und Julia Giertz, dpa
+## ZDF heute (https://www.zdf.de/nachrichten/heute/das-phaenomen-capital-bra-100.html, Zugang: 18.10.2021)
+```
+
+
+## next

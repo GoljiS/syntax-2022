@@ -324,3 +324,56 @@ In (3g) hat das Verb vortragen im Gegensatz zum Verb halten in (3a) volle lexika
 Die beiden folgenden Dependenzdiagramme sollen dies veranschaulichen: In (3a) steht das Nomen Vortrag auf erster Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” beträgt somit 1. In (3g) steht das Verb vortragen (das dieselbe Grundbedeutung hat wie das Nomen Vortrag) auf nullter Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe. Die “Abhängigkeitsdistanz” ist also größer als in (3a) und beträgt 2. Die Präpositionalphrase ist in (3a) nur indirekt abhängig vom regierenden Verb halten, direkt abhängig dagegen vom regierenden Nomen Vortrag, das mit dem Verb vortragen in (3g) stammgleich und von der Grundbedeutung her damit äquivalent ist. Die Präpositionalphrase ist in (3g) nur indirekt abhängig vom regierenden Verb vortragen, direkt abhängig dagegen vom regierenden Nomen Text. Das Nomen Vortrag hat zwar wie das Verb vortragen eine gemeinsame Bedeutungskomponente (“etwas vor einem Auditorium sprachlich vermitteln”), daneben aber auch noch die Bedeutungskomponente "Text". Durch diese zusätzliche Bedeutungskomponente ist es ein ausgezeichneter Kandidat für die Objektstelle des Verbs vortragen. 
 
 
+:::rmdrobot
+1. Was ist eine sprachliche Äußerung?    
+2. Wie haben wir den prototypischen Satz definiert?    
+3. Welches Verhältnis besteht zwischen Äußerungen und Sätzen?    
+4. Welche syntaktischen Mittel können laut Eisenberg unterschieden werden?    
+5. Welche (syntaktischen) Identifikationsverfahren haben wir im Unterricht eingeführt?    
+6. Zeigen Sie an einem oder zwei geeigneten Textbeispielen den Unterschied zwischen kommunikativer Funktion, syntaktischer Funktion und Bedeutung!    
+:::
+
+:::rmdrobot
+Lesen Sie den Text über den Rapper *Capital Bra* (https://www.zdf.de/nachrichten/heute/das-phaenomen-capital-bra-100.html)!
+Sehen Sie sich den Video-Beitrag (mit Untertiteln an)!
+*YouTube*-Video der Sendung *Germania* über *Capital Bra*: https://www.youtube.com/watch?v=7_oNPNvjphs
+
+Beschreiben Sie, welchen Eindruck Sie beim Lesen von der Sprache in den beiden Texten erhalten haben? Können Sie Unterschiede zwischen den beiden Texten erkennen? *Wie* wird gesprochen bzw. geschrieben?
+:::
+
+:::rmdrobot
+Zur computergestützen Textanalyse verwenden wir nun *Voyant Tools*: https://voyant-tools.org/. Adresse des Tutorials: https://voyant-tools.org/docs/#!/guide/tutorial.
+
+Wir "füttern" das Programm mit beiden Texten (*ZDF*-Beitrag, Untertitel zum *YouTube*-Video). Die Daten sollen uns bei unserer stilistischen Analyse behilflich sein.
+
+Wir erhalten mehrere Angaben und Darstellungen von *Voyant Tools*: z.B.    
+1. *Wortwolke* (Cirrus): Welche (inhaltlich relevanten) Wortformen kommen im ZDF-Text am häufigsten vor, welche in den Germania-Untertiteln? Wie erklären Sie sich die Unterschiede? Schauen Sie sich auch die *Trends*-Darstellung an!    
+2. Haben Sie beim Lesen noch *weitere Unterschiede* in der Wortwahl bemerkt, die in den beiden Bilddarstellungen nicht sichtbar sind?    
+3. *Dokumentlänge*: Wie viele *Äußerungen* umfassen die beiden Texte? Welcher ist länger? Kann man den Unterschied mit Hilf der syntaktischen Einheit *Satz* beschreiben?    
+4. *Wortschatzdichte* (lexikalische Diversität): In welchem der beiden Texte werden mehr unterschiedliche Wortformen verwendet? In welchem der beiden werden öfters dieselben Wortformen benutzt?    
+5. *Phrasen*: Welche Wortverbindungen werden in dem einen oder anderen Text wiederholt verwendet?    
+6. *Korrelationen*^["The correlation coefficient is calculated by comparing the relative frequencies of terms (relative to each document for the corpus or relative to each segment of document). A coefficient that approaches 1 indicates that values correlate positively, they rise and fall together. A coefficient that approaches -1 indicates that values correlate negatively, frequencies rise for one term as it drops for the other. Coefficients that approach 0 indicate little correlation, positive or negative." - https://voyant-tools.org/docs/#!/guide/correlations] (Zusammenhänge): Welche Wörter kommen in dem einen oder anderen Text gemeinsam vor (hohe Korrelation + Signifikanz kleiner als 0,05)?    
+:::
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics("pictures/capital_bra_untertitel.svg")
+knitr::include_graphics("pictures/capital_bra_zdf.svg")
+```
+
+
+:::rmdrobot
+Versuchen Sie eine stilistische Analyse des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools*!
+
+Video: https://www.youtube.com/watch?v=KS7vWUEeQJE    
+Songtext: https://genius.com/Ngee-normalitat-lyrics    
+:::
+
+```{r echo=FALSE}
+library(readtext)
+capbra_docx <- readtext("data/*.docx", docvarsfrom = "filename", 
+                        dvsep = "_")
+cat(capbra_docx$text[1])
+```
+
+
+## next
