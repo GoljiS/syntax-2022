@@ -127,7 +127,7 @@ Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007.
 
 ![](pictures/NoTimeToDie_spiegel.svg)<!-- -->
 
-Wortwolke: [voyant tools](https://voyant.tools.org)
+Wortwolke: [voyant tools](https://voyant-tools.org)
 :::
 
 
