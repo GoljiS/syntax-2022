@@ -125,6 +125,9 @@ Der Clip, den die US-Sängerin am Donnerstagabend auf ihrem YouTube-Kanal online
 Der Titelsong war bereits im Februar veröffentlicht worden. Ursprünglich sollte der 25. James-Bond-Film im April 2020 in die Kinos kommen. Wegen der Coronakrise wurde der Starttermin zunächst auf den 12. November verschoben. Nun, sechs Wochen vor der geplanten Premiere, wurde auch diese wieder abgesagt.
 Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007. Neben Craig und Seydoux spielen Lashana Lynch und Rami Malek in dem Film von Regisseur Cary Joji Fukunaga mit.   
 
+![](pictures/NoTimeToDie_spiegel.svg)<!-- -->
+
+Wortwolke: [voyant tools](https://voyant.tools.org)
 :::
 
 
