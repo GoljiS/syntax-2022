@@ -1,5 +1,7 @@
 # Satztypologie
 
+## Phrasen und Köpfe
+
 Die meisten Texte bestehen vorzugsweise aus satzförmigen Äußerungen. In diesem Kapitel beschäftigen wir uns daher mit den verschiedenen Form- und Funktionstypen von Sätzen.
 
 Ein prototypischer Satz besteht aus zumindest einem finiten Verb (z.B. *Sprich!*), ist kommunikativ selbständig und macht eine sprachliche Handlung eindeutig (hier: Aufforderung an den Gesprächspartner zum Sprechen). Die meisten Sätze bestehen aus mehr als einem Satzelement. Umgangssprachlich ist oft die Rede davon, dass ein Satz aus Wörtern zusammengesetzt ist. Das ist nicht völlig richtig, was sich am Beispiel des folgenden deutschen Satzes erweist:
@@ -72,11 +74,7 @@ Slowenische Beispielsätze:
 
 Verwendet man lediglich Nominalphrasen, die als Kopf einen Substantiv enthalten, dann können Englisch und Slowenisch als SVO-Sprachen eingeordnet werden. Deutsch wurde aufgrund mehrerer Argumente (z.B. der Rektionsrichtung in Infinitivkonstruktionen wie z.B. *ein Buch lesen* oder der Endstellung des finiten Verbs in Nebensätzen) als SOV-Sprache eingeordnet. Es gibt aber Argumente dagegen (z.B. Hauptsätze, die in Texten am häufigsten vertreten sind, zeigen meist SVO-Abfolgen, solange kein Auxiliarverb auftritt, denn dann erscheint das Hauptverb wiederum nach dem Objekt). Im Dryers Ansatz [Wals](https://wals.info/feature/81A#2/18.0/153.1) wird Deutsch aufgrund der einander widersprechenden Argumente den Mischtypen (im Hauptsatz hauptsächlich SVO, in Nebensätzen SOV) zugeordnet, einer heterogenen Klasse von Sprachen.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-knitr::include_graphics("pictures/Wals_constituent_order.png")
-```
-
-
+<img src="pictures/Wals_constituent_order.png" width="100%" />
 
 
 :::rmdrobot
@@ -105,11 +103,13 @@ Er: "Niemals im Leben nicht! Sie ist Linkshänderin..."
 Song des aktuellen Bond-Films:
 [NoTimeToDie_YouTube](https://youtu.be/BboMpayJomw)
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
-library("vembedr")
-url <- "https://youtu.be/BboMpayJomw"
-embed_url(url)
-# suggest_embed(url)
+
+```{=html}
+<div class="vembedr">
+<div>
+<iframe src="https://www.youtube.com/embed/BboMpayJomw" width="533" height="300" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</div>
 ```
 
 Lesen Sie den folgenden Text und stellen Sie fest, wo satzförmige Äußerungen auftreten, welche satzförmigen Äußerungen einfach bzw. welche komplex sind und welche komplexe Äußerungen nebengeordnete bzw. untergeordnete Sätze enthalten! In welchen Äußerungen und Wie oft kommt das Subjekt als erste Satzkonstituente vor?
@@ -127,3 +127,5 @@ Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007.
 
 :::
 
+
+## next

@@ -17,3 +17,5 @@ akzentuierung
 identifikationsprobleme
 diverses
 satztypologie
+phrasen-und-köpfe
+next
