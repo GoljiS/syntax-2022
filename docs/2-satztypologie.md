@@ -77,6 +77,12 @@ Verwendet man lediglich Nominalphrasen, die als Kopf einen Substantiv enthalten,
 <img src="pictures/Wals_constituent_order.png" width="100%" />
 
 
+## Einfache vs. komplexe Äußerungen
+
+<img src="pictures/aeusserungen_einfache_komplexe.png" width="100%" />
+
+
+
 :::rmdrobot
 Lesen Sie den folgenden Witz und stellen Sie fest, wo satzförmige Äußerungen auftreten, welche satzförmigen Äußerungen einfach bzw. welche komplex sind und welche komplexe Äußerungen nebengeordnete bzw. untergeordnete Sätze enthalten!
 

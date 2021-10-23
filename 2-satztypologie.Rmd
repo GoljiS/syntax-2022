@@ -79,6 +79,14 @@ knitr::include_graphics("pictures/Wals_constituent_order.png")
 ```
 
 
+## Einfache vs. komplexe Äußerungen
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="100%"}
+knitr::include_graphics("pictures/aeusserungen_einfache_komplexe.png")
+```
+
+
+
 :::rmdrobot
 Lesen Sie den folgenden Witz und stellen Sie fest, wo satzförmige Äußerungen auftreten, welche satzförmigen Äußerungen einfach bzw. welche komplex sind und welche komplexe Äußerungen nebengeordnete bzw. untergeordnete Sätze enthalten!
 
