@@ -86,7 +86,7 @@ Verwendet man lediglich Nominalphrasen, die als Kopf einen Substantiv enthalten,
 :::rmdrobot
 Lesen Sie den folgenden Witz und stellen Sie fest, wo satzförmige Äußerungen auftreten, welche satzförmigen Äußerungen einfach bzw. welche komplex sind und welche komplexe Äußerungen nebengeordnete bzw. untergeordnete Sätze enthalten!
 
-*Dialog zwischen Mann und Frau*:
+*Dialog zwischen Mann und Frau*:   
 >Sie: "Sag mal, wenn ich sterben würde, tätest Du wieder heiraten?"   
 Er: "Aber nicht doch."   
 Sie: "Wieso nicht? Gefällt es Dir nicht, verheiratet zu sein?"   
