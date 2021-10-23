@@ -23,6 +23,9 @@ Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit au
 
 *Äußerungen* können die Form (d.h. die Struktur, den Aufbau) von Sätzen (z.B. Hauptsätzen) oder satzförmigen Konstruktionen (z.B. Nebensätzen, Infinitivgruppen) haben, oder auch nicht-satzförmig (z.B. als Nominalphrase) auftreten [@engel2008deutsche: 33].
 
+<img src="pictures/aeusserung_vs_satz.png" width="100%" />
+
+
 ## Prototypischer Satz
 
 Es gibt mehrere hundert Satzdefinitionen, die verschiedene Aspekte eines Satzes hervorheben. So wie bei vielen anderen Begriffen in der Linguistik ist eine allgemein gültige Definition nicht möglich (vgl. den *Wortbegriff*: Was ist ein Wort?)
@@ -31,6 +34,11 @@ Es gibt mehrere hundert Satzdefinitionen, die verschiedene Aspekte eines Satzes 
 - Finites Verb    
 - Eignen sich dazu, Sprechhandlungen eindeutig auszudrücken    
 - Enthält kein unterordnendes Element (z.B. keinen Subjunktor).
+
+<img src="pictures/satzdefinition.png" width="100%" />
+
+
+## Syntax
 
 Die *Syntax* gilt traditionell als Lehre vom Satzbau.
 

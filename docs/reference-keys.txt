@@ -20,3 +20,4 @@ satztypologie
 phrasen-und-köpfe
 next
 einfache-vs.-komplexe-äußerungen
+syntax

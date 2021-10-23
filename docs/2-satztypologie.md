@@ -8,7 +8,7 @@ Ein prototypischer Satz besteht aus zumindest einem finiten Verb (z.B. *Sprich!*
 
 (1) Studentin fährt in Stadt.   
 
-Die Substantive *Studentin* und *Stadt* sind im Satz nicht syntaxfähig. Es fehlen grammatische Bindemittel, d.h. bestimmte Funktionswörter, die gemeinsam mit autosemantischen Ausdrücken eine semantische und syntaktische Verbindung eingehen, die man Phrasen nennt. Sätze bestehen demnach aus *Phrasen* von semantisch und syntaktisch zusammengehörigen Wörtern, nicht aus einzelnen Wörtern: die Studentin, die Stadt in (2).
+Die Substantive *Studentin* und *Stadt* sind im Satz nicht verwendungsfähig. Es fehlen grammatische Bindemittel, d.h. bestimmte Funktionswörter, die gemeinsam mit autosemantischen Ausdrücken eine semantische und syntaktische Verbindung eingehen, die man Phrasen nennt. Sätze bestehen demnach aus *Phrasen* von semantisch und syntaktisch zusammengehörigen Wörtern, nicht aus einzelnen Wörtern: die Studentin, die Stadt in (2).
 
 (2) [Die Studentin] fährt in [die Stadt].   
 
@@ -19,6 +19,8 @@ Zwei oder mehrere Phrasen können zusammengesetzt sein, z.B. die *Präpositional
 In den meisten syntaktischen Phrasen kann ein Element als *Kopf* oder Gliedkern identifiziert werden. Eine syntaktische erbt ihre Eigenschaften vom Kopf der Phrase, z.B. in der Phrase *die Stadt* gibt das Substantiv oder Nomen *Stadt* seine Eigenschaften an seine Begleiter (z.B. Artikel, Adjektiv) weiter. Deshalb bezeichnet man eine solche Phrase als *Nominalphrase*.
 
 Im Beispiel (3) ist dagegen die Präposition der Kopf einer Phrase, denn die Präposition *in* regiert (hier in Zusammenarbeit mit dem Hauptverb *fahren*) den Kasus der Nominalphrase *die Stadt*. 
+
+<img src="pictures/phrasenprinzip.png" width="100%" />
 
 :::rmdnote
 **`Phrasenprinzip`**
@@ -54,6 +56,8 @@ In den folgenden englischen, deutschen und slowenischen Beispielen stellen die P
 
 Die meisten der untersuchten Sprachen im Korpus von Dryer [Wals](https://wals.info/feature/81A#2/18.0/153.1) zeigen entweder die SVO- oder die SOV-Reihenfolge. In den meisten Sprachen der Welt dominiert demnach die Abfolge **Subjekt vor Objekt**. Das hängt damit zusammen, dass eine handelnde Person häufig als Satzsubjekt ausgedrückt wird, während konkrete oder abstrakte Gegenstände, die von der Handlung betroffen sind oder erzeugt werden, als (direktes) Objekt ausgedrückt werden. Das entspricht auch der *anthropozentrischen Sichtweise* des Menschens, wonach der Mensch im Zentrum menschlichen Denkens steht und daher gern als Ausgangspunkt eines Gedankens verwendet wird.
 
+<img src="pictures/kopfposition_de_sl.png" width="100%" />
+
 Deutsche Beispielsätze:   
 (8) Die Studentin *trink-t* am liebsten Bohnenkaffee.   
 (9) Die Studentin *ha-t* am liebsten Bohnenkaffee ge*trunk*en.   
@@ -79,8 +83,11 @@ Verwendet man lediglich Nominalphrasen, die als Kopf einen Substantiv enthalten,
 
 ## Einfache vs. komplexe Äußerungen
 
-<img src="pictures/aeusserungen_einfache_komplexe.png" width="100%" />
+*Satzförmige Äußerungen* können aus einem oder mehreren Sätzen zusammengesetzt sein. Eine *einfache Äußerung* enthält ein Prädikat, dass aus einem oder mehreren Verbformen bestehen kann (ein- oder mehrteiliges Prädikat). Im Prädikat wird mit Hilfe eines einzelnen Verbs oder durch das Zusammenwirken mehrerer Verbformen eine Handlung, ein Vorgang oder ein Zustand ausgedrückt. Außer dem Prädikat kann eine einfache satzförmige Äußerung noch weitere Satzkonstituenten enthalten (z.B. ein Subjekt oder ein Objekt). 
 
+*Komplexe Äußerungen* enthalten zwei oder mehrere miteinander verknüpfte Sätze. Jeder Satz verfügt über ein Prädikat, das ein - oder mehrteilig sein kann. Sätze in komplexen Äußerungen können einander nebengeordnet oder ober- bzw. untergeordnet sein. Nebengeordnete Sätze in einer komplexen Äußerung sind prinzipiell kommunikativ selbständig, daher kann man sie (a) voneinander trennen (z.B. durch Pause bzw. Punkt) oder (b) ihre Reihenfolge verändern (außer wenn die semantischen Beziehungen dies nicht erlauben) oder (c) sie mit nebenordneten Konjunktionswörtern wie z.B. *und, oder* verbinden.^[In vielen deutschen Grammatiken ist statt von *Äußerungen* traditionell von *Sätzen* die Rede. Dann werden *einfache Sätze* von *zusammengesetzten Sätzen* unterschieden. Letztere werden auch als *Ganzsätze* bezeichnet, die nach dieser Redeweise aus mehreren *Teilsätzen* bestehen.]
+
+<img src="pictures/aeusserungen_einfache_komplexe.png" width="100%" />
 
 
 :::rmdrobot
