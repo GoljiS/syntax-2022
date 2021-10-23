@@ -4,4 +4,16 @@ gegenstand-und-sinn-der-syntax
 prototypischer-satz
 syntaktische-grundbeziehungen
 identifikationsverfahren
-next
+verschiebeprobe
+ersatzproben
+kommutationsprobe
+anaphorisierungsprobe
+fragewortprobe
+eliminierungsprobe
+hinzufügungsprobe
+koordinationsprobe
+häufungsprobe
+akzentuierung
+identifikationsprobleme
+diverses
+satztypologie
