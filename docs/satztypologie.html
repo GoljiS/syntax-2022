@@ -24,7 +24,7 @@
 <meta name="author" content="Teodor Petrič" />
 
 
-<meta name="date" content="2021-10-23" />
+<meta name="date" content="2021-10-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -54,9 +54,52 @@
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 <link href="libs/vembedr-0.1.4/css/vembedr.css" rel="stylesheet" />
+<script src="libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
+<link href="libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="libs/datatables-binding-0.19/datatables.js"></script>
+<link href="libs/dt-core-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="libs/dt-core-1.10.20/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="libs/dt-core-1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="libs/jszip-1.10.20/jszip.min.js"></script>
+<script src="libs/pdfmake-1.10.20/pdfmake.js"></script>
+<script src="libs/pdfmake-1.10.20/vfs_fonts.js"></script>
+<link href="libs/dt-ext-buttons-1.10.20/css/buttons.dataTables.min.css" rel="stylesheet" />
+<script src="libs/dt-ext-buttons-1.10.20/js/dataTables.buttons.min.js"></script>
+<script src="libs/dt-ext-buttons-1.10.20/js/buttons.flash.min.js"></script>
+<script src="libs/dt-ext-buttons-1.10.20/js/buttons.html5.min.js"></script>
+<script src="libs/dt-ext-buttons-1.10.20/js/buttons.colVis.min.js"></script>
+<script src="libs/dt-ext-buttons-1.10.20/js/buttons.print.min.js"></script>
+<link href="libs/nouislider-7.0.10/jquery.nouislider.min.css" rel="stylesheet" />
+<script src="libs/nouislider-7.0.10/jquery.nouislider.min.js"></script>
+<link href="libs/selectize-0.12.0/selectize.bootstrap3.css" rel="stylesheet" />
+<script src="libs/selectize-0.12.0/selectize.min.js"></script>
+<link href="libs/crosstalk-1.1.1/css/crosstalk.css" rel="stylesheet" />
+<script src="libs/crosstalk-1.1.1/js/crosstalk.min.js"></script>
 
 
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 <link rel="stylesheet" href="TMwR.css" type="text/css" />
@@ -194,7 +237,7 @@ Die Position des Kopfes hängt vom Sprachtyp ab (SVO, SOV, …).</p>
 <div id="einfache-vs.-komplexe-äußerungen" class="section level2" number="3.2">
 <h2><span class="header-section-number">3.2</span> Einfache vs. komplexe Äußerungen</h2>
 <p><em>Satzförmige Äußerungen</em> können aus einem oder mehreren Sätzen zusammengesetzt sein. Eine <em>einfache Äußerung</em> enthält ein Prädikat, dass aus einem oder mehreren Verbformen bestehen kann (ein- oder mehrteiliges Prädikat). Im Prädikat wird mit Hilfe eines einzelnen Verbs oder durch das Zusammenwirken mehrerer Verbformen eine Handlung, ein Vorgang oder ein Zustand ausgedrückt. Außer dem Prädikat kann eine einfache satzförmige Äußerung noch weitere Satzkonstituenten enthalten (z.B. ein Subjekt oder ein Objekt).</p>
-<p><em>Komplexe Äußerungen</em> enthalten zwei oder mehrere miteinander verknüpfte Sätze. Jeder Satz verfügt über ein Prädikat, das ein - oder mehrteilig sein kann. Sätze in komplexen Äußerungen können einander nebengeordnet oder ober- bzw. untergeordnet sein. Nebengeordnete Sätze in einer komplexen Äußerung sind prinzipiell kommunikativ selbständig, daher kann man sie (a) voneinander trennen (z.B. durch Pause bzw. Punkt) oder (b) ihre Reihenfolge verändern (außer wenn die semantischen Beziehungen dies nicht erlauben) oder (c) sie mit nebenordneten Konjunktionswörtern wie z.B. <em>und, oder</em> verbinden.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p><em>Komplexe Äußerungen</em> enthalten zwei oder mehrere miteinander verknüpfte Sätze. Jeder Satz verfügt über ein Prädikat, das ein - oder mehrteilig sein kann. Sätze in komplexen Äußerungen können einander nebengeordnet oder ober- bzw. untergeordnet sein. Nebengeordnete Sätze in einer komplexen Äußerung sind prinzipiell kommunikativ selbständig, daher kann man sie (a) voneinander trennen (z.B. durch Pause bzw. Punkt) oder (b) ihre Reihenfolge verändern (außer wenn die semantischen Beziehungen dies nicht erlauben) oder (c) sie mit nebenordneten Konjunktionswörtern wie z.B. <em>und, oder</em> verbinden.<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a></p>
 <p><img src="pictures/aeusserungen_einfache_komplexe.png" width="100%" /></p>
 <div class="rmdrobot">
 <p>Lesen Sie den folgenden Witz und stellen Sie fest, wo satzförmige Äußerungen auftreten, welche satzförmigen Äußerungen einfach bzw. welche komplex sind und welche komplexe Äußerungen nebengeordnete bzw. untergeordnete Sätze enthalten!</p>
@@ -237,12 +280,39 @@ Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007.
 <p><img src="pictures/NoTimeToDie_spiegel.svg" /><!-- --></p>
 <p>Wortwolke: <a href="https://voyant-tools.org">voyant tools</a></p>
 </div>
+<p>Tabellen: Rmarkdown (T.P)</p>
+<div id="htmlwidget-196b58d5004814b2e747" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-196b58d5004814b2e747">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"2\" data-max=\"55\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","VERB"],[20,36,17,15,5,40,55,10,2,15,55,19]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-85a3d2624829f7e116a0" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-85a3d2624829f7e116a0">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"4\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2"],["und","doch"],["CCONJ","CCONJ"],[4,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<pre><code>## [1] &quot;Konjunktor:  und&quot;  &quot;Konjunktor:  doch&quot;</code></pre>
+<pre><code>## [1] &quot;Subjunktor:  &quot;</code></pre>
 </div>
 <div id="next" class="section level2" number="3.3">
 <h2><span class="header-section-number">3.3</span> next</h2>
 
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div class="csl-entry">
+Bußmann, Hadumod. 1990. <span>“Lexikon Der Sprachwissenschaft.”</span>
+</div>
+<div class="csl-entry">
+Eisenberg, Peter. 2004. <em>Der Satz Band 2: Grundri<span>ß</span> Der Deutschen Grammatik</em>. Springer.
+</div>
+<div class="csl-entry">
+Engel, Ulrich. 2008. <em>Deutsche Grammatik</em>.
+</div>
+<div class="csl-entry">
+Woellstein-Leisten, Angelika, Axel Heilmann, Peter Stepan, and Sten Winkler. 1997. <em>Deutsche Satzstruktur Grundlage Der Syntaktischen Analyse</em>. Stauffenburg Verlag.
+</div>
+<div class="csl-entry">
+Xie, Yihui. 2015. <em>Dynamic Documents with <span>R</span> and Knitr</em>. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. <a href="http://yihui.name/knitr/">http://yihui.name/knitr/</a>.
 </div>
 </div>
+</div>
+</div>
+
+
+
 
 
 
@@ -251,8 +321,8 @@ Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007.
 
 <div class="footnotes">
 <hr />
-<ol start="1">
-<li id="fn1"><p>In vielen deutschen Grammatiken ist statt von <em>Äußerungen</em> traditionell von <em>Sätzen</em> die Rede. Dann werden <em>einfache Sätze</em> von <em>zusammengesetzten Sätzen</em> unterschieden. Letztere werden auch als <em>Ganzsätze</em> bezeichnet, die nach dieser Redeweise aus mehreren <em>Teilsätzen</em> bestehen.<a href="satztypologie.html#fnref1" class="footnote-back">↩︎</a></p></li>
+<ol start="4">
+<li id="fn4"><p>In vielen deutschen Grammatiken ist statt von <em>Äußerungen</em> traditionell von <em>Sätzen</em> die Rede. Dann werden <em>einfache Sätze</em> von <em>zusammengesetzten Sätzen</em> unterschieden. Letztere werden auch als <em>Ganzsätze</em> bezeichnet, die nach dieser Redeweise aus mehreren <em>Teilsätzen</em> bestehen.<a href="satztypologie.html#fnref4" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
@@ -315,6 +385,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

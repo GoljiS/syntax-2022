@@ -2,6 +2,7 @@ einführung
 gegenstand-und-sinn-der-syntax
 äußerung
 prototypischer-satz
+syntax
 syntaktische-grundbeziehungen
 identifikationsverfahren
 verschiebeprobe
@@ -18,6 +19,5 @@ identifikationsprobleme
 diverses
 satztypologie
 phrasen-und-köpfe
-next
 einfache-vs.-komplexe-äußerungen
-syntax
+next

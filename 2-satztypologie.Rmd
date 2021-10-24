@@ -151,5 +151,92 @@ knitr::include_graphics("pictures/NoTimeToDie_spiegel.svg")
 Wortwolke: [voyant tools](https://voyant-tools.org)
 :::
 
+Tabellen: Rmarkdown (T.P)
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(quanteda)
+library(udpipe)
+
+txt = "Wer sich auf den neuen James-Bond-Film gefreut hat, muss sich noch etwas gedulden: Die Premiere für 'No Time To Die' wurde erneut verschoben. Dieses Mal auf April 2021. Doch für alle Neugierigen gibt es einige Szenen nun vorab zu sehen: Sängerin Billie Eilish hat das Video zum Titelsong des Streifens veröffentlicht. Die 18-jährige Eilish ist darin in Schwarz-Weiß-Optik vor einem Mikrofon zu sehen - im Wechsel mit Szenen aus dem kommenden Bond-Abenteuer. In den meisten Filmausschnitten treten Daniel Craig alias James Bond und Léa Seydoux alias Bonds geliebte Madeleine Swann auf. Regisseur des Musikvideos ist Daniel Kleinmann, der seit 'GoldenEye' (1995) die berühmten Vorspannsequenzen für fast alle James-Bond-Filme gestaltet hat. Das Lied, eine leicht düstere Ballade mit dramatischem Finale im klassischen 007-Sound, hatte die fünffache Grammy-Gewinnerin Eilish zusammen mit ihrem Bruder Finneas geschrieben. Auch der deutsche Filmkomponist Hans Zimmer, der für den orchestralen Soundtrack des Agententhrillers verantwortlich zeichnet, und der frühere Gitarrist der Band The Smiths, Johnny Marr, wirkten an 'No Time To Die' mit. Der Clip, den die US-Sängerin am Donnerstagabend auf ihrem YouTube-Kanal online stellte, hatte nach einer Stunde bereits über 300000 Aufrufe. Mittlerweile wurde das Video mehr als sieben Millionen Mal angesehen. Der Titelsong war bereits im Februar veröffentlicht worden. Ursprünglich sollte der 25. James-Bond-Film im April 2020 in die Kinos kommen. Wegen der Coronakrise wurde der Starttermin zunächst auf den 12. November verschoben. Nun, sechs Wochen vor der geplanten Premiere, wurde auch diese wieder abgesagt. Für Hauptdarsteller Daniel Craig ist es der letzte Einsatz als Geheimagent 007. Neben Craig und Seydoux spielen Lashana Lynch und Rami Malek in dem Film von Regisseur Cary Joji Fukunaga mit."
+
+bond <- corpus(txt)
+
+library(udpipe)
+destfile = "german-gsd-ud-2.5-191206.udpipe"
+
+if(!file.exists(destfile)){
+   sprachmodell <- udpipe_download_model(language = "german")
+   udmodel_de <- udpipe_load_model(sprachmodell$file_model)
+   } else {
+  file_model = destfile
+  udmodel_de <- udpipe_load_model(file_model)
+}
+
+udp <- udpipe_annotate(udmodel_de, 
+                       x = as.character(bond), trace = F)
+udpiped <- as.data.frame(udp)
+
+tabela <- udpiped %>% 
+  group_by(doc_id) %>% 
+  count(upos) %>% 
+  filter(!is.na(upos),
+         upos != "PUNCT")
+
+library(DT)
+tabela %>% 
+  DT::datatable(filter = "top", fillContainer = TRUE, 
+              extensions = 'Buttons', "ColReorder", 
+              options = list(pageLength = 10, 
+                             colReorder = TRUE,
+                             dom = 'Bfrtip',
+    buttons = c('colvis','copy', 'csv', 'excel', 'pdf', 'print')
+  )) %>% 
+  formatStyle("upos",
+  target = 'row',
+  backgroundColor = styleEqual(c(0, 1), c('gray30', 'lightblue')))
+
+
+vezniki <- tabela %>% 
+  filter(upos %in% c("CCONJ", "SCONJ")) %>% 
+  mutate(prozent = n/sum(n)) %>% 
+  pivot_wider(id_cols = upos, 
+              names_from = doc_id, values_from = n:prozent)
+
+connectors = udpiped %>% 
+  mutate(token = str_to_lower(token)) %>% 
+  group_by(token) %>% 
+  filter(!is.na(upos),
+         upos != "PUNCT") %>% 
+  filter(upos %in% c("CCONJ", "SCONJ")) %>% 
+  count(upos, sort = T)
+
+connectors %>% 
+  DT::datatable(filter = "top", fillContainer = TRUE, 
+              extensions = 'Buttons', "ColReorder", 
+              options = list(pageLength = 10, 
+                             colReorder = TRUE,
+                             dom = 'Bfrtip',
+    buttons = c('colvis','copy', 'csv', 'excel', 'pdf', 'print')
+  )) %>% 
+  formatStyle("upos",
+  target = 'row',
+  backgroundColor = styleEqual(c(0, 1), c('gray30', 'lightblue')))
+
+
+cc <- connectors %>% 
+  filter(upos == "CCONJ") %>% 
+  pull(token) %>% 
+  head(50)
+sc <- connectors %>% 
+  filter(upos == "SCONJ") %>% 
+  pull(token) %>% 
+  head(50)
+
+print(paste("Konjunktor: ", cc))
+print(paste("Subjunktor: ", sc))
+```
+
+
 
 ## next
