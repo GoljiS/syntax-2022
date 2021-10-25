@@ -21,3 +21,5 @@ satztypologie
 phrasen-und-köpfe
 einfache-vs.-komplexe-äußerungen
 next
+verbstellungstypen
+stellungsfelder

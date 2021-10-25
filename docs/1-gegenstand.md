@@ -448,17 +448,16 @@ Die *Eliminierungsprobe* unterstützt in diesem Fall das Ergebnis, das die Kommu
 (3a) Die Professorin hält einen Vortrag [über Textlinguistik].
 (3c) \*[Über Textlinguistik] hält die Professorin.
 
-Die Nominalphrase einen Vortrag (samt Präpositionalattribut über Textlinguistik) ist somit eine obligatorische Ergänzung des Verbs.
-Daß die Ergänzung einen Vortrag obligatorisch im Satz mit dem Verb halten vorkommen muß, zeigt die Eliminierungsprobe.
+Die Nominalphrase *einen Vortrag* (samt Präpositionalattribut *über Textlinguistik*) ist somit eine obligatorische Ergänzung des Verbs.
+Daß die Ergänzung *einen Vortrag* obligatorisch im Satz mit dem Verb halten vorkommen muß, zeigt die **Eliminierungsprobe**.
 
-Die semantischen und syntaktischen Verhältnisse in (3) liegen allerdings noch komplizierter, denn bei genauerer Überlegung sieht man, daß das Nomen Vortrag und das Verb halten zusammen das Prädikat des Satzes bilden, d.h.
-semantisch eine Einheit bilden.
-Beide Varianten haben die Grundbedeutung: "etwas vor einem Auditorium sprachlich vermitteln".
-Das kann man nachweisen, indem man beide Ausdrücke durch einen Ausdruck ersetzt, und zwar Vortrag halten durch vortragen.
-Wenn Vortrag und halten nun gemeinsam das Prädikat bilden, könnte man die Präpositionalphrase über Textlinguistik dennoch für eine unmittelbare Konstituente des Satzes halten.
-Dann wäre auch verständlich, warum sich die Präpositionalphrase frei im Satz verschieben läßt.
+Die semantischen und syntaktischen Verhältnisse in (3) liegen allerdings noch komplizierter, denn bei genauerer Überlegung sieht man, daß die Nominalphrase *einen Vortrag* und das Verb *halten* zusammen das Prädikat des Satzes bilden, d.h. semantisch eine Einheit bilden.
+Beide Varianten haben die Grundbedeutung: "*etwas vor einem Auditorium sprachlich vermitteln*".
+Das kann man nachweisen, indem man beide Ausdrücke durch einen Ausdruck ersetzt, und zwar *einen Vortrag halten* durch *vortragen*.
+Wenn *einen Vortrag* und *halten* nun gemeinsam das Prädikat bilden, könnte man die Präpositionalphrase *über Textlinguistik* dennoch für eine unmittelbare Konstituente des Satzes halten.
+Dann wäre auch verständlich, warum sich die Präpositionalphrase frei im Satz verschieben lässt.
 
-Versucht man nun das einfache Verb vortragen in (3) statt des komplexen Ausdrucks einen Vortrag halten einzusetzen, stößt man jedoch auf Schwierigkeiten.
+Versucht man nun das einfache Verb *vortragen* in (3) statt des komplexen Ausdrucks *einen Vortrag halten* einzusetzen, stößt man jedoch auf Schwierigkeiten.
 Die beiden Varianten haben zwar dieselbe Grundbedeutung (4), das einfache Verb ist jedoch nicht in (3) einsetzbar.
 
 (3a) Die Professorin hält einen Vortrag über Textlinguistik.
@@ -466,11 +465,10 @@ Die beiden Varianten haben zwar dieselbe Grundbedeutung (4), das einfache Verb i
 (3e) Die Professorin trägt einen Text vor.
 
 Das einfache Verb ist nicht in (3) einsetzbar, weil es eine andere syntaktische Valenz hat.
-Es fordert nämlich (wie das Verb halten) keine Präpositionalphrase als Objekt (3d), sondern eine Nominalphrase mit einem Nomen im Akkusativ Text (3e).
-Die Äußerung (3a) zeigt im Vergleich mit (3e) auch einen kleinen, aber wichtigen semantischen Unterschied, der parallel zum syntaktischen verläuft: Verwendet man das komplexe Prädikat einen Vortrag halten, dann nennt man in der Präpositionalphrase den Bereich, über den gesprochen wird.
-Verwendet man hingegen das einfache Verb vortragen, dann nennt man im Akkusativkasus den Gegenstand und nicht den Bereich.
-Der Gegenstand in (3e) ist ein Text, d.h.
-eine inhaltlich zusammenhängende Folge von Äußerungen.
+Es fordert nämlich (wie das Verb *halten*) keine Präpositionalphrase als Objekt (3d), sondern eine Nominalphrase mit einem Nomen im Akkusativ *Text* (3e).
+Die Äußerung (3a) zeigt im Vergleich mit (3e) auch einen kleinen, aber wichtigen semantischen Unterschied, der parallel zum syntaktischen verläuft: Verwendet man das komplexe Prädikat *einen Vortrag halten*, dann nennt man in der Präpositionalphrase den Bereich, über den gesprochen wird.
+Verwendet man hingegen das einfache Verb *vortragen*, dann nennt man im Akkusativkasus den Gegenstand und nicht den Bereich.
+Der Gegenstand in (3e) ist ein Text, d.h. eine inhaltlich zusammenhängende Folge von Äußerungen.
 Dieser Text kann schriftlich fixiert sein und damit auch in konkreter Form auf Papier vorliegen.
 Der Bereich ist ein abstrakterer Gegenstand als der Text.
 Er ließe sich allenfalls mit einer Skizze konkretisieren.
@@ -480,41 +478,40 @@ Der Vergleich von (3a) mit (3f) ergibt noch einen weiteren syntaktischen und gle
 (3a) Die Professorin hält einen Vortrag über Textlinguistik.
 (3f) Die Professorin trägt einen Text über Textlinguistik vor.
 
-Das einfache Verb vortragen hat zwar dieselbe Grundbedeutung wie einen Vortrag halten (siehe oben), aber das komplexe Prädikat einen Vortrag halten enthält noch ein weiteres semantisches Merkmal, nämlich das Merkmal Gegenstand.
-Dieses Merkmal wird durch das Nomen Vortrag realisiert.
-Der Vortrag läßt sich ja genau genommen paraphrasieren als "Text, der vorgetragen wird".
+Das einfache Verb *vortragen* hat zwar dieselbe Grundbedeutung wie *einen Vortrag halten* (siehe oben), aber das komplexe Prädikat *einen Vortrag halten* enthält noch ein weiteres semantisches Merkmal, nämlich das Merkmal *Gegenstand*.
+Dieses Merkmal wird durch das Nomen *Vortrag* realisiert.
+Der Vortrag läßt sich ja genau genommen paraphrasieren als "*Text, der vorgetragen wird*".
 Dies bedeutet, daß der Begriff ein Text in das Wort Vortrag hineinverlegt (inkorporiert) worden ist.
 Demnach ist es richtiger, das komplexe Prädikat einen Vortrag halten mit dem komplexen Prädikat einen Text vortragen zu paraphrasieren (3g):
 
 (3a) Die Professorin hält einen Vortrag über Textlinguistik.
 (3g) Die Professorin trägt einen Text über Textlinguistik vor.
 
-Die Äußerung (3a) mit dem Nominalisierungsverbgefüge einen Vortrag halten entpuppt sich damit als verkürzender Ausdruck für das morphologisch komplexe (und außerdem auch trennbare) Verb vortragen und dessen Akkusativobjekt einen Text.
+Die Äußerung (3a) mit dem Nominalisierungsverbgefüge *einen Vortrag halten* entpuppt sich damit als verkürzender Ausdruck für das morphologisch komplexe (und außerdem auch trennbare) Verb *vortragen* und dessen Akkusativobjekt *einen Text*.
 Will der Sprecher lediglich den Bereich nennen, über den die Rede ist, verwendet er das Nominalisierungsverbgefüge.
 Wenn er aber den konkreten Text(gegenstand) nennen will, verwendet er das komplexe Verb vortragen (z.B. ein Gedicht vortragen).
 Die beiden Ausdrücke einen Vortrag über etwas halten und etwas über etwas vortragen sind demnach nur scheinbar völlig bedeutungsgleich, was sich durch ihre unterschiedliche Verwendbarkeit zeigt.
 
-Was hat die Untersuchung von Äußerung (3) nun für die Lösung der Frage gebracht, ob die Präpositionalphrase über Textlinguistik in (3a) eine Konstituente des Satzes ist oder nicht?
+Was hat die Untersuchung von Äußerung (3) nun für die Lösung der Frage gebracht, ob die Präpositionalphrase *über Textlinguistik* in (3a) eine Konstituente des Satzes ist oder nicht?
 Mein Lösungsvorschlag ist folgender:
 
-Berücksichtigt man das Dependenzprinzip (und die damit zusammenhängenden Subkategorisierungsrahmen des Verbs halten und des Nomens Vortrag) ist es angemessener, davon auszugehen, dass die Präpositionalphrase über Textlinguistik semantisch und syntaktisch direkt vom Nomen Vortrag abhängig ist und lediglich aufgrund der besonders engen semantisch-syntaktischen Verbindung zwischen dem Verb halten und Vortrag syntaktisch weder eindeutig als Attribut noch als Satzkonstituente eingeordnet werden kann.
+Berücksichtigt man das **Dependenzprinzip** (und die damit zusammenhängenden Subkategorisierungsrahmen des Verbs *halten* und des Nomens *Vortrag*) ist es angemessener, davon auszugehen, dass die Präpositionalphrase *über Textlinguistik* semantisch und syntaktisch direkt vom Nomen *Vortrag* abhängig ist und lediglich aufgrund der besonders engen semantisch-syntaktischen Verbindung zwischen dem Verb *halten* und *Vortrag* syntaktisch weder eindeutig als Attribut noch als Satzkonstituente eingeordnet werden kann.
 
-In (3a) ist die Präpositionalphrase zwar direkt abhängig vom Nomen Vortrag (und demnach dessen Attribut); da aber einen Vortrag halten eine semantische Einheit bildet und in Satz (3a) als komplexes Prädikat auftritt, scheint es folgerichtig, die vom komplexen Prädikat abhängige Präpositionalphrase auch als Konstituente des Satzes und damit als Satzglied zu behandeln.
+In (3a) ist die Präpositionalphrase zwar direkt abhängig vom Nomen *Vortrag* (und demnach dessen Attribut); da aber *einen Vortrag halten* eine semantische Einheit bildet und in Satz (3a) als komplexes Prädikat auftritt, scheint es folgerichtig, die vom komplexen Prädikat abhängige Präpositionalphrase auch als Konstituente des Satzes und damit als Satzglied zu behandeln.
 Die Präpositionalphrase hat somit Zwitterstatus: gleichzeitig Attribut und Satzglied.
 
-In (3g) hat das Verb vortragen im Gegensatz zum Verb halten in (3a) volle lexikalische Bedeutung und nicht lediglich Funktionsverbcharakter oder Nominalisierungsverbcharakter (d.h. halten hat vor allem eine strukturelle Funktion, die darin besteht, die zweite Stelle im Aussagesatz durch einen Ausdruck mit Finitheitsmerkmalen zu besetzen).
-Die Nominalphrase einen Text mit einem Nomen im Akkusativ ist abhängig von einem Vollverb, als Ergänzung des Verbs einzuordnen (d.h. als eine valenzbedingte Art von Satzglied) und außerdem Konstituente des Satzes, da sie sich im Satz frei verschieben läßt.
-Die Präpositionalphrase über Textlinguistik ist abhängig von einer Konstituente des Satzes, nämlich von dem Akkusativobjekt einen Text und daher lediglich Attribut.
+In (3g) hat das Verb *vortragen* im Gegensatz zum Verb *halten* in (3a) volle lexikalische Bedeutung und nicht lediglich Funktionsverbcharakter oder Nominalisierungsverbcharakter (d.h. *halten* hat vor allem eine strukturelle Funktion, die darin besteht, die zweite Stelle im Aussagesatz durch einen Ausdruck mit Finitheitsmerkmalen zu besetzen).
+Die Nominalphrase *einen Text* mit einem Nomen im Akkusativ ist abhängig von einem Vollverb, als Ergänzung des Verbs einzuordnen (d.h. als eine valenzbedingte Art von Satzglied) und außerdem Konstituente des Satzes, da sie sich im Satz frei verschieben läßt.
+Die Präpositionalphrase *über Textlinguistik* ist abhängig von einer Konstituente des Satzes, nämlich von dem Akkusativobjekt *einen Text* und daher lediglich Attribut.
 Sie ist unmittelbare Konstituente des Akkusativobjekts und nur eine indirekte Konstituente des Satzes.
 
-Die beiden folgenden Dependenzdiagramme sollen dies veranschaulichen: In (3a) steht das Nomen Vortrag auf erster Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe.
+Die beiden folgenden Dependenzdiagramme sollen dies veranschaulichen: In (3a) steht das Nomen *Vortrag* auf erster Abhängigkeitsstufe, die Präpositionalphrase *über Textlinguistik* auf zweiter und dritter Abhängigkeitsstufe.
 Die "Abhängigkeitsdistanz" beträgt somit 1.
-In (3g) steht das Verb vortragen (das dieselbe Grundbedeutung hat wie das Nomen Vortrag) auf nullter Abhängigkeitsstufe, die Präpositionalphrase über Textlinguistik auf zweiter und dritter Abhängigkeitsstufe.
+In (3g) steht das Verb *vortragen* (das dieselbe Grundbedeutung hat wie das Nomen *Vortrag*) auf nullter Abhängigkeitsstufe, die Präpositionalphrase *über Textlinguistik* auf zweiter und dritter Abhängigkeitsstufe.
 Die "Abhängigkeitsdistanz" ist also größer als in (3a) und beträgt 2.
-Die Präpositionalphrase ist in (3a) nur indirekt abhängig vom regierenden Verb halten, direkt abhängig dagegen vom regierenden Nomen Vortrag, das mit dem Verb vortragen in (3g) stammgleich und von der Grundbedeutung her damit äquivalent ist.
-Die Präpositionalphrase ist in (3g) nur indirekt abhängig vom regierenden Verb vortragen, direkt abhängig dagegen vom regierenden Nomen Text.
-Das Nomen Vortrag hat zwar wie das Verb vortragen eine gemeinsame Bedeutungskomponente ("etwas vor einem Auditorium sprachlich vermitteln"), daneben aber auch noch die Bedeutungskomponente "Text".
-Durch diese zusätzliche Bedeutungskomponente ist es ein ausgezeichneter Kandidat für die Objektstelle des Verbs vortragen.
+Die Präpositionalphrase ist in (3a) nur indirekt abhängig vom regierenden Verb *halten*, direkt abhängig dagegen vom regierenden Nomen *Vortrag*, das mit dem Verb *vortragen* in (3g) stammgleich und von der Grundbedeutung her damit äquivalent ist.
+Die Präpositionalphrase ist in (3g) nur indirekt abhängig vom regierenden Verb *vortragen*, direkt abhängig dagegen vom regierenden Nomen *Text*.
+Das Nomen *Vortrag* hat zwar wie das Verb vortragen eine gemeinsame Bedeutungskomponente ("*etwas vor einem Auditorium sprachlich vermitteln*"), daneben aber auch noch die Bedeutungskomponente "*Text*". Durch diese zusätzliche Bedeutungskomponente ist es ein ausgezeichneter Kandidat für die Objektstelle des Verbs *vortragen*.
 
 ::: rmdrobot
 1.  Was ist eine sprachliche Äußerung?\
@@ -532,8 +529,7 @@ Sehen Sie sich den Video-Beitrag (mit Untertiteln an)!
 
 Beschreiben Sie, welchen Eindruck Sie beim Lesen von der Sprache in den beiden Texten erhalten haben?
 Können Sie Unterschiede zwischen den beiden Texten erkennen?
-*Wie* wird gesprochen bzw.
-geschrieben?
+*Wie* wird gesprochen bzw. geschrieben?
 :::
 
 ::: rmdrobot
@@ -568,7 +564,7 @@ In welchem der beiden werden öfters dieselben Wortformen benutzt?\
 <img src="pictures/capital_bra_untertitel.svg" width="100%" /><img src="pictures/capital_bra_zdf.svg" width="100%" />
 
 ::: rmdrobot
-Versuchen Sie eine stilistische Analyse des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools*!
+Versuchen Sie den Sprachstil des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools* zu beschreiben!
 
 Video: <https://www.youtube.com/watch?v=KS7vWUEeQJE>\
 Songtext: <https://genius.com/Ngee-normalitat-lyrics>
@@ -600,13 +596,13 @@ Tabellen: Rmarkdown (T.P.)
 ```
 
 ```{=html}
-<div id="htmlwidget-20e4c4cae91949c585b1" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-20e4c4cae91949c585b1">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-6dbe20cd25555623a797" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-6dbe20cd25555623a797">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```{=html}
-<div id="htmlwidget-927f4d924d998bedb1a2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-927f4d924d998bedb1a2">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-e468cdba6eb376dcf38f" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-e468cdba6eb376dcf38f">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```
