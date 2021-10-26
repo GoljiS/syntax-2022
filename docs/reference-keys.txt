@@ -20,6 +20,8 @@ diverses
 satztypologie
 phrasen-und-köpfe
 einfache-vs.-komplexe-äußerungen
-next
 verbstellungstypen
 stellungsfelder
+text-zdf
+tabelle-wortklassen-rmarkdown-t.p.
+tabelle-konnektoren

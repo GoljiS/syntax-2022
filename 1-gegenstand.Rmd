@@ -572,16 +572,10 @@ knitr::include_graphics("pictures/capital_bra_untertitel.svg")
 knitr::include_graphics("pictures/capital_bra_zdf.svg")
 ```
 
-::: rmdrobot
-Versuchen Sie den Sprachstil des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools* zu beschreiben!
 
-Video: <https://www.youtube.com/watch?v=KS7vWUEeQJE>\
-Songtext: <https://genius.com/Ngee-normalitat-lyrics>
-:::
+**Text (ZDF)**:
 
-Tabellen: Rmarkdown (T.P.)
-
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%"}
 library(readtext)
 library(tidyverse)
 library(quanteda)
@@ -589,10 +583,14 @@ library(udpipe)
 
 capbra_docx <- readtext("data/*.docx", docvarsfrom = "filename", 
                         dvsep = "_")
-cat(capbra_docx$text[1])
-
 capbra <- corpus(capbra_docx$text[1])
+cat(capbra_docx$text[1])
+```
 
+
+**Tabelle: Wortklassen** (`Rmarkdown`, T.P.)
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%"}
 library(udpipe)
 destfile = "german-gsd-ud-2.5-191206.udpipe"
 
@@ -618,16 +616,23 @@ library(DT)
 tabela %>% 
   DT::datatable(filter = "top", fillContainer = TRUE, 
               extensions = 'Buttons', "ColReorder", 
+              # caption = "Tabelle: Wortklassen im Text",
               options = list(pageLength = 10, 
+                             lengthMenu = c(2, 12, 18),
                              colReorder = TRUE,
                              dom = 'Bfrtip',
     buttons = c('colvis','copy', 'csv', 'excel', 'pdf', 'print')
   )) %>% 
   formatStyle("upos",
-  target = 'row',
+  target = 'row', 
   backgroundColor = styleEqual(c(0, 1), c('gray30', 'lightblue')))
 
+```
 
+
+**Tabelle: Konnektoren**
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%"}
 vezniki <- tabela %>% 
   filter(upos %in% c("CCONJ", "SCONJ")) %>% 
   mutate(prozent = n/sum(n)) %>% 
@@ -654,7 +659,11 @@ connectors %>%
   target = 'row',
   backgroundColor = styleEqual(c(0, 1), c('gray30', 'lightblue')))
 
+```
 
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%"}
 cc <- connectors %>% 
   filter(upos == "CCONJ") %>% 
   pull(token) %>% 
@@ -667,5 +676,13 @@ sc <- connectors %>%
 print(paste("Konjunktor: ", cc))
 print(paste("Subjunktor: ", sc))
 ```
+
+
+::: rmdrobot
+Versuchen Sie die sprachlichen Merkmale des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools* zu beschreiben!
+
+Video: <https://www.youtube.com/watch?v=KS7vWUEeQJE>\
+Songtext: <https://genius.com/Ngee-normalitat-lyrics>
+:::
 
 ## Diverses
