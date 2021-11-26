@@ -1,0 +1,269 @@
+---
+title: "Fragesatztypen"
+author: "Teodor Petrič"
+date: "30 10 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**SATZMODUS IM DEUTSCHEN**
+
+**Satzmodusmodell von Altmann (1987)** (vgl. Thurmair 1989: 42ff.)
+
+- Als **Satzmodi**  **oder Satzarten** bezeichnet man feste sprachliche Muster, die aus dem Zusammenwirken formal und funktional bestimmter Faktoren entstehen (s. Thurmair 1989: 46, Tabelle 3) und zum Ausdruck von propositionalen Grundeinstellungen dienen (s. Thurmair 1989: 46, Tabelle 4).
+
+![Shape1](RackMultipart20211030-4-t9h2rz_html_162d305302d97146.gif)
+
+- Ein **Formtyp** konstituiert sich durch mehrere formale Kennzeichen (s. Thurmair 1989: 46, Tabelle 3).
+- Jeder Formtyp ist genau einem **Funktionstyp** zugeordnet (s. Thurmair 1989: 46, Tabelle 4) und dient zum direkten Ausdruck einer abstrakt zu verstehenden grundlegenden Einstellung eines Sprechers zur Proposition (d.h. einer propositionalen Grundeinstellung).
+- Die konkrete **lexikalische Füllung** (z.B. W-Wörter, Modalverben, Abtönungspartikeln) ergibt im Zusammenwirken mit einem **Funktionstyp** einen bestimmten **Illoktionstyp**.
+
+- Der **Illokutionstyp** der Äußerung (Sprechhandlungstyp - zum Ausdruck der Redeabsicht des Sprechers) kann der ausgedrückten propositionalen Grundeinstellung entsprechen, die ja bereits durch den jeweiligen Formtyp (z. B. Aussagesatzform) vorgegeben ist.
+- Die propositionale Grundeinstellung, die durch einen bestimmten Grundtyp zum Ausdruck gebracht wird, kann jedoch **durch zusätzliche einstellungsanzeigende sprachliche Mittel** (vor allem Modalverben, performative Verben, Satzadverbiale, Negationselemente, Abtönungselemente), den weiteren sprachlichen Kontext und die außersprachliche Situation **spezifiziert und modifiziert** werden.
+- Die **Illokution der Äußerung** ist für den Hörer mit Hilfe **interpretativer Strategien** aus den formalen Indikatoren des Funktionstyps, der lexikalischen Füllung des Satzes und dem sprachlichen als auch außersprachlichen Kontext **erschließbar**.
+
+- Die sprachlichen Mittel, die die tatsächliche illokutive Kraft einer Äußerung bestimmen, sind **hierarchisch geordnet** : z. B. kann eine Abtönungspartikel wie ruhig oder mal erst dann in einem Aussagesatz auftreten, wenn dessen propositionale Grundeinstellung bereits durch Modalverben abgewandelt (modifiziert) ist:
+
+(1) Du _kannst_ dich ruhig hinsetzen, ich beiße ja nicht. (ruhig ist Abtönungspartikel)
+
+(2) Du setzt dich ruhig hin, … (ruhig nur als Modaladverb interpretierbar)
+
+Im Deutschen kann man **folgende grundlegende Satzmodi (****Grundtypen****)** unterscheiden:
+
+- Aussagesatz (auch: Deklarativsatz, Konstativsatz),
+- Fragesatz (auch: Interrogativsatz),
+- Imperativsatz (auch: Aufforderungsatz , obwohl meist weiter aufgefasst),
+- Wunschsatz (auch: Desiderativsatz),
+- Ausrufesatz (auch: Exklamativsatz).
+
+Die einzelnen Satzmodi lassen sich nach Form und Funktion im Kontext in mehrere Subtypen gliedern. Besonders zahlreich sind die einzelnen Aufforderungssatz- und Fragesatztypen.
+
+![Shape2](RackMultipart20211030-4-t9h2rz_html_929d9cd6e856a3e8.gif)
+
+![Shape3](RackMultipart20211030-4-t9h2rz_html_176582947a76789b.gif)
+
+**Tabelle 1:**  **Prototypische Merkmale deutscher Fragesätze**** (im Altmannschen Satzmodusmodell)**
+
+(zusammengestellt nach den Angaben in Thurmair 1989: 44, 46, 66-73)
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape5](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape4](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Entscheidungs-fragesatz | + |
+ |
+ | - | + | + | + | (+) | - | - | - | + | (+) | ja, nein, doch, schon, … | Informationsbe-schaffung - SVH |
+| Ergänzungs-fragesatz | - | + |
+ | - | + | + | (-) | + | +VF | - | - | + | (+) | Konstituente des Satzes | Info-Beschaffen: Teil von SVH |
+| Alternativfragesatz, geschlossen | + |
+ |
+ | - | + | + | 1 | 2 | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Alternativfragesatz, offen | + |
+ |
+ | - | + | + | 1+2 | - | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Alternativfr. mit Neg. in Alter. 2 | + |
+ |
+ | - | + | + | 1 | 2 | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Ent.fragen mit Junktor _oder_ | + |
+ |
+ | - | + | + | - | 2 | - | _oder_ | - | + | (+) | ja, nein, beides, … | Informationsbe-schaffung - SVH |
+| Assertiver Fragesatz | - | + |
+ | - | + | + | + | - | - | - | - | + | (+) | Antworterwar-tung: ja, nein… | Vergewisserung, Bestätigung ssuche |
+| W-Versicherungs-fragesatz | - |
+ |
+ | - | + | + | + | - | +VF+MF | - | \* | - | + | Konstituente des Satzes | Kritik, Zweifel, Verwunderung, Unverständnis |
+| Rückfrage T1 | +VG | +VG | +VG | - | + | + | + | - | +VG | - | \* | - | + | Rechtfertigung von Spr. 1 | Kritik, Anzweiflung, … |
+| Rückfrage T2 | - | - | + | - | + | + | + | - | +VG | _ob_ (+VG) | \* | - | + | Antwort von H nicht erwartet | Hinauszögern einer Antwort |
+| Rückfrage T3 | - | - | + | - | + | + | - | + | +VG | _ob_ (+VG) | \* | - | + | Aufforderung zum Antworten | Insistieren auf Fragehandlung |
+|
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+- Im Duden (1995: 592-594) und in Engel (1988: 52-58) werden teilweise andere Termini für den Bezug auf die verschiedenen Fragesatztypen verwendet:
+
+**Tabelle 2:**** Vergleich frage(satz)bezogener Termini in grammatischen Werken**
+
+| Thurmair 1989(Satzmodi) | Duden 1995(Satzarten) | Engel 1988(Sprechakte) |
+| --- | --- | --- |
+| Ergänzungsfragesatz, W- Fragesatz | Ergänzungsfragesatz, Wortfragesatz;(Subtyp Prüfungsfrage) | Sachfrage |
+| Entscheidungsfragesatz,Ja/Nein-Fragesatz | Entscheidungsfragesatz, Satzfrage | Entscheidungsfrage |
+| Alternativfragesatz | Alternativfragesatz | Alternativfrage |
+| Assertiver Fragesatz |
+1. Vergewisserungssatz,
+2. Bestätigungsfragesatz,
+3. Nachfrage
+ | (propositionale) Rückfrage + Kontaktsignal |
+| W-Vergewisserungsfragesatz | Nachfrage | (propositionale) Rückfrage |
+| Rückfrage T1 | Nachfrage | Rückfrage? |
+| Rückfrage T2 | Nachfrage? | Gegenfrage |
+| Rückfrage T3 | Nachfrage (Echofrage) | Rückfrage? |
+| Entscheidungsfragesatz:Subtyp deliberativer Fragesatz | Entscheidungsfragesatz:Subtyp deliberativer Fragesatz |
+ |
+| Entscheidungsfragesatz | Ergänzungsfragesatz:Subtyp Prüfungsfrage |
+ |
+|
+ |
+ | Echo-Fragen: Gegenfragen + Rückfragen |
+
+- **Unterschied zwischen &quot;Fragesatz&quot; und &quot;Frage&quot;** (Aussagesatz und Aussage, usw.): &quot;Fragesatz&quot; bezieht sich auf den Satzmodus eines Satzes und damit auf den Formtyp, &quot;Frage&quot; dagegen auf den Sprechakt (den Illokutionstyp) einer Äußerung (prinzipiell sind verschiedene Formtypen möglich). Entsprechendes gilt für die beiden Ausdrücke &quot;Aussagesatz&quot; und &quot;Aussage&quot;. In Thurmair (1989) und Duden (1995) werden Satzmodi (Satzarten) beschrieben, in Engel (1988) hingegen Sprechakttypen.
+
+**Beispiele aus Thurmair (1989)**
+
+**Alternativfragesätze:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape7](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape6](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Alternativfragesatz, geschlossen | + |
+ |
+ | - | + | + | 1 | 2 | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Alternativfragesatz, offen | + |
+ |
+ | - | + | + | 1+2 | - | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Alternativfr. mit Neg. in Alter. 2 | + |
+ |
+ | - | + | + | 1 | 2 | - | _oder_ | - | + | (+) | Alternative | Info-Beschaffen: Teil von SVH |
+| Ent.fragen mit Junktor _oder_ | + |
+ |
+ | - | + | + | - | 2 | - | _oder_ | - | + | (+) | ja, nein, beides, … | Informationsbe-schaffung - SVH |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape8](RackMultipart20211030-4-t9h2rz_html_515e5c4ae8c1a5b4.gif)
+
+![Shape9](RackMultipart20211030-4-t9h2rz_html_337f72956ab5b0e9.gif) ![Shape10](RackMultipart20211030-4-t9h2rz_html_8b72c6c1bec0fb98.gif)
+
+![Shape11](RackMultipart20211030-4-t9h2rz_html_25ee9cc9bedd6da2.gif)
+
+**Assertive Fragesätze:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape13](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape12](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Assertiver Fragesatz | - | + |
+ | - | + | + | + | - | - | - | - | + | (+) | Antworterwar-tung: ja, nein… | Vergewisserung, Bestätigung wird erwartet |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape14](RackMultipart20211030-4-t9h2rz_html_610e90b0c7efd0ed.gif)
+
+![Shape15](RackMultipart20211030-4-t9h2rz_html_82af63a3edf0f7e7.gif)
+
+**Rückfrage Typ 1:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape17](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape16](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Rückfrage T1 | +VG | +VG | +VG | - | + | + | + | - | +VG | - | \* | - | + | Rechtfertigung von Spr. 1 | Kritik, Anzweiflung, … |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape18](RackMultipart20211030-4-t9h2rz_html_15c98bd867570037.gif)
+
+**Rückfrage Typ 2:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape20](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape19](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Rückfrage T2 | - | - | + | - | + | + | + | - | +VG | _ob_ (+VG) | \* | - | + | Antwort von H nicht erwartet | Hinauszögern einer Antwort |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape21](RackMultipart20211030-4-t9h2rz_html_841687872055206c.gif)
+
+![Shape22](RackMultipart20211030-4-t9h2rz_html_98e9542d98e9656d.gif)
+
+**Rückfrage Typ 3:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Shape24](RackMultipart20211030-4-t9h2rz_html_ef2f273189bfacdf.gif) ![Shape23](RackMultipart20211030-4-t9h2rz_html_413bf6f9a857c610.gif)
+ | V-1 | V-2
+ | V-L | Imp | Ind | Konj | steig.
+ | fall.
+ | W- | JUN / SUBJ | AP | INIT. | RESP. |
+ |
+ |
+| Rückfrage T3 | - | - | + | - | + | + | - | + | +VG | _ob_ (+VG) | \* | - | + | Aufforderung zum Antworten | Insistieren auf Fragehandlung |
+|
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape25](RackMultipart20211030-4-t9h2rz_html_c6f288d0c65750eb.gif)
+
+**W-Vergewisserungsfragesätze:**
+
+| **FRAGESATZTYP** | **VERB-STELLUNG** | **VERB-MORPHOLOGIE** | **INTONATIONS-MUSTER** | **LEXIKAL. ELEMENT OBLIGATOR.** | **TYPISCHE POSITION IN G-SEQUENZ** | **MÖGLICHE ANTWORT** | **FUNKTION IN GESPRÄCHS-SEQUENZ** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| W-Versicherungs-fragesatz | - |
+ |
+ | - | + | + | + | - | +VF+MF | - | \* | - | + | Konstituente des Satzes | Kritik, Zweifel, Verwunderung, Unverständnis |
+| **Legende:** + zutreffend; - nicht zutreffend; (+) bzw. (-) zutreffend bzw. nicht zutreffend, aber nicht charakteristisch; V-1/2/L steht für Erst-, Zweit- bzw. Letztstellung des finiten Verbs; 1 bzw. 2 erste bzw. zweite Alternative; 1+2 beide Alternativen mit gleichem Tonmuster; W- steht für W-Element; JUN steht für Junktor; SUBJ steht für Subjunktor; AP steht für Abtönungspartikel; VG bedeutet Abhängigkeit vom Vorgängerzug; INIT./RESP. initiierender bzw. respondierender Gesprächszug; VF/MF Vorfeld- bzw. Mittelfeldstellung; Spr. / H Sprecher bzw. Hörer; SVH Sachverhalt |
+
+![Shape26](RackMultipart20211030-4-t9h2rz_html_1f4a1b616fc39daa.gif)
+
+![Shape27](RackMultipart20211030-4-t9h2rz_html_b9ae3733a15e838b.gif)
+
+![Shape28](RackMultipart20211030-4-t9h2rz_html_53e98f49fb957fa2.gif)
+
+![Shape29](RackMultipart20211030-4-t9h2rz_html_6c1a99307342155d.gif)
+
+![Shape30](RackMultipart20211030-4-t9h2rz_html_4e22f0a2e324be08.gif)

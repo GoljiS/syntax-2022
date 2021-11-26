@@ -1,0 +1,754 @@
+---
+title: "Satzverbindungen"
+author: "Teodor Petrič"
+date: "30 10 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# KOMPLEXE SATZFÖRMIGE ÄUSSERUNGEN
+
+# („ZUSAMMENGESETZTE SÄTZE&quot;)
+
+Komplexe satzförmige Äußerungen (in vielen Grammatiken oft als „zusammengesetzte Sätze&quot; bezeichnet) entstehen durch die Zusammenfügung mehrerer Grundstrukturen zu einer komplexen Einheit. Die Zusammenfügung erfolgt durch _koordinative_ oder _subordinative_ Verbindung. In den folgenden Abschnitten werden nur **Satzverbindungen** (koordinative Verbindungen) beschrieben, lediglich im Abschnitt 5 wird auch Bezug genommen auf die **Satzgefüge** (subordinative oder subordinierende Verbindungen).
+
+# 1. Koordinative Verbindung
+
+Wird das Prinzip der koordinativen Verbindung auf zwei oder mehrere Hauptsätze angewandt, so entsteht eine **Satzverbindung (auch: Satzreihe).** Das Prinzip der koordinativen Verbindung (Nebenordnung) tritt jedoch auch bei Nebensätzen (NS) und Satzgliedern (SG) auf.
+
+## 1.1. Formen der Koordination in der Satzverbindung
+
+Die beiden Teile der Satzverbindung können asyndetisch oder syndetisch verknüpft sein.
+
+### **1.1.1.Asyndetische Konstruktion**
+
+Bei der asyndetischen Konstruktion fehlt ein formales Verknüpfungszeichen (Konjunktion, Konjunktionaladverb) zwischen den beiden Teilen der Satzverbindung. Trotzdem wird der enge Zusammenhang der beiden Sätze durch die Semantik und durch die Intonation deutlich. Der erste Satz der asyndetischen Konstruktion hat progrediente Intonation.
+
+**Die Lesefähigkeit wird entwickelt, die Sprachbeherrschung wird verbessert. . . . . - . .**
+
+**Sei pünktlich , der Zug wartet nicht!**
+
+### **1.1.2. Syndetische Konstruktion**
+
+Bei der syndetischen Konstruktion sind die beiden Teile der Satzverbindung durch ein **formales Verknüpfungszeichen (Konnektoren)** verbunden,und zwar (a) durch einen **Konjunktor (Junktor)** oder (b) durch ein Konjunktionaladverb. Die Konnektoren leiten den zweiten Satz ein. Im Gegensatz zu den Junktoren sind die **Konjunktionaladverbien** wie Adverbien und andere Satzkonstituenten selbständig im Satz verschiebbar.
+
+**Peter studiert in Leipzig,**  **VVF**  **aber**  **VF** **seine Schwester (aber)**  **LSK**  **studiert**  **MF**  **in Berlin.**
+
+**Peter studiert in Leipzig,**  **VF**  **dagegen**  **LSK**  **studiert**  **MF**  **seine Schwester in Berlin.**
+
+**Peter studiert in Leipzig,**  **VF**  **seine Schwester**  **LSK**  **studiert**  **MF**  **dagegen in Berlin.**
+
+## 1.2. Inhaltliche Beziehungen der Koordination in der Satzverbindung
+
+Die **koordinative Verknüpfung** mehrerer Sätze in einer Äußerung (in vielen Grammatiken ist oft von „Teilsätzen&quot; eines „Satzes&quot; / „Ganzsatzes&quot; die Rede) ist nicht nur eine Funktion der Konjunktionen, sondern das Resultat des **Zusammenwirkens mehrerer Faktoren** :
+
+- der semantischen Bedeutung der koordinierten Sätze (Konjunkte),
+- der logischen Beziehungen der Konjunktbedeutungen und
+- der operativen Bedeutungen oder Konjunktionen.
+
+Die koordinative Verknüpfung realisiert sich nicht nur durch die aktuelle oder latente Anwesenheit von Konjunktionen, sondern auch durch bestimmte Beziehungen der Konjunkte. Dadurch werden mehrere Arten der Satzverbindung unterscheidbar. Helbig &amp; Buscha unterscheiden die unten folgenden **semantischen Arten von Satzverbindungen**.
+
+## 1.2.1.Kopulative Satzverbindung (+)
+
+Die beiden Hauptsätze werden nur aneinandergereiht, ohne dass eine logische Verbindung zwischen ihnen hergestellt wird. Das kopulative (oder **additive** ) Verhältnis wird hergestellt durch:
+
+(a) **Konjunktoren** (und, sowohl....als auch, weder.... noch, nicht nur..... sondern auch),
+
+(b) **Konjunktionaladverbien** (auch, außerdem, ferner, zudem, überdies, ebenso, ebenfalls, gleichfalls) oder
+
+(c) **asyndetisch**.
+
+**Der Ingenieur war viel im Ausland,**
+
+_ **und** _ **er lernte die Lebensbedingungen in fremden Ländern kennen.**
+
+**Der Ingenieur war viel im Ausland,**
+
+**er lernte die Lebensbedingungen in fremden Ländern kennen.**
+
+## 1.2.2. Disjunktive Satzverbindung (+/-)
+
+Durch den Sachverhalt des zweiten Hauptsatzes wird der Sachverhalt des ersten Hauptsatzes ausgeschlossen. Im Unterschied zur kopulativen Satzverbindung gelten nicht die beiden Konjunkte zugleich, sondern es werden 2 Alternativen ausgedrückt, zwischen denen eine Wahl erfolgen muss. Das **disjunktive (alternative)** Verhältnis wird hergestellt durch:
+
+(a) **Konjunktoren** (oder, entweder... oder ) oder
+
+(b) **Konjunktionaladverbien** (sonst, andernfalls).
+
+**Er**  **ist** _ **entweder** _ **schon zur Arbeit gegangen,** _ **oder** _ **er ist noch zu Hause.**
+
+**Er muß dringend zum Zahnarzt gehen,** _ **sonst** _ **werden seine Zahnschmerzen noch schlimmer.**
+
+## 1.2.3. Adversative Satzverbindung
+
+Wie bei der kopulativen Satzverbindung gelten beide Sachverhalte; aber im Unterschied zu dieser wird der Sachverhalt des zweiten Hauptsatzes dem Sachverhalt des ersten Hauptsatzes entgegengesetzt. Das adversative Verhältnis wird hergestellt durch:
+
+(a) **Konjunktoren** (aber, doch, jedoch, sondern),
+
+(b) **Konjunktionaladverbien** (dagegen, hingegen, indessen, vielmehr) oder
+
+(c) **asyndetisch**.
+
+**Er beherrscht die Theorie seines Faches,** _ **aber** _ **er hat noch wenig praktische Erfahrung.**
+
+**Maria hat die Prüfung bestanden,** _ **aber** _ **ihr Freund hat sie nicht bestanden.**
+
+**Einsichten sind gut, Veränderungen sind besser.**
+
+**Vertrauen ist gut, Kontrolle ist besser.**
+
+## 1.2.4. Restriktive Satzverbindung
+
+Die restriktive Satzverbindung ähnelt der adversativen (s.o.), der zweite Hauptsatz schränkt den Sachverhalt des ersten Hauptsatzes jedoch ein. Das restriktive Verhältnis wird hergestellt durch:
+
+(a) **Konjunktoren** ( aber, doch, allein, jedoch) oder
+
+(b) **Konjunktionaladverbien** (freilich, zwar... (aber), wohl... (aber), nur, indessen).
+
+**Maria hat die Prüfung bestanden,** _ **aber** _ **sie hat eine schlechte Note bekommen.**
+
+**Er hat Thüringen mehrmals besucht;** _ **jedoch** _ **in Eisenach ist er noch nicht gewesen.**
+
+**Er hat zwar Thüringen mehrmals besucht,** _ **aber** _ **in Eisenach ist er noch nicht gewesen.**
+
+## 1.2.5. Kausale Satzverbindung
+
+Der zweite Hauptsatz enthält den **Grund** für den Sachverhalt des ersten Hauptsatzes oder eine **Rechtfertigung** für den Sachverhalt im ersten Hauptsatz. Das kausale Verhältnis wird hergestellt durch:
+
+(a) **Konjunktoren** (denn),
+
+(b) **Konjunktionaladverb** (nämlich) oder
+
+(c) **asyndetisch**.
+
+**Er konnte das Problem nicht lösen,** _ **denn** _ **ihm fehlte die Sachkenntnis.**
+
+**Er kannte das Mädchen ziemlich gut, er begegnete ihr** _ **nämlich** _ **fast jeden Tag im Aufzug.**
+
+**Die Studenten müssen fleißig lernen;**
+
+**nur durch gute Kenntnisse können sie später ihre Anforderungen im Beruf erfüllen.**
+
+Der **Konjunktor** _denn_ und der **Subjunktor** _weil_ sind sich semantisch ähnlich, unterscheiden sich jedoch syntaktisch: _denn_ steht im Vorvorfeld (VVF), _weil_ besetzt die linke Satzklammer (LSK) und löst somit die V-Letzt-Stellung (RSK) des finiten Verbs aus.
+
+In der **Umgangssprache** werden _weil-_Sätze zunehmend mit finitem Verb in LSK-Stellung (V-2-Stellung) und potentieller Sprechpause nach der Konjunktion verwendet (durch Doppelpunkt markierbar).
+
+Allerdings geben _weil_-Sätze mit V-2-Stellung (LSK) gewöhnlich keine Ursache für den Sachverhalt im Hauptsatz an, sondern eher wie _denn_-Sätze eine **Rechtfertigung** oder eine dem Sprecher **plausibel** erscheinende Erklärung für den Sachverhalt im Hauptsatz.
+
+Die Stellung des finiten Verbs (LSK oder RSK) scheint somit ein syntaktisches Zeichen für die unterschiedlichen Bedeutungen von _weil_-Sätzen zu sein: wird eine **Ursache** angegeben, tendiert man eher zur V-Letzt-Stellung des finiten Verbs (RSK), wird dagegen ein kausaler Inhalt wie in _denn_-Sätzen ausgedrückt, tendiert man in der Umgangssprache eher zur V-2-Stellung der finiten Verbform (LSK).
+
+## 1.2.6. Konsekutive Satzverbindung
+
+Der zweite Hauptsatz gibt die Folge des im ersten Hauptsatz genannten Sachverhaltes an. Das konsekutive Verhältnis wird durch:
+
+(a) **Konjunktionaladverbien** ausgedrückt (also, folglich, daher, darum. demnach, deshalb, deswegen, mithin, somit, infolgedessen) oder
+
+(b) bleibt formal unbezeichnet ( **asyndetisch** ).
+
+**Dem Schüler fehlte die Sachkenntnis,** _ **deshalb** _ **konnte er das Problem nicht lösen.**
+
+**Der Schüler konnte das Problem nicht lösen, ihm fehlte die Sachkenntnis.**
+
+Neben konsekutiven Satzverbindungen gibt auch konsekutive Nebensätze. **Konsekutive Nebensätze** werden gewöhnlich durch den Subjunktor _so dass_ eingeleitet (was V-Letzt-Stellung des finiten Verbs auslöst).
+
+Von einem Hauptsatz, eingeleitet durch ein Konjunktionaladverb, unterscheidet sich ein konsekutiver Nebensatz durch seine syntaktische (und intonatorische) **Unselbständigkeit** : ein konsekutiver Hauptsatz kann ohne Folgen für die grammatische Richtigkeit des Satzes isoliert verwendet werden, ein konsekutiver Nebensatz dagegen nicht.
+
+Ein weiterer Unterschied ist die **Nicht-Verschiebbarkeit** des konsekutiven Nebensatzes: asyndetisch verknüpfte konsekutive Satzverbindungen erlauben es, die Reihenfolge der Hauptsätze zu verändern, konsekutive Nebensätze müssen dagegen dem Hauptsatz folgen.
+
+Konsekutive Nebensätze erweisen sich aufgrund der Ersatzprobe als **Satzglieder** (durch den Subjunktor _so dass_ eingeleitete) oder **Attribute** (z.B. der Subjunktor _dass_ bezieht sich auf ein Bezugselement im übergeordneten Satz, meist auf das unflektierbare Adverb _so_).
+
+**Dem Jungen fehlte die Mutter so sehr, dass er aus dem Feriencamp ausriss.**
+
+## 1.2.7. Konzessive Satzverbindung
+
+Der zweite Hauptsatz gibt eine Folge an, die im Gegensatz zu der im ersten Hauptsatz genannten Voraussetzung steht: **unerwartete Folge / Konsequenz**. Deshalb schließt das konzessive Verhältnis ein kausales Verhältnis (von Grund und Folge) und ein adversatives Verhältnis (des Gegensatzes von Grund und Folge) ein. Die konzessive Satzverbindung wird signalisiert durch:
+
+(a) **Konjunktionaladverbien** (trotzdem, gleichwohl, nichtsdestoweniger, dessenungeachtet), (b) **zweiteilig** durch das **Konjunktionaladverb** _zwar_ im Mittelfeld des 1. HS und den **Konjunktor** _aber_ im Vorvorfeld des 2. HS, oder
+
+(c) **zweiteilig** durch den Konjunktor _aber_ im Vorvorfeld des 2. HS und fakultatives **Konjunktionaladverb** _trotzdem_ im Mittelfeld des 2.HS:
+
+**Es regnete in Strömen;** _ **trotzdem** _ **gingen wir spazieren.**
+
+**Es regnete** _ **zwar** _ **in Strömen,** _ **aber** _ **wir gingen (**_ **trotzdem** _**) spazieren****.**
+
+**Ich habe ihn zu meiner Geburtstags-Party eingeladen,** _ **aber** _ **er ist** _ **dennoch** _ **nicht gekommen.**
+
+Im Deutschen gibt es relativ viele Möglichkeiten, ein konzessives Verhältnis auszudrücken: die Ausdrucksmöglichkeiten reichen von Konjunktionaladverbien über Präpositionalphrasen bis zu Haupt-, Neben- und Infinitivsätzen sowie Partizipialkonstruktionen.
+
+# 2. SATZVERBINDUNG - GRAPHISCHE DARSTELLUNG
+
+## 2.1. Satzverbindungen: Konjunktoren in der Position Null ( Vorvorfeld – VVF !)
+
+| HAUPTSATZ (Kon)junktor HAUPTSATZ
+ |
+| --- |
+| 1 2 3 0 1 2 |
+| ......... Verb....... ...............Konjunktor .......... ................. Verb ...................... |
+
+### **2.1.1.** **Besetzung syntaktischer Positionen nach einem Konjunktor (Grundfolge)**
+
+|
+ | Vorvorfeld (0) | Vorfeld (1) | (LSK: Vfin (2) | Mittelfeld (3) … |
+| --- | --- | --- | --- | --- |
+| Die Eltern fahren nach Italien, | und | die Tante | sorgt | für die Kinder. |
+| --- | --- | --- | --- | --- |
+| Die Eltern fahren nach Italien, | aber | die Kinder | bleiben | zu Hause. |
+| Die Eltern fahren unbeschwert ab, | denn | die Tante | sorgt | für die Kinder. |
+| Entweder fahren die Eltern allein, | oder | sie | nehmen | die Kinder mit. |
+| Die Eltern fahren nicht weg, | sondern | sie | bleiben | bei den Kindern. |
+
+Die **Konjunktoren** _und, aber, denn, oder, sondern_ stehen im **Vorvorfeld** ( **VVF** ). Sie sind nämlich keine Satzglieder (Kriterien: nicht verschiebbar, nur eingeschränkt ersetzbar) und besetzen keine syntaktische Position im Satz, sondern eine Position vor einem Satz.
+
+Nach dem Konjunktor im VVF folgt in einem Aussagesatz irgendein Satzglied (Subjekt, Objekt oder Adverbialbestimmung) in der Vorfeld-Position („1. Stelle im Satz&quot;) und das konjugierte Verb (finite Verbform: Vfin) in der linken Satzklammer (LSK oder Kopf C0 der Komplementiererphrase: „2. Stelle im Satz&quot;).
+
+### **2.1.2.** **Besetzung der syntaktischen Positionen nach Konjunktor (bei Umstellung)**
+
+|
+ | Vorvorfeld(0) | Vorfeld(1) | LSK: Vfin(2) | Mittelfeld(3 + …) | RSK: Vinfin(n-1) |
+| --- | --- | --- | --- | --- | --- |
+| Ich habe heute die Prüfung bestanden, | und | morgen | bekomme | ich das Zeugnis |
+ |
+| --- | --- | --- | --- | --- | --- |
+| Ich habe das Zeugnis abgeholt, | aber | leider | war | mein Name falsch | geschrieben |
+| Ich habe das Zeugnis zurück - gegeben, | denn | so | ist | es nicht brauchbar |
+ |
+| Entweder hat sich die Sekretärin verschieben, | oder | in meinem Pass | steht | der Name falsch |
+ |
+| Heute Abend kann ich nichts mehr tun, | sondern | erst morgen | kann | ich etwas | unternehmen |
+
+Nach_und, aber, oder, denn, sondern_ kann, wie in jedem konstativen Hauptsatz (Aussagesatz), auch eine Umstellung erfolgen: statt des Subjekts steht ein anderes Satzglied im Vorfeld (1), darauf folgt das konjugierte Verb (= Vfin) in LSK (2) und dann erst das Subjekt (in der Form eines Substantivs oder Pronomens) im Mittelfeld meist die erste Position des Mittelfeldes).
+
+### **2.1.3.** **Syntaktische Positionen nach Konjunktor (Umstellung bei Pronomen)**
+
+|
+ | Vorvorfeld(0) | Vorfeld(1) | LSK: Vfin(2) | Mittelfeld(3) | Mittelfeld(4) |
+| --- | --- | --- | --- | --- | --- |
+|
+ |
+ | Situierende Angabe als Thema |
+ | Akkusativerg.Unbetontes (thematisches) Pronomen | Subjekt(definite Nominalphrase als Rhema) |
+| Er hatte gut geschlafen, | und | **am Morgen** | weckten | ihn | die Vögel |
+| Er wollte aus dem Zug springen, | aber | **im letzten Augenblick** | packte | ihn | der Schaffner. |
+
+Wenn ein unbetontes (thematisches) Pronomen vorkommt, steht es gewöhnlich direkt hinter dem konjugierten Verb (= Vfin). Das Subjekt oder ein anderes Satzglied erscheint dann erst in der darauf folgenden Position im Mittelfeld (4).
+
+### **2.1.4.**  **Auslassung des Subjekts nach** _ **und** _ **in zusammengezogenen Sätzen**
+
+|
+ | Vorvorfeld(0) | Vorfeld(1) | LSK: Vfin(2) | Mittelfeld(3+) | RSK: Vinfin(n-1) |
+| --- | --- | --- | --- | --- | --- |
+| Ich ließ ihn stehen, | und | ich | rannte |
+ | davon. |
+| Ich ließ ihn stehen | und |
+ | rannte |
+ | davon. |
+| Der Verkäufer irrte sich | und | er | schrieb | eine zu hohe Rechnung | aus.
+ |
+| Der Verkäufer irrte sich | und |
+ | schrieb | eine zu hohe Rechnung | aus.
+ |
+
+1. Wenn zwei Hauptsätze das gleiche Subjekt haben und mit _und_ verbunden sind, dann ist es stilistisch besser, das Subjekt nach _und_ wegzulassen. Es entsteht ein Hauptsatz mit zwei Satzaussagen, und das Komma fällt weg. Nach Helbig &amp; Buscha (1987) handelt es sich allerdings in solchen Fällen um einen **zusammengezogenen Satz** mit zwei Teilsätzen (Hauptsätzen), von denen einer aufgrund der Auslassung des Subjekts unvollständig ist. Das Kriterium ist der Grad der Unterschiedlichkeit der beiden Teilsätze: unterscheiden sich (wie oben beispielsweise) zwei von drei Satzgliedern, gehen sie von zwei Hauptsätzen aus, unterscheiden sich zwei Teilsätze jedoch nur durch ein Satzglied, wird lediglich ein Hauptsatz angesetzt.
+
+1. Man kann auch mehrere Satzaussagen reihen. Wenn das Subjekt gleich ist, wird es nicht wiederholt:
+
+**Er kam nach Hause, sagte kein Wort, holte eine Flasche Bier aus dem Kühlschrank und setzte sich vor den Fernsehapparat.**
+
+1. Wenn das Subjekt nach _und_ nicht in der Position 1 (= Vorfeld) steht, also bei einer Abweichung von der Grundfolge, muss es wiederholt werden (in den folgenden Beispielen im Mittelfeld, Position 3):
+
+|
+ | Vorvorfeld(0) | Vorfeld(1) | LSK: Vfin(2) | Mittelfeld(3+) | RSK: Vinfin(n-1) |
+| --- | --- | --- | --- | --- | --- |
+| **Er**** i **hörte nur kurz zu | und |** sofort **| war |** er ****i** dagegen |
+ |
+| Heute packe **ich**** i **| und |** morgen **| fahre |** ich ****i** | fort |
+
+Ein Satzglied in Position 1 (dem so genannten _Vorfeld_ des zweiten Hauptsatzes) verhindert somit, dass das finite Verb im zweiten Hauptsatz (Position 2) mit dem gleichen Subjekt wie im ersten Hauptsatz verbunden wird. Steht die Position 1 hingegen leer, kann sie koindiziert werden (d.h. an der Position 1 tritt ein Nullelement _ **e** _ mit dem selben Index _ **i** _ wie das Subjekt im ersten Hauptsatz auf, was soviel bedeutet wie Bezug auf die gleiche Person oder Sache).
+
+|
+ | VVF(0) | VF(1) | LSK: Vfin (2) | MF(3+) | RSK: Vinfin(n-1) |
+| --- | --- | --- | --- | --- | --- |
+| **Er**** i **hörte nur kurz zu | und |** ei** | war | dagegen. |
+ |
+| Heute packe **ich**** i **| und |** ei** | fahre |
+ | fort. |
+
+Die Position nach dem finiten Verb (d.h. die erste Position im Mittelfeld, Position 3) darf in solchen Sätzen von einem weiteren Satzglied (beispielsweise einer Adverbialbestimmung) besetzt werden, jedoch nicht von einem Subjekt. Letzterer Fehler wird gelegentlich von slowenischen Deutschlernern begangen, die die &quot;Inversionsregel&quot; (finites Verb vor Subjekt) in bestimmten Satztypen bereits erlernt haben.
+
+|
+ | VVF(0) | VF(1) | LSK: Vfin (2) | MF(3+) | RSK: Vinfin(n-1) |
+| --- | --- | --- | --- | --- | --- |
+| **Er**** i **hörte nur kurz zu | und |** ei **| war |** \*er ****i** dagegen. |
+ |
+| Heute packe **ich**** i **| und |** ei **| fahre |** \*ichi** | fort. |
+| **Er**** i **hörte nur kurz zu | und |** ei **| war |** sofort** dagegen. |
+ |
+| Heute packte **ich**** i **| und |** ei **| fahre |** morgen** | fort. |
+
+Man kann daher davon ausgehen, dass beide Positionen (Vorfeld = Position 1 und Anfang des Mittelfeldes = Position 3) zwar mit dem Subjekt im ersten Hauptsatz koindiziert werden können (d. h. auf die gleiche Person oder Sache bezogen werden können). Die Relation der Koindizierung kann man sich auch als &quot; **Kopiervorgang**&quot; vorstellen, nämlich als Kopieren des Indices _ **i** _ von einer entsprechenden Position im ersten Hauptsatz (in diesem steht das Subjekt nämlich ebenfalls in Position 1 bzw. Position 3) in die Position 1 und Position 3 im zweiten Hauptsatz (der Kopiervorgang wird in der folgenden Tabelle durch Pfeile angedeutet). Der Konjunktor _und_ ist für &quot;Kopiervorgänge&quot; durchlässig (d.h. er blockiert sie nicht).
+
+![Shape4](RackMultipart20211030-4-15lbwdf_html_4d9c6dc9528de09d.gif) ![Shape3](RackMultipart20211030-4-15lbwdf_html_4462112b6a0c170e.gif) ![Shape1](RackMultipart20211030-4-15lbwdf_html_4d9c6dc9528de09d.gif)
+
+| VF(1) | LSK: Vfin (2) | MF(3+) | RSK: Vinfin | VVF(0) | VF(1) | LSK: Vfin (2) | MF(3+) | RSK: Vinfin |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Er**** i **| hörte | nur kurz | zu | und |** ei **| war |** ei**dagegen. |
+ |
+| H ![Shape9](RackMultipart20211030-4-15lbwdf_html_ee8fab8d208c9447.gif) ![Shape8](RackMultipart20211030-4-15lbwdf_html_7fd3cdc6c2661ff1.gif) ![Shape7](RackMultipart20211030-4-15lbwdf_html_ee8fab8d208c9447.gif) eute | packe | **ich**** i** |
+ | und | **ei** | fahre | **e**** i** | fort. |
+
+1. Nach _aber_ muss man das Subjekt (fast obligatorisch) wiederholen, nach _oder, sondern_ kann oder sollte man das Subjekt wiederholen, auch wenn es gleich ist:
+
+**Er verlor sein Vermögen, aber er war nicht unglücklich.**
+
+**Entweder fehlt ihr ihm, oder laßt ihn in Ruhe.**
+
+**Sie beklagten sich nicht, sondern sie begannen von vorn.**
+
+Folgt die Konjunktion _aber_ dem finiten Verb, muss man das Subjekt allerdings auslassen.
+
+**Er verlor sein Vermögen, war aber nicht unglücklich.**
+
+Die adversativen Konjunktoren unterscheiden sich somit von dem kopulativen Konjunktor _und_ hinsichtlich ihrer Anforderungen für die Besetzung der Subjektstelle: Teilsätze, die durch adversative Konjunktoren verbunden sind, sind syntaktisch gesehen selbständiger oder weniger integriert, während durch _und_ verbundene Teilsätze sich aufgrund ihres additiven Verhältnisses eher syntaktisch zusammenfassen und verkürzen lassen.
+
+1. Nach dem Konjunktor _denn_ muss das Subjekt in jedem Fall stehen:
+
+**Er ist nicht mehr ausgegangen, denn er war müde.**
+
+### **2.1.5. Erläuterungen zu den Konjunktionen &quot;aber, oder, denn, sondern&quot;**
+
+**2.1.5.1.** _ **aber** _
+
+Der Konjunktor _aber_ verbindet **semantisch gegensätzliche** Satzglieder oder Sätze, die Verbindungen _aber erst, aber doch_ können auch eine **Einschränkung** ausdrücken:
+
+**Er bot mir Kekse und Schokolade an, aber keinen Kaffe.**
+
+**Sie kamen endlich an, aber erst nach langem Suchen.**
+
+**Gewiß, er hat sein Ziel erreicht, aber doch nicht ohne unsere Hilfe.**
+
+Der Konjunktor _aber_ muss nicht in der Position Null (= Vorvorfeld) stehen, sondern kann wie ein **Enklitikon** (d. h. einem betonten Satzelement folgen, beispielsweise dem ersten Satzglied oder dem finiten Verb) oder **wie andere thematische Elemente** im linken Teil des Mittelfeldes (d. h. in einer Position zwischen dem finiten und dem infiniten Verb) verwendet werden.
+
+In den Beispielen sehen wir den Konjunktor _aber_ als Enklitikon angehängt an ein betonbares Vorfeld- oder Mittelfeldelement – an das thematische Lokaladverb _hier_, das in den Beispielen in Vorfeld- und Mittelfeldstellung vorkommt und kontrastbetont ist; Negation = Rhema).
+
+|
+ | 0(Vorvorfeld) | 1(Vorfeld+KL) | 2(LSK/Vfin) | 3(KL + Mittelfeld) | 4 (RSK/Vinfin) |
+| --- | --- | --- | --- | --- | --- |
+| Du kannst zu uns kommen | aber | du | kannst | hier nicht | übernachten |
+| Du kannst zu uns kommen |
+ | du | kannst | aber hier nicht | übernachten |
+| Du kannst zu uns kommen |
+ | hier aber | kannst | du nicht | übernachten |
+| Du kannst zu uns kommen |
+ | du | kannst | hier aber nicht | übernachten |
+
+**2.1.5.2.** _ **allein, doch, jedoch** _
+
+Im gleichen Sinn wie **aber** werden **allein, doch,** und **jedoch** gebraucht. Dabei steht **allein** immer in der Position Null (= Vorvorfeld) , **doch** und **jedoch** in der Position Null (= Vorvorfeld) oder 1 (Vorfeld):
+
+**Er versuchte, den Gipfel des Berges zu erreichen, allein er schaffte es nicht.**
+
+**Er beeilte sich sehr, doch er kam trotzdem zu spät.**
+
+**Er beeilte sich sehr, doch kam er trotzdem zu spät.**
+
+**Er wollte gern Maler werden, jedoch er hatte zu wenig Talent.**
+
+**Er wollte gern Maler werden, jedoch hatte er zu wenig Talent.**
+
+**2.1.5.3.** _ **oder, entweder … oder** _
+
+Der Konjunktor _oder_ verbindet **alternative** Satzglieder oder Sätze. Zur Hervorhebung einer Alternative verwendet man die zweiteilige koordinierende Konjunktion _entweder … oder._ Beide Konjunktionen können sowohl Satzglieder, Teile von Satzgliedern oder ganze Sätze verbinden. Der erste Teil der Konjunktion _entweder_ kann in erster Position oder im Satzinnern (im Mittelfeld) erscheinen, während der zweite Teil der Konjunktion _oder_ obligatorisch am Anfang des zweiten Konjunkts steht. Außerdem kann _entweder_ (wie einige der zuvor besprochenen Konjunktoren) in Position Null (= Vorvorfeld) oder in Position 1 (= Vorfeld) stehen.
+
+:
+
+**Du bringst ihr entweder Blumen mit oder Süßigkeiten.**
+
+**Entweder ist er wirklich krank, oder er tut nur so.**
+
+**2.1.5.4.** _ **denn** _
+
+Der Konjunktor _denn_ ist eine kausale Konjunktion. Er leitet Sätze ein, die den Sachverhalt im vorangegangenen Satz begründen oder rechtfertigen:
+
+**Ich konnte nicht mit ihm sprechen, denn er war verreist.**
+
+**2.1.5.5.** _ **sondern** _
+
+Der Konjunktor _sondern_ **berichtigt** eine vorangegangene negative Aussage. Zur Hervorhebung gebraucht man oft _nicht nur ... sondern auch_:
+
+**Ich habe nicht dich gefragt, sondern ihn.**
+
+**Sein Verhalten ist keine Hilfe, sondern es bringt nur zusAtzlichen Arger.**
+
+**Er war nicht nur arm, sondern er war auch krank und einsam.**
+
+## 2.2. Satzverbindungen: Konjunktionswörter in der Position 1 (= Vorfeld)
+
+Außer den Konjunktionen in der Position Null (= Vorvorfeld) stehen alle anderen satzverbindenden Konjunktionswörter in der Position 1 (= Vorfeld). Konjunktionswörter in der Position 1 (= Vorfeld) werden aufgrund ihrer syntaktischen Eigenschaften auch **Konjunktionaladverbien** genannt und leiten einen Hauptsatz ein. Sie geben die Sinnrichtung dieses Satzes an.
+
+### **2.2.1.Satzstellung**
+
+**Konjunktionaladverbien im Vorfeld** = in der Position 1 (= a) und Umstellung (=b)
+
+|
+ | 0(VVF) | 1(Vorfeld) | 2(LSK/Vfin) | 3(Mittelfeld) | 4(RSK/Vinfin) |
+| --- | --- | --- | --- | --- | --- |
+| Er will abreisen, |
+ |
+1. darum
+2. er
+ | hathat | er sein Zimmerdarum sein Zimmer | gekündigt |
+| er hatte sich sehr beeilt, |
+ | a) trotzdemb) er | kamkam | er zu spättrotzdem zu spät |
+ |
+| Du schuldest mir noch 20 Mark |
+ |
+1. folglich
+2. ich
+ | gebegebe | ich dir nur 10 Markdir folglich nur 10 Mark | zurück |
+| Wir mußten ihn anrufen |
+ | a) dannb) er | kamkam | er endlichdann endlich |
+ |
+| Einerseits wollte er mitkommen, |
+ |
+1. andererseits
+2. er
+ | fürchtetefürchtete | er sich vor den Unkostensich anderseits vor den Unkosten |
+ |
+| Er hat bestimmt viel Arbeit, |
+ | a) sonstb) er
+ | wärewäre | ersonst | gekommen |
+
+Zu a) Die Konjunktionaladverbien stehen meistens zwischen den Sätzen in der Position 1 (= Vorfeld), dann folgt das konjugierte Verb in der Position 2 und ein Satzglied im Mittelfeld (Position 3) – in den Beispielen das Subjekt.
+
+Zu b) Die meisten Konjunktionaladverbien in der Position 1 (= Vorfeld) können auch nach den Regeln der Umstellung auch im Mittelfeld (Position 3) stehen, oder im Mittelfeld nach Position 3 (und vor der Position der infiniten Verbform), wenn ein unbetontes (thematisches) Pronomen am Anfang des Mittelfeldes aufzutreten hat.
+
+# 3. DIE FORM DER KONJUNKTIONEN
+
+Nach der Form unterscheidet man **eingliedrige** (einfache) und **mehrgliedrige** (gepaarte) Konjunktionen:
+
+**eingliedrig** : und, auch, denn, als, usw.
+
+**mehrgliedrig** : sowohl - als auch, entweder - oder, nicht nur - sondern auch, zwar - aber, teils - teils, weder - noch, wenn - so, bald - bald, halb - halb, erst - dann, einerseits - anderseits.
+
+Von den (mehrgliedrigen) Konjunktionen sind Fügungen wie &quot;angenommen, daß&quot;, &quot;vorausgesetzt daß&quot;, &quot;gesetzt den Fall, daß&quot; streng zu trennen.
+
+# 4. Die Einteilung der Konjunktionen nach ihrer Verwendung
+
+Je nach dem Gedankenverhältnis, das zwischen den Wörtern oder Sätzen besteht, die von einer Konjunktion verbunden werden, unterscheidet man:
+
+## 4.1. Kopulative (anreihende) Konjunktionen
+
+Nur nebenordnend:
+
+und, auch, wie, sowie, außerdem, zudem, dazu, überdies, desgleichen, dann, ferner, weiter, ja, hernach, zuletzt, endlich, erstens, zweitens, usw. sowohl - als auch (sowohl - als, sowohl - wie auch, sowohl - wie), weder - noch(dicht. nicht - noch), nicht nur - sondern auch, bald - bald, teils - teils, erst - dann, halb - halb, zum einen - zum anderen, einerseits - anderseits)
+
+Ich ...brauche... nicht mit Spekulationen **und** Hypothesen zu arbeiten (Jens).
+
+... Lampen, Lampions, kleine Fahnen **und** Flaggen **sowie** Kerzen und Brennmaterialien (Walser)
+
+## 4.2. Disjunktive (ausschließende) Konjunktionen
+
+Nur nebenordnend:
+
+oder, entweder - oder, sonst, andernfalls **.**
+
+Du schießest **oder** stirbst mit deinem Knaben!
+
+**Entweder** Ihr laßt Euch einen Zahn ausbrechen, **oder** Ihr könnt Euch mit mir auf Leben und
+
+Tod.
+
+## 4.3. Adversative (entgegengesetzte) Konjunktionen
+
+Nebenordnend:
+
+aber, allein, doch, jedoch, allerdings, dennoch, dagegen, hingegen, freilich, indes, indessen, gleichwohl, vielmehr, nur, hinwieder, nichtsdestoweniger, sondern (nach negiertem Satzglied).
+
+Sieben Jungfrauen saßen im Kreis um den Brunnen; in das Haar der Siebenten
+
+**aber**... schien die... Sonne ein Abzeichen der Oberhoheit zu weben.
+
+...ich habe zu fliegen versucht, **doch** nun taumele ich ... zurück
+
+...das war ihm keine Zerstreuung, **sondern** sie andere Seite seiner ... Beschäftigung.
+
+Unterordnend: während.
+
+Sie setzte sich neben die Alte in den Fond des Wagens, **während** die Jungen Mädchen die Rückplätze einnahmen.
+
+... Weil Sie einen Lebensstandard herbeiführten, der den Menschen andernorts in bitterer Erinnerung hafte, **während** er für das Gebiet dieses Kreises etwas kaum erlebtes, ein Novum sozusagen darstelle.
+
+## 4.4. Lokale (örtliche) Konjunktionen
+
+Ausgesprochen lokale Konjunktionen gibt es nicht. Wenn gelegentlich einmal ein Lokaladverb ( da, hier, u. a. ) nebenordnend im konjunktionalen Sinne gebraucht wird, dann ist der adverbiale Gehalt doch noch so stark, daß man sich nicht entschließen kann, es als Konjunktionen anzusprechen. Unterordnend leiten Lokaladverbien entweder einen Relativsatz oder einen indirekten Fragesatz ein.
+
+## 4.5. Temporale (zeitliche) Konjunktionen
+
+Nebenordnend:
+
+Für die gelegentlich nebenordnend im konjunktionalen Sinne gebrauchten Zeitadverbien gilt das gleiche wie für die zuvor genannten Lokaladverbien.
+
+Unterordnend:
+
+Gleichzeitigkeit: während, indem, indessen, solange, sooft, als, wie, wenn, nun.
+
+Über dies Wort mußte Hans Castorp lachen, **während** er ... sich zurückfallen ließ. **Indem** sie Kopf und Oberkörper leicht nach vorn schob, fragte sie den Fremden nach seinem Begehr.
+
+Vorzeitigkeit: nachdem, als, wenn, sobald, seitdem.
+
+**Nachdem** er eine Weile gewartet hatte, ging die Türe auf.
+
+Nachzeitigkeit: bis, bevor, ehe.
+
+**Bevor** ich einen kleinen Hügelstein anheben könnte, hätte Watzek mir längst die Kehle durchgeschnitten.
+
+## 4.6. Modale (die Art und Weise bestimmende) Konjunktionen
+
+### **4.6.1. Modale Konjunktionen im engeren Sinne**
+
+Nur unterordnend: indem.
+
+Er trat zurück, **indem** er erblaßte.
+
+### **4.6.2. Vergleichende Konjunktionen**
+
+Nebenordnend: so - wie. wie, als, also, ebenso, genauso.
+
+Er ist **so** groß **wie** ich. Edelmetalle **wie** Gold und Silber sind selten. Er ist größer **als** ich.
+
+Unterordnend: wie, gleichwie, sowie, so - wie, als, als ob, als wenn, wie wenn.
+
+Er schlief nur kurz, **wie** er es nach Mittag zu tun pflegte. Es war mir zumute, ... **als** läse ich einen Leitartikel der Kölnischen Zeitung.
+
+### **4.6.3. Proportionale Konjunktionen**
+
+Nebenordnend: um so, desto.
+
+Das Leben ist kurz, **um so** sorgfältiger muß man es nützen.
+
+Unterordnend: je ( - um so); je (- desto), je nachdem.
+
+**Je** länger der Rausch anhielt, **desto** leuchtender... schienen ihm die Farben zu werde.
+
+### **4.6.4 Restriktive (einschränkende) Konjunktionen**
+
+Nebenordnend: (in)sofern, (in)soweit.
+
+**Insofern** kann ich dich verstehen.
+
+Unterordnend: inwiefern, wiefern, (in)sofern, (in)soweit, soviel, nur daß.
+
+Die Kunst ist sittlich, **sofern** sie weckt.
+
+### **4.6.5. Den fehlenden oder den stellvertretenden Umstand angebende Konjunktionen**
+
+Nebenordnend: geschweige (denn).
+
+Ich kann kaum gehen, **geschweige** laufen.
+
+Unterordnend: ohne daß, geschweige daß, kaum daß, statt daß ( auch anstatt daß)
+
+Sie hat uns geholfen, **ohne daß** sie es weiß.
+
+### **4.6.6. Den Grad, die Steigerung, das Übermaß angebende Konjunktionen**
+
+Nur nebenordnend: ja, geradezu.
+
+... ein Mann mit einem jungen ja blühenden Gesicht. Er war ein unhöflicher, **geradezu** grober Mensch.
+
+## 4.7. Kausale ( begründende) Konjunktionen
+
+###
+
+
+### **4.7.1. Rein kausale Konjunktionen**
+
+Nebenordnend: denn, nämlich, ja, doch.
+
+&quot;Ich bin der neue Angestellte&quot;, sagte Joseph, denn so hieß er.
+
+Derb Mensch ist nämlich ... ein ewiger Lügner.
+
+Der ist ja dumm.
+
+Unterordnend: weil, da, zumal, nun,
+
+Sie mißten sich melden, weil sie .. in Acht und Bann geworfen waren **.**
+
+### **4.7.2. Konsekutive (die Folge angebende) Konjunktionen**
+
+Nebenordnend: also, folglich, infolgedessen, mithin, somit, sonach, demnach, daher, darum, deswegen, deshalb.
+
+Mit dem Eindruck... war Tobler ausnehmend zufrieden.
+
+Er ließ daher noch ein paar Flaschen bringen.
+
+Unterordnend: daß, so daß, als daß
+
+Sie sangen, daß sie heiser wurden... er hatte schon so viel gewagt, daß er nicht mehr ablassen wollte.
+
+### **4.7.3. Finale, den Zweck, die Absicht angebende) Konjunktionen**
+
+Nebenordnend: dazu, darum.
+
+Dazu ist er gewählt worden.
+
+Unterordnend: damit, daß
+
+... unsere Zärtlichkeit ... auszustellen, damit die Herzen der Gäste schwöllen.
+
+### **4.7.4. Konditionale (den möglichen Grund, die Bedingung angebende ) Konjunktionen**
+
+Nebenordnend: sonst, andernfalls.
+
+Es ist zweckmäßiger, erst dann den Stein aufzustellen, sonst muß er noch einmal gesetzt werden.
+
+Unterordnend: wenn, falls, sofern, wofern.
+
+Wenn ich nicht Alexander wäre, möchte ich Diogenes sein.
+
+### **4.7.5. Konzessive (einräumende ) Konjunktionen**
+
+Nebenordnend: zwar - aber, trotzdem.
+
+Zwar weiß ich viel, doch möchte ich alles wissen.
+
+Unterordnend: obgleich, obwohl, obschon, obzwar, wenngleich, wenn auch, wennschon,
+
+wiewohl, trotzdem, ungeachtet.
+
+Trotzdem wir ... einen Wert empfinden, sind wir zunächst in Verlegenheit, wenn wir diesen angeben sollen.
+
+### **4.7.6. Instrumentale (das Mittel angebende) Konjunktionen**
+
+Nur unterordnend: indem; dadurch, daß, damit, daß.
+
+Und sie alle beschützen mich, indem sie mir alle vertrauen.
+
+## 4.8. Die Konjunktionen &quot;daß&quot; und &quot;ob&quot;
+
+Diese beiden Konjunktionen können nur unterordnend verwendet werden. Sie drücken dann kein bestimmtes Gedankenverhältnis aus wie bisher genannten Konjunktionen, sondern bezeichnen eine rein **grammatische Abhängigkeit** (Einordnung eines Satzes als Nebensatz) und beziehen sich auf eine **pragmatische Klasse** (die Illokution des Nebensatzes) oder die **propositionale Grundeinstellung** (_dass / dass_ Aussage; _ob_ Entscheidungsfrage). Der Subjunktor _dass_ wird in älteren Texten vielfach statt spezifischerer Subjunktoren bzw. Konjunktionswörter verwendet.
+
+# 5. LITERATUR
+
+1. Engel, Ulrich: Deutsche Grammatik, Heidelberg, 1988
+2. Helbig, Buscha: Deutsche Grammatik, Langenscheidt, 1991
+3. Dreyer, Schmidt: Lehr- und Übungsbuch der deutschen Grammatik, München, 1995
+4. Jung, Walter: Deutsche Grammatik, Leipzig 1984
+5. Griesbach, Deutsche Grammatik, München, 1986
+
+Anmerkung 16.1.2008 (T.P.): Meine Darstellung (auf Overhead-Folien vor 1998) und die digitalisierte Darstellung meiner Overhead-Folien von Marjetica Štante (1998) wurde von mir erstmals im Jahr 2000 an mehreren Stellen ergänzt und berichtigt. Die Stellungsproblematik habe ich am 20.2.2000 und am 16.1.2008 überarbeitet und in Übereinstimmung gebracht mit dem Modell der Stellungsfelder (Vorvorfeld, Vorfeld, V(f), Mittelfeld, V(i), Nachfeld, Nachnachfeld). Um die Darstellung verständlicher und übersichtlicher zu machen, habe die Darstellung auch farblich gestaltet. Ansonsten wurden einige Tippfehler berichtigt. Die Rechtschreibung entspricht im Großen und Ganzen den Regeln vor der Reform.
+
+**UNIVERZA V MARIBORU**
+
+**PEDAGOŠKA FAKULTETA**
+
+**GERMANISTIKA**
+
+**SEMINARSKA NALOGA**
+
+# **SATZVERBINDUNGEN**
+
+**MARIBOR, 2.7.1998 Sestavila (1998): Marjetica Štante,**
+
+**angleški - nemški j.**
+
+**Spremembe (2000, 2008): dr. Teodor Petrič**
+
+**MENTOR: dr. Teodor Petrič**
+
+**INHALTSVERZEICHNIS:**
+
+**ZUSAMMENGESETZTE SÄTZE 1**
+
+**1. Koordinative Verbindung 1**
+
+1.1. Formen der Koordination in der Satzverbindung 1
+
+_ **1.1.1.Asyndetische Konstruktion** 1_
+
+_ **1.1.2. Syndetische Konstruktion** 1_
+
+1.2. Inhaltliche Beziehungen der Koordination in der Satzverbindung 2
+
+1.2.1.Kopulative Satzverbindung 2
+
+1.2.2. Disjunktive Satzverbindung 2
+
+1.2.3. Adversative Satzverbindung 3
+
+1.2.4. Restriktive Satzverbindung 3
+
+1.2.5. Kausale Satzverbindung 4
+
+1.2.6. Konsekutive Satzverbindung 5
+
+1.2.7. Konzessive Satzverbindung 5
+
+**2. SATZVERBINDUNG - GRAPHISCHE DARSTELLUNG 6**
+
+2.1. Satzverbindungen: Konjunktionen in der Position Null ( Vorvorfeld – VVF !) 6
+
+_ **2.1.1.** **Besetzung syntaktischer Positionen nach einem Konjunktor (Grundfolge)** 6_
+
+_ **2.1.2.** **Besetzung der syntaktischen Positionen nach Konjunktor (bei Umstellung)** 7_
+
+_ **2.1.3.** **Syntaktische Positionen nach Konjunktor (Umstellung bei Pronomen)** 7_
+
+_ **2.1.4.**  **Auslassung des Subjekts nach und in zusammengezogenen Sätzen** 8_
+
+_ **2.1.5. Erläuterungen zu den Konjunktionen &quot;aber, oder, denn, sondern&quot;** 10_
+
+2.2. Satzverbindungen: Konjunktionswörter in der Position 1 (= Vorfeld) 12
+
+_ **2.2.1.Satzstellung** 12_
+
+**3. DIE FORM DER KONJUNKTIONEN 13**
+
+**4. Die Einteilung der Konjunktionen nach ihrer Verwendung 13**
+
+4.1. Kopulative (anreihende) Konjunktionen 13
+
+4.2. Disjunktive (ausschließende) Konjunktionen 13
+
+4.3. Adversative (entgegengesetzte) Konjunktionen 14
+
+4.4. Lokale (örtliche) Konjunktionen 14
+
+4.5. Temporale (zeitliche) Konjunktionen 14
+
+4.6. Modale (die Art und Weise bestimmende) Konjunktionen 15
+
+**_4.6.1. Modale Konjunktionen im engeren Sinne_** 15
+
+_ **4.6.2. Vergleichende Konjunktionen** 15_
+
+_ **4.6.3. Proportionale Konjunktionen** 15_
+
+_**4.6.4 Restriktive (einschränkende) Konjunktionen** 15_
+
+_ **4.6.5. Den fehlenden oder den stellvertretenden Umstand angebende Konjunktionen** 15_
+
+_ **4.6.6. Den Grad, die Steigerung, das Übermaß angebende Konjunktionen** 15_
+
+4.7. Kausale ( begründende) Konjunktionen 16
+
+_ **4.7.1. Rein kausale Konjunktionen** 16_
+
+_**4.7.2. Konsekutive (die Folge angebende) Konjunktionen** 16_
+
+_**4.7.3. Finale, den Zweck, die Absicht angebende) Konjunktionen** 16_
+
+_**4.7.4. Konditionale (den möglichen Grund, die Bedingung angebende ) Konjunktionen** 16_
+
+_**4.7.5. Konzessive (einräumende ) Konjunktionen** 16_
+
+_**4.7.6. Instrumentale (das Mittel angebende) Konjunktionen** 17_
+
+4.8. Die Konjunktionen &quot;daß&quot; und &quot;ob&quot; 17
+
+**5. LITERATUR 18**
+
+29

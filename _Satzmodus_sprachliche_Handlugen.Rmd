@@ -1,0 +1,245 @@
+---
+title: "Satzmodus und sprachliche Handlungen"
+author: "Syntax-Handbuch & Teodor Petrič"
+date: "30 10 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Beispiele:
+
+1. Sei kein Frosch! Geh zu Fröschl! (Ratschlag)
+
+1. Geh zum Teufel! (Verwünschung)
+
+1. Bleib gesund! (guter Wunsch)
+
+1. Halt&#39;s Maul! (beleidigende Zurückweisung)
+
+1. Ach rutsch mir doch den Buckel runter! (Beleidigung)
+
+1. Mach bitte die Türe zu! (Bitte)
+
+1. Sag mir doch mal, wie du dich fühlst! (Frage?)
+
+1. (zum Auto) Jetzt spring endlich an, du verdammte Karre! (?)
+
+1. A: Darf ich gehen?
+
+B: Geh nur! (Erlaubnis)
+
+1.  Schlag mich doch, du Feigling! Trau dich! (Drohung)
+
+(11) Ich verspreche dir hiermit hoch und hei­lig, daß ich nie mehr in meinem Leben einen Tropfen Alkohol anrühren werde.
+
+(12) Hoffentlich gewinne ich diesmal im Lotto.
+
+(13) Bedauerlicherweise kann ich Ihnen keine bessere Mitteilung machen/muß ...
+
+(14) Α zu B: Ich verspreche dir, daß ich mor­gen komme.
+
+(14a) Α zu B: Ich muss unser Gespräch leider beenden. Kommen Sie! Ich bringe Sie um die Ecke.
+
+B: Oh, wie nett von Ihnen!
+
+A: Ich verspreche Ihnen, Sie schon heute um die Ecke zu bringen.
+
+(15) Wer kauft schon Nitrophoska im Bio­laden?
+
+(16) A: Du kommst doch morgen (, nicht wahr?). (Aussagesatz + Frage-tag)
+
+(17) A: Ich weiß nicht, wann du kommst. (Aussagesatz)
+
+(18) A: Ich wüßte gar zu gerne, wann du kommst. (Aussagesatz)
+
+(19) A: Weißt du schon, wann du kommst? (Entscheidungsfragesatz)
+
+(20) A: Wann weißt du denn, wann du wie­der kommst? (w-Fragesatz)
+
+(21) A: Sag mir doch bitte, wann du wieder kommst! (Imperativsatz)
+
+(22) A: Ach wenn ich nur wüßte, wann du wieder kommst! (wenn-Verb-Letzt-Wunschsatz)
+
+(23) A: Mein Gott, wüßte ich vielleicht gern, wann du wieder kommst! (Verb-Erst-Exklamativsatz)
+
+(24) Du besuchst uns morgen?
+
+(25) (Zwei Gruppen kommen zu einem Kino, vor dem sich eine lange Schlange gebil­det hat.) Gruppe
+
+A: Also wir stellen uns da nicht an. Stellt ihr euch (doch) an! (Impera­tivsatz)
+
+(26) (A beobachtet zwei Personen, die ver­suchen, einen Fahrradschlauch aufzu­pumpen.)
+
+A: Mein Gott! Stellt ihr euch (vielleicht) an! (Exklamativsatz)
+
+(27) Wer rastet, rostet.
+
+(28) Wie schnell hast du (denn) die Maschine gemacht, != Wie hast du (denn) die Ma­schine schnell gemacht?
+
+(29) Wie schnell hast du (doch) die Maschine gemacht! == Wie hast du (doch) die Ma­schine schnell gemacht!
+
+(30) Was für Beine hast du doch/aber auch!
+
+(31) Wie/Wo wohnst du aber auch!
+
+(32) Warum joggst du aber auch (so lange)!
+
+(30a) Daß du aber auch solche/so schöne/so häßliche Beine hast!
+
+(31a) Daß du aber auch in einer so schreck­lichen Gegend/Wohnung wohnst!
+
+(32a) Daß du aber auch so lange joggst!
+
+(33) Man redet, wie eben die Leute reden.
+
+(34) Sie war es, die uns nicht gebührend emp­fangen hatte, obwohl mein Vater doch mit ihrem Mann Schulter an Schulter gegen die Franzosen gekämpft hatte.
+
+(35) Wenn ich halt tausend Mark verdienen tat, also auf die Hand, dann tat sie nim­mer arbeiten müssen.
+
+(36) Ich muß also meinen Vorrat verstecken, damit ihn j a keiner sieht.
+
+(37) Alle mal herhören!
+
+(38) Wozu denn hingehen?
+
+(39) Wäre ich doch ein Königssohn!
+
+Ach daß ich doch ein Königssohn wäre!
+
+Oh wenn ich doch ein Königssohn wäre!
+
+(40) Ich geh (ja) schon. / Geh (ja) schon. (El­lipse eines Aussagesatzes oder Imperativsatz) /
+
+Nun geh (du) schon! (nur Im­perativsatz)
+
+(41) Sag(e) mir keiner, er hätte nichts ge­wußt!
+
+(42) Sei einer so freundlich und hole(e) mir die Kreide! Die Zuordnung wird aber durch die Kombination von Verbform, Verbstel­lung und Subjektspronomen weitge­hend gewährleistet.
+
+(43) Geben wir uns (doch) Illusionen hin! (Adhortativsatz)/Geben wir uns (etwa) Illusionen hin? (Fragesatz)/Geben wir uns (vielleicht) Illusionen hin! (Exkla-mativsatz)
+
+(44) Gebt ihr euch (doch) Illusionen hin! (Imperativsatz)/Gebt ihr euch (etwa) Illusionen hin? (Fragesatz)/Gebt ihr euch (vielleicht) Illusionen hin! (Exkla-mativsatz)
+
+(45) Seid ihr nicht dümmer? (Ihr) Gebt euch (auch noch) Illusionen hin! / Gebt euch (doch) Illusionen hin!
+
+(46) Geben Sie sich (doch bitte) Illusionen hin! (Imperativsatz) /
+
+Geben Sie sich (eigentlich) Illusionen hin? (Fragesatz) /
+
+Mein Gott, geben Sie sich (vielleicht) Illusionen hin! (Exklamativsatz)
+
+(47) (Aber) Läßt du das Buch da? (Verb-Erst)
+
+(48) Er aber ging hinweg und weinte bitter­lich. (Verb-Zweit)
+
+(49) Den neuen großen BMW — hast du den schon gesehen? (Verb-Erst)
+
+(50) (Das) Weiß ich nicht, (das) möcht ich auch gar nicht wissen. (Verb-Zweit-Aus-sagesatz)
+
+(51) Kommt ein Mann in eine Kneipe. Be­stellt zwanzig Bierchen ...
+
+(52) Hängt doch sonst alles Vorausgehende in der Luft!
+
+(53) Die Brigitte, die kann ich schon gar nicht leiden. (Verb-Zweit)
+
+(54) Am Abend bei prasselndem Herdfeuer vor einer Flasche Bier war alles verges­sen. (Verb-Zweit)
+
+(55) ... weil ich schon gesehen habe heute morgen, daß ich viel zu korrigieren habe. (Verb-Letzt)
+
+(56) Wer rastet, rostet, (rastet = Verb-Letzt)/ Wer rastet? (Verb-Zweit)
+
+(57) weil ich sie die Arie habe singen hören wollen. (Verb-Letzt)
+
+(58) Karl hat&#39;s./Hat&#39;s Karl?/\*: ... daß Karl hat&#39;s/... daß es Karl hat.
+
+(59) Lacht er sogar?/Er lacht sogar./\*Er so­gar lacht./... daß er sogar lacht.
+
+(60) Laß das Buch da!/Das Buch laß da! (Verb-Erst-/Verb-Zweit-Imperativsatz)
+
+(61) Hat der vielleicht hingelangt!/Der hat vielleicht hingelangt! (Verb-Erst-/Verb-Zweit-Exklamativsatz)
+
+(62) Wie schön bist du doch!/Wie bist du doch schön!/Wie schön du doch bist! (Verb-Zweit-/Verb-Letzt-Exklamativsatz)
+
+(63) Wer hat das ei η gekauft?/\*Wer hat das eingekauft? (64) Wer das wohl e i η gekauft hat?/\* W e r das wohl eingekauft hat?
+
+(65) Wo findet das statt? Und wann (findet das statt)?/\*Und wann findet das statt?
+
+(66) A: Die Schlacht bei Issos war drei-drei-drei. B: Die Schlacht bei Issos war wann?/ Wann war die Schlacht bei Issos?
+
+(67) Hat der vielleicht hingelangt!/ Der hat vielleicht hingelangt!
+
+(68) Wie hübsch tanzt sie doch!/ Wie hübsch sie doch tanzt!
+
+(69) Daß die so hübsch ist!/ Daß die so hübsch ist!
+
+(70) Wir stellen uns nicht an. Stellt ihr euch (doch) an! (Imperativsatz mit Kontrast­akzent)
+
+(71) Mein Gott! Stellt ihr euch (vielleicht) an! (Verb-Erst-Exklamativsatz mit Ex­klamativakzent)
+
+(72) Die Bayern spielen (auch/doch/eben/ein-fach/halt/ja/schon/sowieso/eh) schlecht.
+
+(73) Der hat (doch/eben ...//aber/vielleicht) hingelangt./! (Verb-Zweit-Aussage- und Verb-Zweit-Exklamativsatz)
+
+(74) Ich verspreche dir hiermit, daß ich dich nie verlassen werde.
+
+(75) Wir holen dich schon ein. Gehen wir doch (eh) immer schneller.
+
+(76) Spielen die Bayern (auch/denn/eigent­lich/etwa/wohl) schlecht?
+
+(77) Gehen wir ins Kino!/? // Gehen Sie ins Kino!/? // Geht ihr ins Kino!/?
+
+(78) Könnten wir uns (doch//denn) treffen!/?
+
+(79) Hat der (aber auch/denn) hingelangt!/?
+
+(80) Ob er wohl noch kommt?
+
+(81) Ob du wohl gleich deinen Finger aus dem Apfelkuchen nimmst?/!
+
+(82) Tropft da (eigentlich/denn/?etwa) ein Wasserhahn, oder regnet es?
+
+(83) Die Bayern spielen schlecht?
+
+(84) Die Bayern spielen doch schlecht, nicht wahr?
+
+(85) Warum hast du das (auch/bloß/denn/ doch/eigentlich/nur/schon/wohl) einge­kauft?
+
+(86) Wann sind Sie geboren? Und wo (sind Sie geboren)?
+
+(87) Wer das (bloß/nur/wohl) eingekauft hat?
+
+(88) Die Schlacht bei Issos war wann?/ Wann war die Schlacht bei Issos?
+
+(89) A: Verlaß sofort den Raum! B: Verlaß den Raum? Wie kommst du dazu, mir zu befehlen?
+
+(90) Geh (du) jetzt (doch/halt/nur/bloß/ja/ eben/einfach/mal/schon) zum Arzt!/Jetzt geh (du) ...!/?Du geh jetzt ...!
+
+(91) Bringe/Bring/?Bringt mir (doch/halt/ nur/ b 1 ο ß /j a /eben/einfach/mal/schon) einer die Kreide!
+
+(92) Gehen wir (\*bloß/doch/eben/einfach/ \* ja/mal/nur/schon) ins Kino!
+
+(93) Seien/Sind wir (doch/eben/einfach/mal/ nur/schon) ehrlich!
+
+(94) Geht (ihr) jetzt (bloß/doch/eben/ein-fach/ja/mal/nur/schon) ins Kino!/Jetzt geht (bloß/doch/...) ins Kino!
+
+(95) Gehen Sie (bloß/doch/eben/einfach/ja/ mal/nur/schon) ins Kino!//Seien/Sind Sie (doch...) ehrlich!
+
+(96) Daß du (auch/bloß/ja/mir/nur) recht­zeitig heimkommst!
+
+(97) Ach, wäre ich (bloß/doch/nur) ein Königssohn!
+
+(98) Ach, könntest du doch nur einmal dei­nen Mund halten!
+
+(99) Oh, daß ich doch/?bloß/?nur ein Königs­sohn war!
+
+(100) Oh, wenn ich (doch/nur/bloß) ein Königssohn war!
+
+(101) Hat der (aber/vielleicht/aber auch) hingelangt!/Der hat (aber/vielleicht/ aber auch) hingelangt!
+
+
+(102) Daß die aber/doch so hübsch ist!
+
+(103) Was hat die aber auch für Beine!

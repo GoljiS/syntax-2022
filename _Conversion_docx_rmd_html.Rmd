@@ -1,0 +1,74 @@
+---
+title: "Conversion docx to Rmd"
+author: "mattador Stackoverflow"
+date: "30 10 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Pandoc user guide: https://pandoc.org/MANUAL.html
+
+Convert:   
+- from doi to bibtex: https://doi2bib.org    
+- from isbn to bibtex: http://doi-to-bibtex-converter.herokuapp.com; https://zbib.org/ ;  https://www.xarg.org/tools/isbn-to-bibtex/   
+- from Word to markdown: https://word2md.com    
+
+csl style:   
+- look up the csl style of the selected journal   
+- copy the csl style sheet   
+- paste it into a new Rmd file and name it (e.g. linguistics.csl)   
+- add the line "csl: linguistics.csl" to the yaml header of your Rmd article or book!
+
+My adaptation: docx to html
+
+```{r}
+require(rmarkdown);require(devtools)
+examplefile = "02d_Stellungsfelder_DEU_SLO.docx"
+pandoc_convert(examplefile,to="markdown",output = "02d_Stellungsfelder_DEU_SLO.Rmd", options=c("--extract-media=."))
+render("02d_Stellungsfelder_DEU_SLO.Rmd","html_document")
+browseURL("02d_Stellungsfelder_DEU_SLO.html")
+```
+
+docx to latex:
+
+```{r}
+options(tinytex.verbose = TRUE)
+require(rmarkdown);require(devtools)
+examplefile = "02d_Stellungsfelder_DEU_SLO.docx"
+pandoc_convert(examplefile,to="latex",output = "02d_Stellungsfelder_DEU_SLO.tex", options=c("--extract-media=."))
+# render("02d_Stellungsfelder_DEU_SLO.tex","html_document")
+# browseURL("02d_Stellungsfelder_DEU_SLO.html")
+
+```
+
+
+mattador Stackoverflow:
+
+```{r}
+require(rmarkdown);require(devtools)
+examplefile=paste0(tempdir(),"/example.docx")
+download.file("https://file-examples.com/wp-content/uploads/2017/02/file-sample_100kB.docx",destfile=examplefile)
+pandoc_convert(examplefile,to="markdown",output = "example.rmd", options=c("--extract-media=."))
+
+render(paste0(tempdir(), "/example.rmd"),"html_document")
+browseURL(paste0(tempdir(),"/example.html"))
+```
+
+Zotero to bibtex:
+[@Eisenberg_1994]
+
+@book{Eisenberg_1994, place={Stuttgart Weimar}, edition={3., überarb. Aufl}, title={Grundriß der deutschen Grammatik}, ISBN={9783476012326}, publisher={Metzler}, author={Eisenberg, Peter}, year={1994} }
+
+
+@book{3476012328,
+    title = {Grundriss der deutschen Grammatik},
+    author = {Peter Eisenberg},
+    year = {1994},
+    month = {11},
+    day = {05},
+    pagecount = {581},
+    isbn = {9783476012326}
+}
