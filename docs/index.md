@@ -1,7 +1,7 @@
 ---
 title: "Syntax 2021/2022"
 author: "Teodor Petrič"
-date: "2021-10-30"
+date: "2022-03-15"
 site: bookdown::bookdown_site
 bibliography: [book.bib, packages.bib]
 bibio-style: "apalike"

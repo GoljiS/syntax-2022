@@ -1,47 +1,83 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Gegenstand und Sinn der Syntax
 
-Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich geführten Texten.
-Will man den Aufbau eines Textes besser kennen lernen, ist es sinnvoll, ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zu zerlegen.
+Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich formulierten Texten.
+Will man einen Text besser verstehen oder den Aufbau eines Textes durchschaubar machen, ist es sinnvoll, ihn nach nachvollziehbaren Prinzipien und Methoden in kleinere Einheiten zu zerlegen.
 In der Sprachwissenschaft hat sich eine längere Liste von Einheiten in Texten etabliert, die man verschiedenen Bereichen zuordnen kann.
-Hier sollen vor allem diejenigen Bereiche erwähnt werden, die gemeinsam die Grammatik einer Sprache umreißen.
+Hier sollen vor allem diejenigen Bereiche angeführt werden, die gemeinsam die Grammatik einer Sprache umreißen.
 
 ```{r echo=FALSE, fig.keep='all', out.width="60%"}
 knitr::include_graphics("pictures/grammatische_bereiche.png")
 ```
 
-Der *Text* ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel2008deutsche: 33].
+Der **Text** ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel2008deutsche: 33].
 
 ## Äußerung
 
-*Sprachliche Äußerung*: sinnvolle Lautfolge zwischen zwei Pausen Inhalt Absicht
+Eine **sprachliche Äußerung** kann als sinnvolle Lautfolge (oder Schrifzeichenfolge) eines Textproduzenten zwischen zwei Pausen definiert werden. Wie bei jedem sprachlichen Zeichen erfahren wir mit Hilfe der Form einer Äußerung kommunikativ wichtige Aspekte ihrer Bedeutung, d.h. semantische und pragmatische Merkmale. Einerseits kann die Form einer Äußerung Auskunft darüber geben, *was* (welchen Inhalt, welche semantische Proposition) uns jemand mitteilen möchte, andererseits aber auch, mit welcher *Absicht* oder Zweck eine sprachliche Äußerung erfolgt. 
 
-Äußerung Satzförmig \<--> nicht-satzförmig
+Inhalt + Absicht >>   
+Äußerung: Satzförmig \<--> nicht-satzförmig
 
-::: rmdnote
-**`Äußerungen`** lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können (Bußmann 21990: 52).
-Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *Performanz* oder Parole.
-`Sätze` sind hingegen Einheiten des Sprachsystems und gehören somit auf die Ebene der *Kompetenz* oder Langue.
-:::
-
-*Äußerungen* können die Form (d.h. die Struktur, den Aufbau) von Sätzen (z.B. Hauptsätzen) oder satzförmigen Konstruktionen (z.B. Nebensätzen, Infinitivgruppen) haben, oder auch nicht-satzförmig (z.B. als Nominalphrase) auftreten [@engel2008deutsche: 33].
+Sprachliche Äußerungen haben meist die Form (d.h. die Struktur, den Aufbau) von satzförmigen bzw. satzartigen Konstruktionen (z.B. Hauptsätze, Nebensätze, Infinitivgruppen), sie können aber auch nicht-satzförmig realisiert sein (z.B. als Nominalphrase) [@engel2008deutsche: 33]. Die Form einer sprachlichen Äußerung hängt von der Absicht des Kommunikationsteilnehmers, den zu übermittelnden semantischen Merkmalen und verschiedenen situativen Umständen ab (den Adressaten der Botschaft, den zeitlichen und räumlichen Kommunikationsverhältnisse u.a.).  Die systematische Ermittlung der Formaspekte sprachlicher Äußerungen und ihrer Beziehungen zur Semantik und Pragmatik ist eine der wesentlichen Aufgaben der Syntax. Im Rahmen der Syntax spielt der Satzbegriff eine zentrale Rolle. 
 
 ```{r echo=FALSE, fig.keep='all', message=FALSE, warning=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/aeusserung_vs_satz.png")
 ```
 
+::: rmdnote
+**Äußerungen** lassen sich als Laut- oder Schriftzeichenketten definieren, die von einem Sprecher zwischen zwei Pausen produziert werden und aus einem oder mehreren Sätzen bestehen können [@bussmann1990lexikon: 52].
+Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit auf die Ebene der *Performanz* oder Parole.
+**Sätze** sind hingegen Einheiten des Sprachsystems und gehören somit auf die Ebene der *Kompetenz* oder Langue. 
+
+:::
+
 
 ## Prototypischer Satz
 
-Es gibt mehrere hundert Satzdefinitionen, die verschiedene Aspekte eines Satzes hervorheben. So wie bei vielen anderen Begriffen in der Linguistik ist eine allgemein gültige Definition nicht möglich (vgl. den *Wortbegriff*: Was ist ein Wort?)
+In mehreren Jahrzehnten intensiver syntaktischer Forschung wurden mehrere hundert Satzdefinitionen vorgeschlagen. Trotz Gemeinsamkeiten heben sie verschiedene Aspekte eines Satzes hervor. So wie bei vielen anderen Begriffen in der Linguistik (und in der Natur überhaupt) ist eine allgemein gültige Definition nicht möglich (vgl. etwa den *Wortbegriff*: Was ist ein Wort?)
 
-**Prototypischer Satz**    
-- Finites Verb    
-- Eignen sich dazu, Sprechhandlungen eindeutig auszudrücken    
-- Enthält kein unterordnendes Element (z.B. keinen Subjunktor).
+Wir wollen in Anschluss an die deutsche Grammatik von [@engel2008deutsche: 33] einen **prototypischen Satz** definieren, und zwar mit folgenden Eigenschaften:       
+- er soll eine finite Verbform enthalten;     
+- er soll sich dazu eignen, Sprechhandlungen eindeutig auszudrücken    
+- er soll kommunikativ selbständig sein und demnach kein unterordnendes Element (z.B. einen Subjunktor) enthalten.   
 
 ```{r echo=FALSE, fig.keep='all', message=FALSE, warning=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/satzdefinition.png")
 ```
+
+
+Im Deutschen gibt es eine Reihe von sprachlichen Konstruktionen, die zu verschiedenen Graden diese drei Eigenschaften aufweisen. Diese Konstruktionen nennen wir satzförmige oder satzartige Konstruktionen (sogenannte Haupt- und Nebensätze, Infinitiv- und Partizipialkonstruktionen). Am anderen Ende dieser Skala stehen nicht-satzartige Konstruktionen (z.B. Nominalphrasen).   
+
+Satzartigkeit:   
+<< HS << HS-Rest << abhängige HS >> selbständige NS >> NS >> IS >> PK >> NP
+
+Die *Satzartigkeit der Konstruktionen* nimmt demnach von (1) bis (9) ab:    
+(1) Die Sonne scheint. Es regnet. Verstehst du sie? Wo ist der Ball? Fang!   
+(2) Sie glaubte, (dass ...). Ich frage mich, (ob ...). Wer hat gefragt, (ob ...)? Verstehst du, (was der Mann uns zuruft)?   
+(3) (Sie meinte), er nimmt / nehme sie nicht ernst. Er rief: Kommst du jetzt oder nicht?     
+(4) Dass du mir ja nicht zu spät nach Hause kommst! Wenn sie doch schon zu Hause wäre! Rasen betreten verboten!   
+(5) (Er wies sie darauf hin), dass der Laden bald schließen werde.   
+(6) (Sie versicherte ihm), den Roller für sich kaufen zu wollen. (Sie besuchten ihn), um ihm zum Geburtstag zu gratulieren.    
+(7) Am Schwimmbad angekommen, (stellten wir unsere Fahrräder ab.)    
+(8) der Besuch der alten Dame, Die Blendung, die Fahrt auf dem Wasserwerfer durch Frankfurt, die Verschwendung von Ressourcen in unserer Gemeinde, die Behandlung des Patienten durch den berühmten Zahnarzt.
+(9) Tür zu! Ja. Oh! Verflixt! Jung und schön, hie und da, das Haus meiner Eltern, Kramer gegen Kramer, ...
+
+*Haupt- oder Matrixsätze* (1) weisen alle drei Eigenschaften auf: eine finite Verbform, ihre syntaktische Struktur ermöglicht es, eine kommunikative Absicht (Sprechhandlung) eindeutig auszudrücken, außerdem sind eine abgeschlossene Redeeinheit, d.h. kommunikativ und syntaktisch selbständig. *Haupt- oder Obersatzreste* (2) sind nicht mehr selbständig, da ein syntaktisch notwendiger Bestandteil fehlt (nämlich das, was im Nebensatz steht). Sogenannte *abhängige Hauptsätze* oder V2-Nebensätze (3) haben zwar die Form von Hauptsätzen, sind aber vom Hauptverb im übergeordneten Satz abhängig. Das kann auch an der Konjunktivform des finiten Verbs erkennbar sein. Sogenannte *selbständige Nebensätze* (4) sind dagegen selbständig verwendbar, enthalten jedoch ein unterordnendes Element (einen Subjunktor). *Selbständige Infinitivsätze* (4) sind bei entsprechendem (situativen) Kontext selbständig verwendbar, weisen jedoch eine infinite Verbform auf. *Nebensätze* oder eingebettete Sätze (5) enthalten zwar wie Hauptsätze eine finite Verbform, sind jedoch nicht selbständig (weder kommunikativ noch syntaktisch, mehrere Nebensatztypen auch prosodisch nicht) und werden durch einen Subjunktor einem anderen Satz untergeordnet und in diesen syntaktisch (und prosodisch) integriert. Inkohärente *Infinitivsätze* (6) haben im Gegensatz zu Nebensätzen keine finite, sondern eine infinite Verbform. Ihre syntaktische Struktur ist aber auch in anderer Hinsicht beschränkt (ihnen fehlt ein explizites Subjekt) oder mit dem übergeordneten Satz verwobenund kontrolliert. *Partizipialkonstruktionen* (7) weisen ebenfalls eine infinite Verbform auf und sind ähnlich wie Infinitivkonstruktionen in mehrfacher Hinsicht vom übergeordneten Satz abhängig. *Nominalphrasen* (8) sind definitionsmäßig keine Sätze, da sie weder eine finite noch eine finite Verbform enthalten. Aber deverbative Nomina, also solche, die einen Verbstamm als Basis enthalten, haben einen vergleichbaren semantischen Gehalt (Proposition) und können ähnliche syntaktische Funktionen erfüllen wie Neben- oder Infinitivsätze. *Phrasen* in (9) enthalten weder eine Verbform noch eine andere Worart mit Verbstamm als Basis. Definitionsmäßig sind sie daher keine satzartigen Konstrukte. Aber sie können in entsprechenden Kontexten Satzfunktionen übernehmen oder zu Sätzen erweitert werden, da sie potentielle Satzinhalte (Propositionen) darstellen.     
+
+
+::: rmdrobot
+Ordnen Sie die (mehr oder weniger satzförmigen) sprachlichen Konstruktionen, die Sie im Textausschnitt identifizieren können, entlang der oben eingeführten *Satzartigkeitsachse* an!
+
+> Wie ich meine Muttersprache wiederfand   
+> In Sibirien geboren, in Deutschland aufgewachsen: Unsere Autorin spricht nur Deutsch, obwohl ihre Muttersprache Russisch ist. Heute macht sie einen Sprachkurs – und lernt die eigene Identität neu kennen." "„Ochen’ khorosho“ – sehr gut, lobt die Lehrerin, als ich ihr meine kläglichen Versuche russischer Schreibschrift zeige, mit ihren vielen Kurven und Häkchen. Ich lächele gequält und betrachte mein Werk, das eher an die ersten Schreibversuche einer Grundschülerin erinnert als an die Handschrift einer Neunundzwanzigjährigen. „Reine Übung“, sagt sie mit breitem russischen Akzent, bevor sie uns die Hausaufgabe für die kommende Woche aufbrummt. „Poka!“, sage ich, bevor ich den Laptop zuklappe. Tschüss!
+
+Aus: Wie ich meine Muttersprache wiederfand (faz.net, 13.1.2022)   
+:::
 
 
 ## Syntax
@@ -72,8 +108,7 @@ Die Form einer Münze z.B.
 können wir mit unseren Sinnen wahrnehmen, welche Bedeutung sie jedoch für uns hat, müssen wir erst mit Hilfe unseres gespeicherten Wissens u.a.
 erschließen.
 
-In flektierenden bzw.
-fusionierenden Sprachen (z.B. Deutsch, Slowenisch) wird ein und derselbe Inhalt häufig durch verschiedene Formen ausgedrückt (vgl. derselbe Sachverhalt in Aktiv vs. Passiv, verschiedene Suffixe für Personenbezeichnungen, verschiedene Suffixe für Plural usw.).
+In flektierenden bzw. fusionierenden Sprachen (z.B. Deutsch, Slowenisch) wird ein und derselbe Inhalt häufig durch verschiedene Formen ausgedrückt (vgl. derselbe Sachverhalt in Aktiv vs. Passiv, verschiedene Suffixe für Personenbezeichnungen, verschiedene Suffixe für Plural usw.).
 Umgekehrt gilt, daß ein Ausdruck oft polyfunktional bzw.
 polysem ist, d.h.
 daß er je nach sprachlicher oder außersprachlicher Umgebung mehrere Bedeutungen auszudrücken vermag (vgl. die verschiedenen Funktionen der Suffixe -en oder -er, der Partikeln ja, doch, eben, denn, der Tempora Präsens oder Perfekt usw.).
@@ -419,7 +454,7 @@ sie können gleichzeitig im Satz auftreten, ohne daß sie durch eine koordiniere
 Durch entsprechende Akzentuierung (Satzakzent, Kontrastakzent)) und Herstellung eines entsprechenden Kontextes zeigt sich erst, ob eine bestimmte Satzform in einer Sprache möglich ist.
 
 
-### Identifikationsprobleme
+### Identifizierungsprobleme
 
 Nachdem vier grundlegende Verfahren zur Identifizierung von Satzkonstituenten und ihrer Rolle im Satz vorgeführt wurden, soll in den nächsten Absätzen einige der möglichen *Schwierigkeiten* gezeigt werden, die *bei der Verwendung dieser Verfahren* auftreten können.
 Die Verschiebeprobe liefert beispielsweise nicht in allen Fällen eindeutige Ergebnisse, d.h. man kann mit ihr nicht immer eindeutig nachweisen, daß ein sprachliches Element keine Konstituente des Satzes ist. In (3) ist dieses Problem veranschaulicht.
@@ -679,7 +714,7 @@ print(paste("Subjunktor: ", sc))
 
 
 ::: rmdrobot
-Versuchen Sie die sprachlichen Merkmale des Songtexts *Normalität* von *Cpaital Bra* mit Unterstützung von *Voyant Tools* zu beschreiben!
+Versuchen Sie die sprachlichen Merkmale des Songtexts *Normalität* von *Capital Bra* mit Unterstützung von *Voyant Tools* zu beschreiben!
 
 Video: <https://www.youtube.com/watch?v=KS7vWUEeQJE>\
 Songtext: <https://genius.com/Ngee-normalitat-lyrics>
