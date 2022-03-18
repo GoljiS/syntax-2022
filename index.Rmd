@@ -1,5 +1,5 @@
 ---
-title: "Syntax 2021/2022"
+title: "Syntax der deutschen Gegenwartssprache 2021/2022"
 author: "Teodor Petrič"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

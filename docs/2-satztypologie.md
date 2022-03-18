@@ -184,13 +184,13 @@ Tabellen: Rmarkdown (T.P)
 
 
 ```{=html}
-<div id="htmlwidget-d149006bc433ffaa0c02" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-d149006bc433ffaa0c02">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"2\" data-max=\"55\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","VERB"],[20,36,17,15,5,40,55,10,2,15,55,19]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":1,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-b1cdac71e2f8d6fcd005" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b1cdac71e2f8d6fcd005">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"2\" data-max=\"55\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","VERB"],[20,36,17,15,5,40,55,10,2,15,55,19]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":1,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```{=html}
-<div id="htmlwidget-2c2276ce173d7949989d" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2c2276ce173d7949989d">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"4\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2"],["und","doch"],["CCONJ","CCONJ"],[4,1]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":2,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-8fa28be714f3039dd836" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-8fa28be714f3039dd836">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"4\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2"],["und","doch"],["CCONJ","CCONJ"],[4,1]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":2,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```
@@ -694,6 +694,7 @@ Nebensätze treten in den folgenden syntaktischen Funktionen auf:\
 
 Die syntaktischen Funktionen werden im Rahmen der Ergänzungs- und Angabeklassen des Mannheimer Valenzmodells eingehender besprochen.
 
+
 #### Inhaltliche Beziehungen der Subordination
 
 Die Bedeutungsklassen von Subjekt-, Objekt- und Prädikativnebensätzen kann man im Rahmen eines semantisierten Valenzmodells oder der Kasustheorie eingehender besprechen.
@@ -736,6 +737,56 @@ Die situierenden Angaben lassen sich in zahlreiche semantische Klassen gliedern,
 (58) *Wie sich leicht nachweisen lässt*, hat sie in allem recht. (existimatorischer - verifikativer Nebensatz)
 
 Die syntaktischen Funktionen und semantischen Klassen werden im Rahmen des Valenzmodells eingehender besprochen.
+
+
+#### Relativsätze
+
+Nach ENGEL (1988: 292-295) sind Relativsätze nominale Angaben und haben ähnlich den Adjektiven die semantische Funktion, ein Nomen näher zu bestimmen (zu qualifizieren, klassifizieren usw.). Wie alle Attributsätze haben sie ihre reguläre Stelle hinter dem Nomen. Voranstellung ist in dichterischer oder rhetorisch ausschmückender Rede, ebenso bei ironischer Verwendung derselben Ausdrucksformen möglich. Die Voranstellung des Relativsatzes bewirkt die Hervorhebung des Attributsatzes, sind aber in der Standardsprache nicht üblich.
+
+(56a)	Den Mann, der all dies durchgestanden hat, will ich mir zukommen lassen. (nachgest.)
+(56b)	Der all dies durchgestanden hat, den Mann will ich mir kommen lassen. (vorangestellt)
+
+Relativsätze können restriktiv oder nicht-restriktiv sein. **Restriktive** Relativsätze sind in der Regel obligatorisch, weil sie für das Verständnis des Satzes notwendig sind. Mit restriktiven Relativsätzen schränkt man ähnlich wie mit einigen Gradpartikeln (z.B. nur) den Bezug auf eine bestimmte Teilmenge von Objekten ein (57). 
+
+(57)	Ein Junge hatte vier Großväter. Sein Freund wollte wissen, was sie von Beruf waren. 	Der Junge antwortete: 
+(57a)	Derjenige Großvater, der Chemiker war, lebte in München. (r)
+(57b)	Derjenige Großvater, der Bäcker war, lebte in Köln. (r)
+(57c)	Derjenige Großvater, der Arzt war, lebte in Hamburg. (r)
+(57d)	Derjenige Großvater, der Politiker war, lebte in Berlin. (r)
+
+Von **nicht-restriktiven** Relativsätzen (58) spricht man, wenn lediglich ein Merkmal zum Bezugsnomen hinzugefügt wird. Wird ein nicht-restriktiver Relativsatz zu einem Nomen hinzugefügt oder weggelassen, verändert sich der Bezug auf die Anzahl der außersprachlichen Objekte nicht. In nicht-restriktiven Relativsätzen können Abtönungspartikeln (vor allem ja, doch, eben, halt, eigentlich), solche Partikeln wie übrigens, und Elemente wie wie du weißt und bekanntlich verwendet werden. Außerdem können nicht-restriktive Relativsätze durch Pause vom Bezugselement getrennt werden (intonatorisch größere Selbständigkeit). 
+
+(58)	Ein Junge lebte in München. Dort lebte auch sein Großvater. Der Freund des Jungen 	wollte mehr über den Großvater erfahren. Der Junge erzählte:
+Mein Großvater, der (übrigens) Chemiker war, war ein kluger Mann. Trotzdem lebte er in ständigen Geldsorgen. ... (n-r)
+
+Nach EISENBERG (^3^1994:254) wird der Relativsatz in (1a) appositiv genannt, weil er - im Gegensatz zu dem in (1b) - keinen Einfluß auf die Extension der übergeordneten NGr (=NP) hat, Oberbürgermeister Eichel wird hinsichtlich des Begriffsumfanges vom Relativ¬satz nicht verändert. (Wort mit Hauptakzent durch Großbuchstaben gekennzeichnet)
+(1a) 	Oberbürgermeister EICHEL, der mit den Grünen koaliert, hat noch auf Jahre eine sichere Mehrheit.
+(1b)	Ein OBERBÜRGERMEISTER, der mit den Grünen koaliert, hat noch auf Jahre eine sichere Mehrheit. 
+(Mit Betonung auf ein ergäbe sich ein Zahlwort und ein n-r Relativsatz!)
+
+EISENBERG (^3^1994:228-229) betrachtet das semantische Verhältnis von Relativsatz und Kernsubstantiv. »(8) und (9) zeigen, daß dieses Verhältnis in einem wichtigen Punkt uneinheitlich ist.
+
+(8)	a. Die Pädagogik ist eine Disziplin, die der Menschheit immer Segen gebracht hat
+b. Diejenigen Bäume, die morsch sind, werden gefällt
+c. Jeder Linguist, der was auf sich hält, geht zweimal jährlich zum Friseur
+(9)	a. Seine Eltern, die wohlhabende Leute sind, ließen ihn verkommen 
+b. Du, der du immer Glück gehabt hast, solltest dich da heraushalten 
+c. Die Sonne, die jetzt eigentlich sieben Stunden täglich scheinen sollte, ist überhaupt nicht zu sehen 
+
+Die Relativsätze in (8) werden restriktiv genannt, weil die NGr mit Relativsatz extensional eingeschränkt ist gegenüber der ohne Relativsatz. In (8c) etwa kann jeder Linguist sich auf jedes Element der Menge der Linguisten beziehen, jeder Linguist, der was auf sich hält aber nur auf jedes Element einer Teilmenge der Linguisten, denn nicht alle Linguisten halten etwas auf sich. 
+
+Die Relativsätze in (9) werden nichtrestriktiv oder appositiv genannt,. weil der Relativsatz nichts an der Extension der NGr, in der er enthalten ist, ändert. Seine Eltern, die wohlhabende Leute sind in (9a) etwa bezieht sich auf dieselben Personen wie seine Eltern allein. 
+
+Beide Arten von Relativsätzen geben uns eine »nähere Bestimmung« des modifizierten Nominals. Bei den restriktiven betrifft diese Bestimmung aber den Umfang der bezeichneten Klasse, bei den nichtrestriktiven nicht. Erstere tragen zur Identifizierung des Bezeichneten bei, letztere nicht.
+
+Viele Relativsätze können in Isolierung sowohl restriktiv als auch nichtrestriktiv gelesen werden. Wenn jemand sagt »Die Kirche, die wir gestern noch besucht haben, ist abgebrannt«, und dem Adressaten ist bekannt, um welche Kirche es sich handelt, dann ist die Lesung nichtrestriktiv. Wird die Kirche erst durch den Relativsatz identifiziert, dann ist restriktiv gelesen worden. Allgemein gilt: ist das Nominal ohne Relativsatz definit, dann kann er nur nichtrestriktiv gelesen werden, sonst auch restriktiv. Häufig wird der nichtrestriktive Relativsatz durch eine Pause vom Kern getrennt und durch eine Partikel oder ein Adverb abgetönt (Die Kirche, die wir ja/übrigens/zufälligerweise. . . gestern noch besucht haben, ist abgebrannt). Es sind noch eine Reihe weiterer Formkriterien bekannt, mit deren Hilfe sich beide Gruppen unterscheiden lassen (Motsch 1965; Becker 1978). Dennoch bleibt es dabei, daß der größte Teil der Relativsätze sowohl restriktiv als auch nichtrestriktiv gelesen werden kann (Aufgabe 66).«
+
+KRITERIEN zur Unterscheidung nicht-restriktiver Relativsätzen von restriktiven:
+•	zwischen Bezugselement und Relativsatz ist eine Pause möglich (Parenthese-Intonation), auch eine fallende Kadenz auf dem Bezuselement ist realisierbar ;
+•	Artikelwörter und Pronomina in der Bezugs-NP ( vgl. auch Aufgabe 66) lassen sich – semantisch gesehen - nicht durch selektierende oder einschränkende Artikelwörter wie derjenige ersetzen;
+•	Abtönungspartikeln (vor allem ja, doch, eben, halt, eigentlich), solche Partikeln wie übrigens und Elemente wie wie du weißt und bekanntlich sind einsetzbar;
+•	Auch nach Eliminierung des nicht-restriktiven Relativsatzes bleibt der Bezug der NP auf eine bestimmte Anzahl von außersprachlichen Elementen konstant. 
+
 
 #### Position der Nebensätze
 
@@ -786,46 +837,186 @@ Den bisherigen Beispielen zufolge scheinen die Beschränkungen bei Ergänzungen 
 
 Die folgende Tabelle zeigt schematisch, welche Positionen satzförmige Nebensätze einnehmen kann, wenn das Bezugselement (Verb oder Nomen) im Mittelfeld des übergeordneten Satzes auftreten:
 
-|                Satztyp                 | Vorfeld | Mittelfeld | Nachfeld |
-|:--------------------------------------:|:-------:|:----------:|:--------:|
-|           Ergänzung zum Verb           |   \+    |  (+) / \*  |    \+    |
-|       Adverbiale Angabe zum Verb       |   \+    |    (+)     |    \+    |
-|           Eränzung zum Nomen           |   \*    |     \+     |    \+    |
-|            Angabe zum Nomen            |   (+)   |     \+     |    \+    |
-| (alle mit Bezugselement im Mittelfeld) |         |            |          |
-
++----------------------------------------+------------+------------+------------+
+| Satztyp                                | Vorfeld    | Mittelfeld | Nachfeld   |
++:======================================:+:==========:+:==========:+:==========:+
+| Ergänzung zum Verb                     | \+         | (+) / \*   | \+         |
++----------------------------------------+------------+------------+------------+
+| Adverbiale Angabe zum Verb             | \+         | (+)        | \+         |
++----------------------------------------+------------+------------+------------+
+| Eränzung zum Nomen                     | \*         | \+         | \+         |
++----------------------------------------+------------+------------+------------+
+| Angabe zum Nomen                       | (+)        | \+         | \+         |
++----------------------------------------+------------+------------+------------+
+| (alle mit Bezugselement im Mittelfeld) |            |            |            |
++----------------------------------------+------------+------------+------------+
 
 #### Korrelatkonstruktionen
 
-Wenn die Bestandteile eines komplexen Prädikats an zwei verschiedenen Stellen im Satz auftreten, bilden sie einen Satzrahmen bzw. eine Satzklammer. *Klammerbildungen* sind auch bei anderen Satzelementen möglich, wie aus dem vorherigen Abschnitt in den Beispielen mit Attributsätzen ersichtlich ist. Bei satzförmig realisierten Satzgiedern kann es nun vorkommen, dass ein Bezugselement im Mittelfeld des übergeordneten Satzes verbleibt, während der dazu gehörige Nebensatz ausgeklammert wird - Beispiel (68). Das Bezugselement im übergeordneten Satz wird auch als **Korrelat** bezeichnet. Korrelate sind Ausdrücke mit allgemeiner Bedeutung, die meist auf einen folgenden Nebensatz verweisen. Korrelate sind demnach in den meisten Fällen ein spezieller Fall von *kataphorischen* Ausdrücken, die im Gegensatz zu den anaphorischen auf ein folgendes Textelement verweisen.   
+Wenn die Bestandteile eines komplexen Prädikats an zwei verschiedenen Stellen im Satz auftreten, bilden sie einen Satzrahmen bzw.
+eine Satzklammer.
+*Klammerbildungen* sind auch bei anderen Satzelementen möglich, wie aus dem vorherigen Abschnitt in den Beispielen mit Attributsätzen ersichtlich ist.
+Bei satzförmig realisierten Satzgiedern kann es nun vorkommen, dass ein Bezugselement im Mittelfeld des übergeordneten Satzes verbleibt, während der dazu gehörige Nebensatz ausgeklammert wird - Beispiel (68).
+Das Bezugselement im übergeordneten Satz wird auch als **Korrelat** bezeichnet.
+Korrelate sind Ausdrücke mit allgemeiner Bedeutung, die meist auf einen folgenden Nebensatz verweisen.
+Korrelate sind demnach in den meisten Fällen ein spezieller Fall von *kataphorischen* Ausdrücken, die im Gegensatz zu den anaphorischen auf ein folgendes Textelement verweisen.
 
-(68) Der Anwalt wartete schon die ganze Zeit [ ~PP~ *darauf*, ==> *dass der Mann dem Clown eine Ohrfeige verpasst*].   
+(68) Der Anwalt wartete schon die ganze Zeit [ ~PP~ *darauf*, ==\> *dass der Mann dem Clown eine Ohrfeige verpasst*].
 
-Syntaktisch gesehen handelt es sich um ein attributives Verhältnis: das Korrelat ist das Bezugselement und der Nebensatz ist das Attribut dazu. Im Unterschied zu den Attributsätzen, die im vorigen Abschnitt zu sehen waren, bezieht sich der Nebensatz in Beispiel (68) auf ein bedeutungsschwaches Bezugselement. Deshalb ist in manchen Grammatiken die Meinung vertreten, dass Korrelat und Nebensatz gemeinsam ein Satzglied darstellen. 
+Syntaktisch gesehen handelt es sich um ein attributives Verhältnis: das Korrelat ist das Bezugselement und der Nebensatz ist das Attribut dazu.
+Im Unterschied zu den Attributsätzen, die im vorigen Abschnitt zu sehen waren, bezieht sich der Nebensatz in Beispiel (68) auf ein bedeutungsschwaches Bezugselement.
+Deshalb ist in manchen Grammatiken die Meinung vertreten, dass Korrelat und Nebensatz gemeinsam ein Satzglied darstellen.
 
-Der Nebensatz kann auch so ausgeklammert sein, dass ein Prädikatsteil (in der rechten Satzklammer des übergeordneten Satzes) zwischen Korrelat und Nebensatz tritt. Das zweiteilige Satzglied wird in diesem Fall getrennt. - Beispiel (69)    
+Der Nebensatz kann auch so ausgeklammert sein, dass ein Prädikatsteil (in der rechten Satzklammer des übergeordneten Satzes) zwischen Korrelat und Nebensatz tritt.
+Das zweiteilige Satzglied wird in diesem Fall getrennt.
+- Beispiel (69)
 
-(69) [ ~VF~ Der Anwalt] [ ~LSK~ hat] [ ~MF~ schon die ganze Zeit [ ~PP~ *darauf*]] [ ~RSK~ gewartet], ==> [ ~NF~ *dass der Mann dem Clown eine Ohrfeige verpasst*]. (Trennung von Korrelat und Nebensatz)  
+(69) [ ~VF~ Der Anwalt] [ ~LSK~ hat] [ ~MF~ schon die ganze Zeit [ ~PP~ *darauf*]] [ ~RSK~ gewartet], ==\> [ ~NF~ *dass der Mann dem Clown eine Ohrfeige verpasst*]. (Trennung von Korrelat und Nebensatz)
 
-Korrelate können *obligatorisch*, *fakultativ* oder sogar *nicht möglich* sein. Das ist zum Teil von der Valenz des Verbs (oder Nomens) abhängig, teilweise aber davon, ob ein abhängiger Satz eine finite oder eine infinite Verbform enthält. Bei Ergänzungen in Subjekt- und Objektfunktion sind Korrelate in den meisten Fällen obligatorisch, bei adverbialen Angaben sind fakultative Korrelate eher akzeptabel. Insbesondere bei fakultativ setzbaren Korrelaten kann man davon ausgehen, dass sie das syntaktische Verhältnis des Nebensatzes zum Verb *verdeutlichen*.    
+Korrelate können *obligatorisch*, *fakultativ* oder sogar *nicht möglich* sein.
+Das ist zum Teil von der Valenz des Verbs (oder Nomens) abhängig, teilweise aber davon, ob ein abhängiger Satz eine finite oder eine infinite Verbform enthält.
+Bei Ergänzungen in Subjekt- und Objektfunktion sind Korrelate in den meisten Fällen obligatorisch, bei adverbialen Angaben sind fakultative Korrelate eher akzeptabel.
+Insbesondere bei fakultativ setzbaren Korrelaten kann man davon ausgehen, dass sie das syntaktische Verhältnis des Nebensatzes zum Verb *verdeutlichen*.
 
-Einige weitere Beispiele mit Korrelat-Nebensatz-Konstruktionen:   
+Einige weitere Beispiele mit Korrelat-Nebensatz-Konstruktionen:
 
-(70) Till schätzte [ ~NP~ *es*, ==> *wenn seine Auftraggeber freundlich zu ihm waren*]. (obligatorisches Korrelat)   
-(71) Der Bauer hielt [ ~NP~ *es*] für sinnvoll, ==> *dass der neue Knecht früh schlafen geht*]. (obligatorisches Korrelat)   
-(72) [ ~VF~ *dass der neue Knecht im Hühnerstall schläft*] <== [ ~PP~ *damit*] hatte der Bauer nicht gerechnet. (obligatorisches Korrelat)   
-(73) [ ~NP~ *Es*]  wurde vom Anwalt erwartet, <== *dass er seinen Mandanten rechtzeitig informiert*]. (Korrelat obligatorisch, weil das Vorfeld eines Aussagesatzes nicht leer sein darf)   
-(74) [ ~PP~ *Vom Anwalt*]  wurde erwartet, <== *dass er seinen Mandanten rechtzeitig informiert*]. (Korrelat muss fehlen, weil das Vorfeld eines Aussagesatzes nicht leer sein darf)   
-(75) Till sah [ ~NP~ *so*] müde aus, ==> *als hätte er die ganze Nacht nicht geschlafen*]. (fakultatives Korrelat)   
-(76) Wir haben [ ~NP~ *dort*, ==> *wo heute das Einkaufszentrum steht*], mehr als zehn Jahre gelebt. (fakultatives Korrelat)   
-
-
-
-
-
-
+(70) Till schätzte [ ~NP~ *es*, ==\> *wenn seine Auftraggeber freundlich zu ihm waren*]. (obligatorisches Korrelat)\
+(71) Der Bauer hielt [ ~NP~ *es*] für sinnvoll, ==\> *dass der neue Knecht früh schlafen geht*]. (obligatorisches Korrelat)\
+(72) [ ~VF~ *dass der neue Knecht im Hühnerstall schläft*] \<== [ ~PP~ *damit*] hatte der Bauer nicht gerechnet. (obligatorisches Korrelat)\
+(73) [ ~NP~ *Es*] wurde vom Anwalt erwartet, \<== *dass er seinen Mandanten rechtzeitig informiert*]. (Korrelat obligatorisch, weil das Vorfeld eines Aussagesatzes nicht leer sein darf)\
+(74) [ ~PP~ *Vom Anwalt*] wurde erwartet, \<== *dass er seinen Mandanten rechtzeitig informiert*]. (Korrelat muss fehlen, weil das Vorfeld eines Aussagesatzes nicht leer sein darf)\
+(75) Till sah [ ~NP~ *so*] müde aus, ==\> *als hätte er die ganze Nacht nicht geschlafen*]. (fakultatives Korrelat)\
+(76) Wir haben [ ~NP~ *dort*, ==\> *wo heute das Einkaufszentrum steht*], mehr als zehn Jahre gelebt. (fakultatives Korrelat)\
+(77) *Obwohl Till fleißig gearbeitet hatte*, \<== wurde er [ ~AdvP~ *dennoch*] vom Hof verjagt. (fakultatives Korrelat)
 
 
 ## Satzmodus
+
+Grundlage für diesen Abschnitt ist das Satzmodusmodell von Altmann (1987), beschrieben auch in Thurmair 1989: 42ff.
+
+### Definitionen
+
+Als **Satzmodi** oder **Satzarten** bezeichnet man feste sprachliche Muster, die aus dem Zusammenwirken formal und funktional bestimmter Faktoren entstehen (s. Thurmair 1989: 46, Tabelle 3) und zum Ausdruck von propositionalen Grundeinstellungen dienen (s. Thurmair 1989: 46, Tabelle 4).
+
+<img src="pictures/satzmodus_image001.png" width="100%" height="100%" />
+
+Ein **Formtyp** konstituiert sich durch mehrere formale Kennzeichen (s. Thurmair 1989: 46, Tabelle 3).
+
+Jeder Formtyp ist genau einem **Funktionstyp** zugeordnet (s. Thurmair 1989: 46, Tabelle 4) und dient zum direkten Ausdruck einer abstrakt zu verstehenden grundlegenden Einstellung eines Sprechers zur Proposition (d.h. einer propositionalen Grundeinstellung).
+
+Die konkrete **lexikalische Füllung** (z.B. W-Wörter, Modalverben, Abtönungspartikeln) ergibt im Zusammenwirken mit einem **Funktionstyp** einen bestimmten **Illoktionstyp**.
+
+Der **Illokutionstyp** der Äußerung (Sprechhandlungstyp - zum Ausdruck der Redeabsicht des Sprechers) kann der ausgedrückten propositionalen Grundeinstellung entsprechen, die ja bereits durch den jeweiligen Formtyp (z. B. Aussagesatzform) vorgegeben ist.
+
+Die propositionale Grundeinstellung, die durch einen bestimmten Grundtyp zum Ausdruck gebracht wird, kann jedoch **durch zusätzliche einstellungsanzeigende sprachliche Mittel** (vor allem Modalverben, performative Verben, Satzadverbiale, Negationselemente, Abtönungselemente), den weiteren sprachlichen Kontext und die außersprachliche Situation **spezifiziert und modifiziert** werden.
+
+Die **Illokution der Äußerung** ist für den Hörer mit Hilfe **interpretativer Strategien** aus den formalen Indikatoren des Funktionstyps, der lexikalischen Füllung des Satzes und dem sprachlichen als auch außersprachlichen Kontext **erschließbar**.
+
+Die sprachlichen Mittel, die die tatsächliche illokutive Kraft einer Äußerung bestimmen, sind **hierarchisch geordnet**: z.B.
+kann eine Abtönungspartikel wie [*ruhig*]{.underline} oder [*mal*]{.underline} erst dann in einem Aussagesatz auftreten, wenn dessen propositionale Grundeinstellung bereits durch Modalverben abgewandelt (modifiziert) ist:
+
+(1) Du *kannst* dich [*ruhig*]{.underline} hinsetzen, ich beiße ja nicht. (*ruhig* ist Abtönungspartikel)\
+(2) Du setzt dich [*ruhig*]{.underline} hin, ... (*ruhig* nur als Modaladverb interpretierbar)
+
+
+### Grundlegende Formtypen
+
+Im Deutschen kann man **folgende grundlegende Satzmodi (Grundtypen)** unterscheiden:
+
+-   Aussagesatz (auch: Deklarativsatz, Konstativsatz),\
+-   Fragesatz (auch: Interrogativsatz),\
+-   Imperativsatz (auch: Aufforderungsatz, in weiteren Sinne),\
+-   Wunschsatz (auch: Desiderativsatz),\
+-   Ausrufesatz (auch: Exklamativsatz).
+
+Die einzelnen Satzmodi lassen sich nach Form und Funktion im Kontext in mehrere Subtypen gliedern.
+Besonders zahlreich sind die einzelnen Aufforderungssatz- und Fragesatztypen.
+
+<img src="pictures/satzmodus_image003.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image005.png" width="100%" height="100%" />
+
+### Fragesätze
+
+**Tabelle 1: Prototypische Merkmale deutscher Fragesätze** **(im Altmannschen Satzmodusmodell)** (zusammengestellt nach den Angaben in Thurmair 1989: 44, 46, 66-73)
+
+<img src="pictures/Satzmodus_Tab1_Fragesatztypen.jpg" width="100%" height="100%" />
+
+#### Vergleich mit anderen Grammatiken
+
+Im Duden (1995: 592-594) und in Engel (1988: 52-58) werden teilweise andere Termini für den Bezug auf die verschiedenen Fragesatztypen verwendet:
+
+**Tabelle 2:** **Vergleich frage(satz)bezogener Termini in grammatischen Werken**
+
+<img src="pictures/satzmodus_vergleich_Fragesatztypen.jpg" width="100%" height="100%" />
+
+**Unterschied zwischen "Fragesatz" und "Frage"** (Aussagesatz und Aussage, usw.): *Fragesatz* bezieht sich auf den Satzmodus eines Satzes und damit auf den Formtyp, *Frage* dagegen auf den Sprechakt (den Illokutionstyp) einer Äußerung (prinzipiell sind verschiedene Formtypen möglich). Entsprechendes gilt für die beiden Ausdrücke "Aussagesatz" und "Aussage". In Thurmair (1989) und Duden (1995) werden Satzmodi (Satzarten) beschrieben, in Engel (1988) hingegen Sprechakttypen.   
+
+
+**Beispiele aus Thurmair (1989)**
+
+#### Alternativfragesätze
+
+<img src="pictures/satzmodus_image011.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image013.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image015.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image017.png" width="100%" height="100%" />
+
+
+<img src="pictures/satzmodus_alternativfragesatz.jpg" width="100%" height="100%" />
+
+#### Assertive Fragesätze
+
+<img src="pictures/satzmodus_image021.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image023.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_assertiver_fragesatz.jpg" width="100%" height="100%" />
+
+
+#### Rückfrage Typ 1
+
+<img src="pictures/satzmodus_image027.png" width="100%" height="100%" />
+
+
+<img src="pictures/satzmodus_rueckfragesatz1.jpg" width="100%" height="100%" />
+
+
+#### Rückfrage Typ 2
+
+<img src="pictures/satzmodus_image031.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image033.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_rueckfragesatz2.jpg" width="100%" height="100%" />
+
+
+
+#### Rückfrage Typ 3
+
+<img src="pictures/satzmodus_image035.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_rueckfragesatz3.jpg" width="100%" height="100%" />
+
+
+#### W-Vergewisserungsfragesätze
+
+<img src="pictures/satzmodus_image037.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image039.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image041.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_image043.png" width="100%" height="100%" />
+
+<img src="pictures/satzmodus_w_versicherungsfragesatz.jpg" width="100%" height="100%" />
+
+
+#### Ueberblick
+
+<img src="pictures/satzmodus_ueberblick.jpg" width="100%" height="100%" />
 
 
