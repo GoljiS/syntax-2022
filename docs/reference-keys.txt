@@ -63,7 +63,7 @@ rückfrage-typ-2
 rückfrage-typ-3
 w-vergewisserungsfragesätze
 ueberblick
-dependenz
+dependenzgrammatik
 valenz
 ergänzung-vs.-angabe
 verben-semantische-oberklassen
@@ -111,4 +111,5 @@ reflexivpronomina
 pronomen-es
 funktionsverbgefüge-und-andere-lexikalische-fügungen
 leipziger-valenzmodell
+semantisierte-valenz
 nominalphrasen

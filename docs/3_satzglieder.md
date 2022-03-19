@@ -1,4 +1,4 @@
-# Dependenz
+# Dependenzgrammatik
 
 Als Grundbeziehung zwischen (linear auftretenden) sprachlichen Elementen gilt auch das Prinzip der **Dependenz**, d.h.
 der Abhängigkeit eines Elementes von einem anderen.
@@ -110,15 +110,172 @@ In den folgenden Tabellen sind die Ergänzungsklassen zu sehen, die im Rahmen de
 
 ### Subjekt
 
+Das Subjekt (E~sub~) hat verschiedene **Ausdrucksformen**. Es erscheint als:    
+- Nominalphrase im Nominativ (1 - 2),   
+- Pronominalphrase im Nominativ (3 - 4),   
+- Nebensatz ohne und mit Korrelat *es* (5),   
+- Infinitvsatz ohne und mit Korrelat *es* (6).   
+
+(1) *Diese Frau* ist unsere Nachbarin. 
+(2) *Der Löwe mit seiner imposanten Mähne* ist der König der Tiere.   
+(3) *Sie als vernünftiger Mensch* sollte das wissen. - Das Kind ist immer so fröhlich. *Es* versetzt alle Anwesenden in gute Laune. 
+(4) *Niemand* hat das Recht, Sie zu beschimpfen.   
+(5) *Dass Sie sich so kurzfristig noch bei uns einfinden konnten*, freut uns sehr. - *Es* freut uns sehr, *dass Sie sich so kurzfristig noch bei uns einfinden konnten*.   
+(6) *Mit Ihnen zu spazieren*, hat mir große Freude bereitet. - *Es* hat mir wirklich große Freude bereitet, *mit Ihnen zu spazieren*.
+
+In Beispiel (3) bezieht sich das Pronomen *es* auf *das Kind* im vorherigen Satz. Das Pronomen *es* ist in diesem Fall mit dieser Nominalphrase *das Kind* austauschbar und daher so wie diese als Subjekt einzuordnen.   
+
+Aus den Beispielen (5) und (6) ist ersichtlich, dass das Pronomen *es*, obwohl es im Nominativ steht, nicht allein das Subjekt darstellt, sondern gemeinsam mit dem Neben- bzw. Infinitivsatz. Es fungiert als Korrelat oder Platzhalter im Hauptsatz für den ausgeklammerten Neben- bzw. Infinitivsatz.    
+
+**Kongruenz**:   
+Das Subjekt kongruiert (von wenigen Ausnahmen abgesehen) in Person und Numerus mit der finiten Verbform. 
+
+Die meisten Verben fordern ein Subjekt, aber nicht alle. Witterungsverben (7) und Empfindungsverben (8) kommen ohne Subjekt vor. Das Personalpronomen *es* in Beispiel (7) wird nicht als Subjekt gewertet, denn es lässt sich nicht durch andere Ausdrucksformen ersetzen. In solchen Fällen ordnet man das nicht-kommutierbare Pronomen dem Verbalkomplex zu. In Beispiel (8) kommt keine Nominalphrase im Nominativ vor, der Satz ist also subjektlos. Die Dativergänzung bezieht sich auf eine Person, die eine (angenehme oder unangenehme) Erfahrung macht oder Empfindung verspürt.     
+
+(7) *Es* regnet. *Es* hagelt. *Es* schneit. ...   
+(8) *Mir* ist kalt. *Mir* graut es vor diesem Menschen. Rap-Musik gefällt *ihr* am besten.    
+
+Die Dependenzdiagramme [@engel2008deutsche] zeigen den Unterschied zwischen Nominalphrasen in Subjekt- und Objektfunktion an:   
+
+<img src="pictures/valenz_subjekt1.jpg" width="100%" height="100%" />
+
+<img src="pictures/valenz_subjekt2.jpg" width="100%" height="100%" />
+
+
+*Verbklassen ohne Subjekt* sind ein Argument dafür, dass das Subjekt wie andere Ergänzungen von der Verbvalenz abhängen und dass es nicht notwendig ist, dem Subjekt im Valenzmodell eine Sonderrolle einzuräumen. Ein weiteres Argument sind auch *semantische Beschränkungen*, die durch die Valenz des Hauptverbs festgelegt werden und auch das Subjket betreffen.   
+
+Für die *Sonderstellung des Subjekts* gegenüber anderen Ergänzungen gibt es mehrere Argumente:   
+- die *Kongruenz* zwischen Subjekt und finiter Verbform,   
+- in *Infinitivsätzen* wird das Subjekt eliminiert,    
+- das Subjekt ist bei weitem das *häufigste Satzglied*,   
+- das Subjekt tritt häufig als *erstes Satzglied* auf,   
+- das Subjekt bezieht sich häufig auf den Urheber einer Handlung (*Agens*),   
+- das Subjekt nimmt häufig Bezug auf bekannte Information (*Thema*).   
+
+**Transformationen**:   
+- E~sub~ (Aktivsatz) ==> E~prp~ (Passivsatz) in Beispiel (9),   
+- E~sub~ (Satzglied) ==> E~gen~ (Attribut in NP) in (10).   
+- E~sub~ (Satzglied) ==> E~prp~ (Attribut in NP) in (11).   
+
+Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2008deutsche]:   
+
+<img src="pictures/valenz_subjekt3.jpg" width="100%" height="100%" />
+
+Aus dem Subjekt eines Aktivsatzes wird im *Passivsatz* eine Präpositivergänzung (9) und in einer *Nominalisierung* ein Genitivattribut (Subjektgenitiv, Beispiel 10) oder ein Präpositionalattribut (Präpositivergänzung zum Nomen, Beispiel 11).   
+
+(9) *Inge* holt den Wagen [am Montag] ab. ==> Der Wagen wird *von Inge* [am Montag] abgeholt.    
+(10) *Die Studentin* bereitet sich auf eine Prüfung vor. ==> die Vorbereitung *der Studentin* auf eine Prüfung ...    
+(11) *Der Arzt* behandelt eine Privatpatientin. ==> die Behandlung der Privatpatientin *durch den Arzt* ...    
 
 ### Akkusativergänzung
+
+Die Akkusativergänzung (E~akk~) wird auch als *Akkusativobjekt* oder *direktes Objekt* bezeichnet und hat verschiedene **Ausdrucksformen**. Sie erscheint als:    
+- Nominalphrase im Akkusativ (1),   
+- Pronominalphrase im Akkusativ (2),   
+- Nebensatz ohne und mit Korrelat *es* (3),   
+- Infinitvsatz ohne und mit Korrelat *es* (4).   
+
+(1) Die Arbeitnehmer fordern *eine Gehaltserhöhung*.    
+(2) Ein Mann ist in eine Wohnung eingedrugen. Die Nachbarin hat *es* auch gesehen.   
+(3) Wir haben nicht erwartet, *dass Sie sich so kurzfristig noch bei uns einfinden könnten*. - Er schätze *es*, *wenn man ihn freundlich behandelte*.   
+(4) Wir hoffen, *Ihnen ein gutes Angebot machen zu können*. - Der Bauer hielt *es* für ratsam, *möglichst früh aufzustehen*.   
+
+In Beispiel (2) bezieht sich das Pronomen *es* auf ein Neutrum (ein Ereignis). Das Pronomen *es* ersetzt in diesem Fall den vorherigen Satz und füllt eine der Leerstellen des Verbs sehen, nämlich diejenige, die für die Akkusativergänzung vorgesehen ist.   
+
+Aus den Beispielen (3) und (4) ist ersichtlich, dass das Pronomen *es*, obwohl es im Akkusativ steht, nicht allein das Objekt darstellt, sondern gemeinsam mit dem Neben- bzw. Infinitivsatz. Es fungiert als Korrelat oder Platzhalter im Hauptsatz für den ausgeklammerten Neben- bzw. Infinitivsatz.    
+
+**Kongruenz**:   
+Im Deutschen kongruiert die Akkusativergänzung nicht mit der finiten Verbform. 
+
+Das linke Dependenzdiagramme [@engel2008deutsche] zeigt einen Satz mit Akkusativergänzung:   
+
+<img src="pictures/valenz_subjekt1.jpg" width="100%" height="100%" />
+
+**Semantik**:   
+Viele *Handlungsverben* fordern eine Akkusativergänzung, daher ist die Akkusativergänzung die zweithäufigste aller Ergänzungen. Bedeutungsmäßig ist die Akkusativergänzung von Handlungsverben häufig ein *Patiens* (d.h. ein von der Handlung betroffener oder erzeugter Gegenstand). 
+
+**Ersatzformen**:   
+Nicht jede Nominalphrase oder Pronomen im Akkusativ ist automatisch eine Akkusativergänzung. Eine Akkusativergänzung identifizieren wir mit einem *Personalpronomen im Akkusativ*, das jedoch durch andere Ausdrucksformen ersetzbar sein muss, oder mit der Fragestellung *Wen oder was?*.   
+
+(5) Ich meine *es* doch gut mit Ihnen.    
+(6) Er ist *einen Kilometer* (weit) gelaufen.       
+
+Das Personalpronomen *es* in Beispiel (5) ist nicht ersetzbar und  daher keine Akkusativergänzung (E~akk~) sondern gehört zum Verbalkomplex. Es handelt sich umd eine feste Wendung. In Beispiel (6)
+ist die Nominalphrase im Akkusativ *einen Kilometer* nicht ersetzbar durch die Anapher im Akkusativ *ihn*, aber erfragbar durch *Wie weit?*. Daher ist eine Expansivergänzung (E~exp~) die angemessenere Lösung.   
+
+**Transformationen**:   
+- E~akk~ (Aktivsatz) ==> E~sub~ (Passivsatz) in Beispiel (7),   
+- E~akk~ (Satzglied) ==> E~gen~ (Attribut in NP) in (8).   
+
+Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2008deutsche]:   
+
+<img src="pictures/valenz_subjekt3.jpg" width="100%" height="100%" />
+
+Aus der Akkusativergänzung eines Aktivsatzes wird im *Passivsatz* ein Subjekt (7) und in einer *Nominalisierung* ein Genitivattribut (Objektgenitiv, Beispiel 8).   
+
+(7) Inge holt *den Wagen* [am Montag] ab. ==> *Der Wagen* wird von Inge [am Montag] abgeholt.    
+(8) Der Arzt behandelt *eine Privatpatientin*. ==> die Behandlung *der Privatpatientin*   
+
+Bei vielen transitiven Verben sind Akkusativergänzungen obligatorisch. Ein Beispiel mit fakultativer Akkusativergänzung:   
+
+(9) Wir essen gerade. (ausgelassene E~akk~: *was* essen wir?)   
 
 
 ### Dativergänzung
 
+Die *Dativergänzung*, traditionell auch als *Dativobjekt* oder *indirektes Objekt* bezeichnet, kommt bei recht vielen transitiven Verben vor, aber sehr oft nur *fakultativ*. 
+
+**Ausdrucksformen**: Nominal- oder Pronominalphrase im Dativ.   
+Die Dativergänzung enthält KEINE PRÄPOSITION. 
+
+**Transformationen**:   
+- Bei *Passivierung*: unverändert,   
+- bei *Nominalisierung*: E~dat~ ==> E~prp~
+
+Semantisch gesehen handelt es sich um den *Adressaten* einer Handlung. Aber es gibt auch eine Reihe von Nominalphrasen im Dativ, die mit einer anderen Bedeutung assoziiert sind  und teilweise auch nicht eindeutig subklassenspezifisch sind. Daher spricht man in solchen Fällen gerne von *freien Dativen* (Dativus possessivus oder Pertinenzdativ, Dativus ethicus, Dativus sympathicus / commodi und incommodi).   
+
+(1) Das Mädchen hilft *der alten Frau* beim Aufstehen. - *Der alten Frau* wurde geholfen. - die Hilfe *für die alte Frau*
+(2) Er schreibt *seiner Freundin* in dieser Woche schon den dritten Liebesbrief. (E~dat~ = Adressat)   
+(3) Der Sohn reinigt *seinem Vater* das Auto. (für seinen Vater / statt seines Vaters = Benefaktiv oder Nutznießer der Handlung)   
+(4) *Mir* ist die Vase heruntergefallen. (Dativus incommodi: der Person ist ein Mißgeschick widerfahren)   
+(5) Du bist *mir* auf den Fuß getreten. (Dativus possessivus: auf meinen Fuß)
+(6) Du bist *mir* ein schöner Freund!   (ethischer Dativ: innere Anteilnahme des Sprechers an Handlung)   
+(7) Dass du *mir* ja nicht zu spät nach Hause kommst! (ethischer Dativ: innere Anteilnahme des Sprechers am Geschehen)   
+
+Während die prototypische Dativergänzung (Bedeutug: Adressat) im Satz betonbar und erststellenfähig (vorfeldfähig) ist, gibt es bei den sogenannten *freien Dativen* Beschränkungen oder andere Ersatzmöglichkeiten:   
+- der ethische Dativ ist weder betonbar noch vorfeldfähig;   
+- der Dativus sympathicus ist mit einer Präpositionalphrase ersetzbar (*für jemanden* / *statt jemandes*),   
+- der possessive Dativ ist in ein possessives Attribut zu einem Nomen umwandelbar (eine Teil-Ganzes-Beziehung liegt demnach vor).   
+
 
 ### Genitivergänzung
 
+Die *Genitivergänzung* (E~gen~), auch als *Genitivobjekt* bezeichnet, ist im Gegenwartsdeutschen auf eine kleinere Gruppe von Verben beschränkt. Viele davon gehören in den juristischen Sprachgebrauch. Bei manchen Verben konkurriert die Genitivergänzung mit anderen Termergänzungen, z.B. mit der Präpositivergänzung (1). 
+
+(1) Sie erinnerte sich noch sehr gut *jenes Tages*. - Sie erinnnerte sich noch sehr gut *an diesen Tag*.   
+
+**Ausdrucksformen**:   
+- Nominal- oder Pronominalphrase im Genitiv (2 - 3),   
+- Nebensatz oder Infinitivsatz (4 - 5).   
+
+(2) *Dieses schlimmen Tages* entsann sich noch sehr gut.   
+(3) *Dessen* bedarf es wohl nicht mehr.   
+(4) Seine Mitarbeiter beschuldigten ihn, *dass er einen Verstoß gegen die Geschäftsordnung begangen hatte*.   
+(5) Seine Mitarbeiter beschuldigten ihn, *einen Verstoß gegen die Geschäftsordnung begangen zu haben*.   
+
+**Identifikation**:   
+- Anapher *dessen* (Maskulinum, Neutrum) bzw. *deren* (Femininum),   
+- Frage *wessen*?   
+
+**Transformation**:   
+Bei *Passivtransformationen* ändert sich die Form einer Genitivergänzung nicht, bei *Nominalisierung* wird sie - falls überhaupt möglich - in eine Präpositivergänzung umgewandelt.   
+
+(6) Man bezichtigte ihn *des Diebstahls*. ==> Er wurde *des Diebstahls* bezichtigt.   
+(7) Er hat sich *der Stimme* enthalten. ==> die Enthaltung *bei der Abstimmung / Stimmabgabe*    
+
+Genitivergänzungen sind teils *obligatorisch*, teils *fakultativ*. Bei einigen Verben kommen sie gemeinsam mit Akkusativergänzungen vor.   
+
+Im Gegensatz zu den Genitivergänzungen, die als Satzglieder zu Verben treten, kommen **Genitivattribute**, seien es nun Angaben oder Ergänzungen, in vielen Texten, insbesondere in Fachtextsorten, Publizistik und wissenschaftlicher Literatur ziemlich häufig vor.   
 
 
 ### Präpositivergänzung
@@ -911,6 +1068,26 @@ Transformationen: s.o.
 
 ### Modifikativergänzung
 
+Die Modifikativergänzung (E~mod~) wurde von [@engel2004deutsche] für eine kleine Gruppe von Verben neu eingeführt, und zwar für die Verben des sich-Verhaltens, einer Gruppe von statistischen Verben (wie z.B. *sein*). 
+
+**Identifikation**:   
+- Anapher *auf diese Weise, auf diese Art*,   
+- Frage *wie?*
+
+(1) Er benimmt sich *schlecht*.   
+(2) Sie verhält sich *kameradschaftlich*.   
+
+Die Modifikativergänzung ist bei diesen Verben obligatorisch. Im Imperativ kann man das Verb *sich benehmen* auch ohne Modifikativergänzung verwenden.    
+
+(3) *Benimm dich* oder es knallt!
+
+Dieses Kriterium war auch bei den Situativergänzungen schon verwendet worden und war hilfreich bei der Abgrenzung von den situierenden Angaben. Trotz der Forderung nach obligatorischem Auftreten gestaltet sich die Abgrenzung der Modifikativergänzung von der Prädikativergänzung, aber auch von der modifikativen Angabe, dennoch schwierig, da dieselben Anaphern (*auf diese Art, auf diese Weise*) oder dieselbe Fragestellung (*wie?*) auch bei diesen Klassen Anwendung finden.   
+
+(4) Die Stiefeltern behandelten den Jungen *fürsorglich*. (Prädikativergänzung: sie behandelten ihn auf diese Weise - wie behandelten sie ihn?)   
+(5) Unsere Oma hört und sieht *schlecht*. (modifizierende Angabe: sie hört / sieht so - wie hört und sieht sie?)   
+(6) Mein Freund fährt *schneller*, als die Polizei es erlaubt. (modifizierende Angabe: wie, auf welche Art und Weise fährt er?)   
+
+Allein aus diesen wenigen Beispielen ist ersichtlich, dass es zu Überschneidungen zwischen den beiden Ergänzungsklassen und der Angabeklasse kommt und dass die Modifikativergänzung als eigenständige Ergänzungsklasse nicht notwendig zu scheint. [@durovic2004proundcontra] schlägt vor, die Modifikativergänzung als Subklasse des Prädikativums, als Modalprädikativum, einzuordnen.      
 
 
 ### Prädikativergänzung
@@ -2510,29 +2687,13 @@ Er meint es gut mit dir.
 
 
 
-Das nicht-kommutierbare *es* wird **zum Verbalkomplex**,
-und nicht als Ergänzung gerechnet.
-Das hat die Konsequenz, dass einige der
-angeführten Sätze kein Subjekt haben.
-Andere Grammatiktheorien sprechen in
-einem solchem Falle von einem **formalen
-Subjekt**.
-In (10), (11) ist *es* stellungsgebunden:
-eliminiert man es an dieser 1.
-Stelle des Satzes, so wird der Aussagesatz
-(konstative Satz) zum Fragesatz; stellt man ein anderes Satzelement an die
-Spitze des Satzes, so fällt dieses *es* weg.
+Das nicht-kommutierbare *es* wird **zum Verbalkomplex**, und nicht als Ergänzung gerechnet. Das hat die Konsequenz, dass einige der angeführten Sätze kein Subjekt haben. Andere Grammatiktheorien sprechen in einem solchem Falle von einem **formalen Subjekt**. In (10), (11) ist *es* stellungsgebunden: eliminiert man es an dieser 1.
+Stelle des Satzes, so wird der Aussagesatz (konstative Satz) zum Fragesatz; stellt man ein anderes Satzelement an die Spitze des Satzes, so fällt dieses *es* weg.
 
-Daher kategorisiert [Latour]{.underline} (1985:46) dieses nicht-kommutierbare
-stellungsgebundene Pronomen *es* weder
-als abhängiges Satzglied noch dem Verbalkomplex zugehörig.
+Daher kategorisiert [Latour]{.underline} (1985:46) dieses nicht-kommutierbare stellungsgebundene Pronomen *es* weder als abhängiges Satzglied noch dem Verbalkomplex zugehörig.
 
-**\
-**
 
 ### Funktionsverbgefüge und andere lexikalische Fügungen
-
-
 
 Der Begriff der **lexikalischen Fügung** deckt einen Bereich ab, der sehr heterogen ist
 in Bezug auf die interne syntaktische Struktur wie auch in Bezug auf den
@@ -2760,3 +2921,21 @@ Sie wiederum mit den Mannheimer Valenzmodellen!
 [[1]](#_ftnref1) Die **Hauptverben** (in anderen Grammatiken meist *Vollverben* genannt) sind im Gegensatz zu den Nebenverben und Funktionsverben in der Lage, ohne weitere Verben bzw.
 stützende Nominal- oder Präpositionalphrasen einen Satz zu konstituieren - z.B.
 in der finiten Verbform (Engel 1988: 409).
+
+<img src="pictures/Helbig_Buscha_aktanten0.jpg" width="100%" height="100%" />
+
+<img src="pictures/Helbig_Buscha_aktanten1.jpg" width="100%" height="100%" />
+
+<img src="pictures/Helbig_Buscha_aktanten2.jpg" width="100%" height="100%" />
+
+<img src="pictures/Helbig_Buscha_aktanten3.jpg" width="100%" height="100%" />
+
+
+## Semantisierte Valenz
+
+Aus Helbig & Buscha (1987): semantische Valenz.   
+
+<img src="pictures/Helbig1980_sem_valenz1.jpg" width="100%" height="100%" />
+
+<img src="pictures/Helbig1980_sem_valenz2.jpg" width="100%" height="100%" />
+
