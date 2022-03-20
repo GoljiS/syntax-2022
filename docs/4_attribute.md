@@ -1398,6 +1398,4 @@ Ein anderes klassisches Beispiel: Wer trägt den Schlafanzug?
 
 Die Präpositionalphrase könnte eine Angabe zum Subjekt (*ich*) sein oder eine Angabe zum Objekt (*Elefant*).   
 
-<img src="pictures/Helbig1980_sem_valenz1.jpg" width="100%" height="100%" />
-
 

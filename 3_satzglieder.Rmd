@@ -1821,7 +1821,7 @@ Einteilung in 7 **Subklassen**:\
 - judikative Angaben (z. B. bemerkenswerterweise), zusätzlich satzorientiert;\
 - verifikative Angaben (z. B. tatsächlich);\
 - Abtönungselemente (z. B. ja, doch, eben, halt, denn, mal);\
-- Dativus ethicus oder ethischer Dativ (vor allem mir).
+- Dativus ethicus oder ethischer Dativ (vor allem *mir*).
 
 #### Kautive Angaben
 
