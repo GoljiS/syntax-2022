@@ -1,6 +1,6 @@
 # Nominalphrasen
 
-Die folgenden Abschnitte stellen in wesentlichen Teilen eine Zusammenfassung des Kapitels *Die NOMINALPHRASE (NP)* in (Engel 1988: 603-648) dar.
+Die folgenden Abschnitte stellen in wesentlichen Teilen eine Zusammenfassung des Kapitels *Die NOMINALPHRASE (NP)* in [@engel1996deutsche: 603-648] dar.
 
 ## Bestandteile der Nominalphrase
 
@@ -9,10 +9,10 @@ Während das isolierte Nomen nur namengebende Funktion hat, verleiht jedes **Det
 Salopp gesprochen sind Determinative ***Phrasenmacher***.
 
 Die Nominalphrase (NP) besteht aus einem **Kopf** (auch: Gliedkern oder Kern) und einem oder mehreren **Attributen** (Begleiter, Gliedteil, Satellit).
-[@engel2008deutsche] verwendet die Termini *Kern* und *Satellit*.
+[@engel1996deutsche] verwendet die Termini *Kern* und *Satellit*.
 Der Kopf einer NP hat zumindest *ein* Determinativ als dessen Begleiter.
 
-In Fällen wie (1) geht Engel davon aus, daß ein Nullartikel (also ein phonetisch nicht realisierter Artikel) als Determinativ vorliegt.
+In Fällen wie (1) geht [@engel1996deutsche] davon aus, daß ein Nullartikel (also ein phonetisch nicht realisierter Artikel) als Determinativ vorliegt.
 
 (1) Gibt es noch [*0* Rotwein?]{.underline}
 
@@ -21,7 +21,7 @@ Der Kern einer NP ist ebenfalls obligatorisch, kann aber aus kontextuellen Grün
 (2) A: Willst du den [roten *0*]{.underline} oder den grünen Bleistift?\
     B: Ich nehme den [grünen *0*]{.underline}.
 
-Engel befürwortet eine Zweiteilung in **Nominalphrase und Pronominalphrase**.
+[@engel1996deutsche] befürwortet eine Zweiteilung in **Nominalphrase und Pronominalphrase**.
 Der Kern einer NP ist demnach immer ein Nomen (Substantiv), der Kern einer Pronominalphrase (PrnP) hingegen immer ein Pronomen (3).
 
 (3) [Sie beide]{.underline} hatten spontan dasselbe gedacht.
@@ -37,15 +37,17 @@ In der Oberflächenstruktur einer NP erscheinen alle Satelliten nach bestimmten 
 Einige Attribute stehen vor dem Nomen, andere hinter dem Nomen und gewisse Satelliten können unter bestimmten Umständen sowohl vor als auch hinter dem Kern stehen.
 Es gibt sogar einige, die vom Kern getrennt werden können.
 
-Engel unterscheidet in terminologischer Anlehnung zur Satztopologie drei Stellungsfelder:
+[@engel1996deutsche] unterscheidet in terminologischer Anlehnung zur Satztopologie drei Stellungsfelder:
 
 -   **Vorfeld** (links vom Kern) -- auch: pränominale Stellung des Attributs (**pränominale Attribute**) genannt,\
 -   **Kern** (in anderen Modellen auch *Kopf* genannt),\
 -   **Nachfeld** (rechts vom Kern) -- auch: postnominale Stellung des Attributs (**postnominale Attribute**).
 
-<img src="pictures/np_stellungsfelder.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/np_stellungsfelder.jpg")
+```
 
-Die von Engel aus der Satzsyntax auf die Nominalphrase übertragenen Termini *Vorfeld, Mittelfeld* und *Nachfeld* sind **irreführend**, weil sie eine vollkommene Parallele zwischen Satz- und Nominalphrasenstruktur vortäuschen.
+Die von [@engel1996deutsche] aus der Satzsyntax auf die Nominalphrase übertragenen Termini *Vorfeld, Mittelfeld* und *Nachfeld* sind **irreführend**, weil sie eine vollkommene Parallele zwischen Satz- und Nominalphrasenstruktur vortäuschen.
 Trotz gewisser Parallelen gibt es mehrere Unterschiede, z.B.
 die folgenden im Deutschen:
 
@@ -53,7 +55,9 @@ die folgenden im Deutschen:
 -   Ein **Mittelfeld** wie im Satz gibt es nicht, weil das Nomen nie diskontinuierlich (d.h. zweiteilig an zwei verschiedenen Stellen in der Nominalphrase) vorkommt wie die deutsche Verbalphrase (z.B. *Unser Kind hat dem Weihnachtsmann noch nie einen Brief geschrieben*).\
 -   Das **Nachfeld** in einer Nominalphrase ist im Gegensatz zum Nachfeld eines Satzes relativ häufiger besetzt (z.B. *das Haus meiner Eltern, die Behandlung des Patienten, die Fahrt nach Maribor, ...*).
 
-<img src="pictures/satzfelder_vs_attributfelder.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/satzfelder_vs_attributfelder.jpg")
+```
 
 Vergleicht man die beiden Feldschemata (Satzfelder vs. Attributfelder), dann bietet sich am ehesten eine **Parallele** zwischen der Struktur von *Nominalphrasen* und *Infinitivsätzen* (inkohärenten Infinitivkonstruktionen) an:   
 - dem nominalen Kopf entspricht der Infinitiv in der rechten Satzklammer (RSK),   
@@ -66,11 +70,15 @@ Neutraler und daher präferenter sind Ausdrücke wie:\
 - \*\*pränominales Feld / Attribut (vorangestelltes Attribut\* und\
 - *postnominales Feld / Attribut (nachgestelltes Attribut)*.
 
-Engel gibt folgende Übersicht über die unmarkierten und markierten (in speziellen) Positionen der Attribute in einer NP:
+[@engel1996deutsche] gibt folgende Übersicht über die unmarkierten und markierten (in speziellen) Positionen der Attribute in einer NP:
 
-<img src="pictures/attributfolge.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/attributfolge.jpg")
+```
 
-<img src="pictures/attributfolge_legende.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/attributfolge_legende.jpg")
+```
 
 Hinsichtlich ihrer Stellungspräferenzen werden drei Attributtypen unterschieden:\
 - stellungsfeste Satelliten,\
@@ -87,21 +95,25 @@ Es handelt sich um formal komplexere Phrasen (Nominal- und Präpositionalphrasen
 **Frei verschiebbare Attribute** sind nicht wirklich frei verschiebbar.
 Vielmehr geht es darum, dass bestimmte Attribute, je nach Kombination und Form ihrer Bestandteile voran- oder nachgestellt ewrden.
 Zwei Gruppen sind unterscheidbar:\
-- Nominalphrasen mit *Possessivpronomen als Kopf* (nach Engels Terminologie: Pronominalphrasen), die mit einer nachgestellten NP im Genitiv korrespondieren,\
-- *Appositionsartige Konstruktionen* wie *Nomen varians* und *Nomen invarians*, die aber in der Grammatik von [@engel2008deutsche] von Appositionen (im Engelschen Sinne) abgegrenzt werden.
+- Nominalphrasen mit *Possessivpronomen als Kopf* (nach der Terminologie von [@engel1996deutsche] : Pronominalphrasen), die mit einer nachgestellten NP im Genitiv korrespondieren,\
+- *Appositionsartige Konstruktionen* wie *Nomen varians* und *Nomen invarians*, die aber in der Grammatik von [@engel1996deutsche] von Appositionen (im Engelschen Sinne) abgegrenzt werden.
 
 **Dislozierbare Attribute** können von ihrem Bezugselement (dem nominalen Kopf) getrennt werden und an einer anderen Stelle im Satz erscheinen.
 Diese Eigenschaft zeigen *Quantoren* (Zahlausdrücke), *steigerbare Adjektive*, *präpositive Attribute* und *Adjunkte*.
 
-Das Folgeschema für die deutsche NP in [@engel2008deutsche] zeigt die unmarkierte Abfolge der Attribute, was man als Grundfolge der NP-Attribute bezeichnen könnte.
+Das Folgeschema für die deutsche NP in [@engel1996deutsche] zeigt die unmarkierte Abfolge der Attribute, was man als Grundfolge der NP-Attribute bezeichnen könnte.
 Die unmarkierte Reihenfolge der Attribute stimmt im Wesentlichen mit dem **Behagelschen Gesetz der wachsenden Glieder** überein: die formale Komplexität der Attribute nimmt nämlich von links (vorangestellte Attribute) nach rechts (nachgestellte NP und PP, dann satzartige Konstruktionen) zu.
 
-<img src="pictures/np_folgeschema.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/np_folgeschema.jpg")
+```
 
 Relativ selten werden Determinative in ein- und derselben NP nacheinander aufgestellt.
-Das *Folgeschema* zeigt die *unmarkierte Abfolge der Determinative* [@engel2008deutsche].
+Das *Folgeschema* zeigt die *unmarkierte Abfolge der Determinative* [@engel1996deutsche].
 
-<img src="pictures/det_folgeschema.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/det_folgeschema.jpg")
+```
 
 ## Pränominale Attribute
 
@@ -280,7 +292,7 @@ In Relikten älteren Sprachgebrauchs und in Gedichten finden sich jedoch auch De
 ##### Adjektive
 
 **Adjektive** treten im unmarkierten Fall im Vorfeld einer Nominalphrase auf.
-Unter besonderen Kontextbedingungen treten sie auch im Nachfeld auf, und zwar (Engel 1988: 612ff):
+Unter besonderen Kontextbedingungen treten sie auch im Nachfeld auf, und zwar [@engel1996deutsche: 612ff]:
 
 · die **Konstruktion** [*so* + (unflektiertes) Adjektiv + *wie* bzw. *daß-Nebensatz*]{.underline} kann dem Nomen nachgestellt werden (40);
 
@@ -381,7 +393,7 @@ In nicht-restriktiven Relativsätzen können Abtönungspartikeln (vor allem *ja,
 Außerdem können nicht-restriktive Relativsätze durch Pause vom Bezugselement getrennt werden (intonatorisch größere Selbständigkeit).
 **Restriktive Relativsätze** sind in der Regel obligatorisch, weil sie für das Verständnis des Satzes notwendig sind.
 Mit restriktiven Relativsätzen schränkt man ähnlich wie mit einigen Gradpartikeln (z.B. nur) den Bezug auf eine bestimmte Teilmenge von Objekten ein (57).
-Mehr über Relativsätze in Engel (1988: 292-295).
+Mehr über Relativsätze in [@engel1996deutsche: 292-295].
 
 (57) Ein Junge hatte vier Großväter. Sein Freund wollte wissen, was sie von Beruf waren. Der Junge antwortete:
 
@@ -459,7 +471,9 @@ Eine Sonderrolle spielt das **Nomen varians**.
 
 **KLASSIFIZIERUNG DER GENITIVATTRIBUTE**
 
-<img src="pictures/helbig_engel_genitivattribute.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/helbig_engel_genitivattribute.jpg")
+```
 
 Helbig & Buscha (1996): Deutsche Grammatik. S. 591-592
 
@@ -520,7 +534,7 @@ die Schule meines Bruders <== mein Bruder gehört zu der Schule
 das Bild Goethes <== das Bild stellt Goethe dar
 
 
-Nach [@engel2008deutsche] erscheinen die **Genitivattribute** häufiger im Nachfeld einer NP. Als Vorfeldelemente haben sie immer die Form des *sächsichen Genitivs* und erlauben dann kein realisiertes Determinativ. Nachgestellte Genitivattribute verlangen im Vorfeld der NP ein Determinativ und sind im Gegensatz zu den vorangestellten Genitivattributen meist komplexer aufgebaut.
+Nach [@engel1996deutsche] erscheinen die **Genitivattribute** häufiger im Nachfeld einer NP. Als Vorfeldelemente haben sie immer die Form des *sächsichen Genitivs* und erlauben dann kein realisiertes Determinativ. Nachgestellte Genitivattribute verlangen im Vorfeld der NP ein Determinativ und sind im Gegensatz zu den vorangestellten Genitivattributen meist komplexer aufgebaut.
 
 (66a) das Lieblingsgetränk ([von) unserer Oma]{.underline} (Gen. possessivus)
 
@@ -551,7 +565,7 @@ Das **Nomen invarians** ist ein unveränderliches nominales Attribut zu einem in
 
 (72) (a) Rechtsanwalt Breuer[s]{.underline} : (b) d[es]{.underline} Rechtsanwalt[s]{.underline} Breuer (Titel/Funktion/Beruf : Name)
 
-Für solche Fälle wie in (70)-(72) gilt nach Engel (1988: 627), daß als regierendes Element jeweils das flektierte Nomen (Flexion in den Beispielen jeweils unterstrichen) anzusehen ist, das invariante Element hingegen als Attribut, d.h. als Nomen invarians. Die Abhängigkeitsverhältnisse liegen also jeweils umgekehrt: in (a) sind *Helga*, *Onkel* und *Rechtsanwalt* Nomen invarians, in (b) hingegen *Maier*, *Kurt* und *Breuer*.
+Für solche Fälle wie in (70)-(72) gilt nach [@engel1996deutsche: 627], daß als regierendes Element jeweils das flektierte Nomen (Flexion in den Beispielen jeweils unterstrichen) anzusehen ist, das invariante Element hingegen als Attribut, d.h. als Nomen invarians. Die Abhängigkeitsverhältnisse liegen also jeweils umgekehrt: in (a) sind *Helga*, *Onkel* und *Rechtsanwalt* Nomen invarians, in (b) hingegen *Maier*, *Kurt* und *Breuer*.
 
 Die **Kombinatorik** des Nomen invarians ist vom regierenden Nomen abhängig.
 
@@ -835,7 +849,7 @@ Adjunkte können nicht nur zu Nomina, sondern auch zu Pronomina treten (103).
 Pronomina sind semantisch äquivalent mit Nominalphrasen, nicht mit Nomina.
 
 Adjunkte könnten somit eine besondere Art von Attributen darstellen, die nicht an Nomina, sondern an Nominalphrasen anzuschließen sind.
-Entsprechendes könnte auch für Appositionen und für bestimmte Arten von Relativsätzen gelten (s. dazu Engel 1988: 645ff).
+Entsprechendes könnte auch für Appositionen und für bestimmte Arten von Relativsätzen gelten (s. dazu [@engel1996deutsche: 645ff]).
 
 
 #### Exkurs: Als-Phrasen
@@ -1016,9 +1030,11 @@ Im unmarkierten Fall treten sie jedoch rechts von den Komplementen auf.
 
 #### Appositionen
 
-##### Überblick** (Engel 1988: 806)
+Appositionen nach der Einteilung von [@engel1996deutsche: 806].
 
-**Appositionen** sind **nachgestellte Attribute**, die laut Engel die folgenden wesentlichen Merkmale tragen:
+##### Überblick** 
+
+**Appositionen** sind **nachgestellte Attribute**, die laut [@engel1996deutsche] die folgenden wesentlichen Merkmale tragen:
 
 · sie stellen eine **zusätzlich geäußerte Information** dar, die syntaktisch gesehen stets weglaßbar ist;
 
@@ -1037,7 +1053,7 @@ in der geschriebenen Sprache **zwischen Kommas** (die Kommasetzung unterscheidet
 
 (4) Drüben, [am Westufer des großen Stroms]{.underline}, erhoben sich seltsame Schatten aus dem Nebel.
 
-In (1)-(4) finden sich Beispiele, die Engel (1988) gemäß den oben genannten Merkmalen als **Appositionen** einordnet.
+In (1)-(4) finden sich Beispiele, die [@engel1996deutsche] gemäß den oben genannten Merkmalen als **Appositionen** einordnet.
 
 Der **Form** nach handelt sich um eine Nominalphrase (1), um eine Partizipialphrase (2), um eine Adjektivalphrase (3) und um eine Präpositionalphrase (4).
 Auch das **Regens**, dem eine Apposition zugeordnet wird, braucht nicht unbedingt ein Nomen zu sein, sondern kann auch von einer anderen Wortklasse stammen (außer dem Verb), z.B.
@@ -1049,11 +1065,11 @@ das unterstrichene Nomen in (5).
 (5) Der [Schornsteinfeger]{.underline} Pfeiffer hat uns davon benachrichtigt, daß er leider erst nächste Woche am Dienstag vorbeikommen kann.
 
 Diese Grammatiker unterscheiden zwischen **vorangestellter** Apposition (5) und **nachgestellter** Apposition (1)-(4) oder zwischen **engerer** Apposition (5) und **lockerer** Apposition (1)-(4).
-Es handelt sich nach Engels Meinung um zu heterogene Erscheinungen, um sie sinnvoll auf einen gemeinsamen Nenner zu bringen.
-Strukturen wie in (5) werden von Engel als **Nomen varians** bzw.
+Es handelt sich nach der Meinung von [@engel1996deutsche] um zu heterogene Erscheinungen, um sie sinnvoll auf einen gemeinsamen Nenner zu bringen.
+Strukturen wie in (5) werden von [@engel1996deutsche] als **Nomen varians** bzw.
 als **Nomen invarians** behandelt.
 
-Auch die ***als-*** **und *wie-*Konstruktionen** in (6) und (7), die in einigen Grammatiken zu den Appositionen gezählt werden, werden von Engel ausgeklammert und unter den **Adjunkten** eingeordnet.
+Auch die ***als-*** **und *wie-*Konstruktionen** in (6) und (7), die in einigen Grammatiken zu den Appositionen gezählt werden, werden von [@engel1996deutsche] ausgeklammert und unter den **Adjunkten** eingeordnet.
 
 (6) Er hat das Ihnen [als Freund]{.underline} und nicht [als Bauherr]{.underline} gesagt.
 
@@ -1070,9 +1086,9 @@ Die Apposition selbst bezeichnet nur dann dieselbe Größe (oder dieselben Grö�
 (1b) Mit Herrn Pfeiffer meine ich [den Schornsteinfeger]{.underline}.
 
 
-##### Typen der Apposition** (Engel 1988: 807-810)
+##### Typen der Apposition**
 
-Engel unterscheidet aufgrund der oben genannten Merkmale folgende Appositionstypen:
+[@engel1996deutsche: 807-810] unterscheidet aufgrund der oben genannten Merkmale folgende Appositionstypen:
 
 
 ###### Apposition zum Nomen
@@ -1230,7 +1246,7 @@ Ein-Wort-Appositionen sind sehr selten.
 Zu allen Pronomina können **Pronominalphrasen** gebildet werden.[[5]](#_ftn5) Meist geschieht dies, indem einem Pronomen eine mehr oder weniger vollständige Nominalphrase als Attribut zugeordnet wird.
 Das Relativpronomen regiert einen ganzen Satz und fungiert gleichzeitig als dessen Bestandteil (Engel 1988: 650).
 
-Laut Engel (1988: 650-651) entspricht die **Bedeutungsstruktur** der Pronominalphrasen ihrem syntaktischen Aufbau.
+Laut [@engel1996deutsche: 650-651] entspricht die **Bedeutungsstruktur** der Pronominalphrasen ihrem syntaktischen Aufbau.
 Attribute sind immer nähere Bestimmungen zum Kern: ihr Inhalt fungiert als Prädikat über den Inhalt des Kerns, und die Gesamtbedeutung gibt nicht einen Sachverhalt, sondern eine Größe wieder.
 
 **Besonderheit**: Es gibt keinen Satelliten irgendeines Pronomens, der bei sämtlichen Pronomina vorkommen könnte.
@@ -1240,7 +1256,7 @@ Aber diese Attribute verhalten sich in einer wichtigen Hinsicht nicht wie Ergän
 Der Kern muß also nicht, wie üblicherweise bei den Ergänzungen, kraft seiner Valenz einen speziellen semantischen Relator, die relationale Bedeutung, hinzufügen.
 Wollte man aufgrund dieses Widerspruchs alle pronominalen Attribute zu Angaben erklären, könnte man dies dadurch rechtfertigen, wenn man der **Festlegung der Satzgliedfunktion** (Ergänzung oder Angabe?) nicht die Gesamtklasse *Pronomen*, sondern jeweils eine der Subklassen (Partnerpronomina, Verweispronomina, ...) zugrunde legt.
 Dann blieben allenfalls einige wenige Ergänzungen übrig.
-Engel läßt die Lösung dieses Problems offen.
+[@engel1996deutsche] läßt die Lösung dieses Problems offen.
 Für ihn ist an dieser Stelle entscheidend, daß die Attribute alle unmittelbare Prädikate über den Kern ergeben.
 
 **Appositions-Subklassen**:
@@ -1336,7 +1352,9 @@ Eine vergleichbare Funktion wie die **Appositionen** (58) haben auch die **Paren
 
 **Formvergleich attributiver Parallelformen**:
 
-<img src="pictures/attributive_parallelformen.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/attributive_parallelformen.jpg")
+```
 
 Die **Parenthese** ist überhaupt nicht syntaktisch in den umgebenden Text eingebunden.
 Sie ist zwar eingeschoben, aber ihre Unabhängigkeit wird durch die Gedankenstriche deutlich gemacht.
@@ -1355,12 +1373,12 @@ Im Grunde genommen ist sie als selbständige Äußerung zu verstehen, die sekund
 
 ----------------------------------------------------------------------
 
-[[1]](#_ftnref1) Die **Apposition** ist nach Engel (1988: 864) nur ein nachgestelltes, durch Komma abgetrenntes Attribut.
+[[1]](#_ftnref1) Die **Apposition** ist nach [@engel1996deutsche: 864] nur ein nachgestelltes, durch Komma abgetrenntes Attribut.
 Unterscheidbar sind eine **nominale** Apposition (mit nominalem Kern), eine **qualitative** Apposition (oft mit adjektivischem Kern, eine Eigenschaft angebend) und eine **situative** Apposition (die näheren Umstände angebend).
-Die sogenannte **engere Apposition**, die in vielen anderen Grammatiken von der weiten Apposition (d.h. erkennbar an der Kommasetzung; s.o.) unterschieden wird, ist ein dem Nomen voran- oder nachgestelltes Attribut, das in der Grammatik von Engel als **Nomen varians** und **Nomen invarians** ausgegliedert wird, d.h.
+Die sogenannte **engere Apposition**, die in vielen anderen Grammatiken von der weiten Apposition (d.h. erkennbar an der Kommasetzung; s.o.) unterschieden wird, ist ein dem Nomen voran- oder nachgestelltes Attribut, das in der Grammatik von [@engel1996deutsche] als **Nomen varians** und **Nomen invarians** ausgegliedert wird, d.h.
 nicht als Apposition gilt.
 
-Näheres zur Apposition: Engel (1988: 806-811).
+Näheres zur Apposition: [@engel1996deutsche: 806-811].
 
 [[2]](#_ftnref2) Im Mannheimer Valenzmodell wird die *als*-Phrase zum Verb *verehren* wegen der spezifischen Anaphorisierung *als solchen* als Nominalergänzung eingeordnet.
 
@@ -1377,19 +1395,27 @@ Helbig & Buscha (1987) führen einige Beispiel für Ko- und Subordination von At
 
 Koordinierte Attribute können ihre Position wechseln (Kriterium der Verschiebbarkeit und damit ihrer Eigenständigkeit). Außerdem kann man zwischen koordinierten Attributen ein Komma setzen bzw. eine kurze Sprechpause einlegen (intonatorische Eigenständigkeit). 
 
-<img src="pictures/ko_subordination_attribute1.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/ko_subordination_attribute1.jpg")
+```
 
-<img src="pictures/ko_subordination_attribute2.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/ko_subordination_attribute2.jpg")
+```
 
-<img src="pictures/ko_subordination_attribute3.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/ko_subordination_attribute3.jpg")
+```
 
 ## Strukturelle Ambiguität
 
-Ein Beispiel für strukturelle Ambiguität aus [@engel2008deutsche]. Die Präpositionalphrase *aus Dresden* bezieht sich entweder auf das attributive Nomen im Genitiv (*Pullover*) oder auf das im Dependenzstemma höher hängende attributive Nomen im Genitiv (*Besitzerin*).   
+Ein Beispiel für strukturelle Ambiguität aus [@engel1996deutsche]. Die Präpositionalphrase *aus Dresden* bezieht sich entweder auf das attributive Nomen im Genitiv (*Pullover*) oder auf das im Dependenzstemma höher hängende attributive Nomen im Genitiv (*Besitzerin*).   
 
 (1) der Dank der Besitzerin des roten Pullovers aus Dresden   
 
-<img src="pictures/ambiguitaet_np.jpg" width="100%" height="100%" />
+```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
+knitr::include_graphics("pictures/ambiguitaet_np.jpg")
+```
 
 Ein anderes klassisches Beispiel: Wer trägt den Schlafanzug?
 

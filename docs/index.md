@@ -1,7 +1,7 @@
 ---
-title: "Syntax der deutschen Gegenwartssprache 2021/2022"
+title: "Syntax der deutschen Gegenwartssprache"
 author: "Teodor Petrič"
-date: "2022-03-20"
+date: "2022-03-21"
 site: bookdown::bookdown_site
 bibliography: [book.bib, packages.bib]
 bibio-style: "apalike"
@@ -53,7 +53,8 @@ Andere Themen im Verlauf der Einführung in die deutsche Syntax sind
 syntaktischer Einheiten* wie etwa der Satztypen, Satzglieder und
 Attribute.[^index-1]
 
-[^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015] verfasst.
+[^index-1]: Dieses Buch wurde mit `Bookdown` [@xie2015]
+    zusammengestellt.
 
 Hinweise[^index-2]:
 

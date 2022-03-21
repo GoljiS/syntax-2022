@@ -17,9 +17,7 @@ Derartige Valenzmodelle werden übrigens als *Valenzverbgrammatiken* bezeichnet.
 Das **Regens** ist dasjenige Satzelement, das andere Elemente im Satz ermöglicht, fordert oder ausschließt.
 Ein **Dependens** ist ein Satzelement, das von einem Regens ermöglicht, verlangt oder ausgeschlossen wird.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_leerstellen.jpg")
-```
+<img src="pictures/valenz_leerstellen.jpg" width="100%" height="100%" />
 
 (1) [ ~NP~ Kanadier] -- [ ~VP~ lachen / weinen / schlafen ...]\
 (2) Kanadier lachen / weinen / \*schlafen darüber\
@@ -101,20 +99,14 @@ Bei den *Zustandsverben* sind unterscheidbar:\
 
 ## Ergänzungsklassen
 
-In den folgenden Tabellen sind die Ergänzungsklassen zu sehen, die im Rahmen der Mannheimer Valenzgrammatik unterschieden werden (Engel 1989 und 2004).
+In den folgenden Tabellen sind die Ergänzungsklassen zu sehen, die im Rahmen der Mannheimer Valenzgrammatik unterschieden werden: [@engel1977kleines; @latour1985verbvalenz; @engel1996deutsche; @engel2004deutsche]. Gegenübergestellt werden auch Vorschläge aus anderen grammatischen Werken: [@helbig1987deutsche; @helbig1982valenz; @stepanowa1981wortarten; @grebe1973duden; @glinz1970deutsche]. 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_engel1989.jpg")
-```
+<img src="pictures/valenz_engel1989.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_engel2004.jpg")
-```
+<img src="pictures/valenz_engel2004.jpg" width="100%" height="100%" />
 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_termergaenzungen.jpg")
-```
+<img src="pictures/valenz_termergaenzungen.jpg" width="100%" height="100%" />
 
 ### Subjekt
 
@@ -143,15 +135,11 @@ Die meisten Verben fordern ein Subjekt, aber nicht alle. Witterungsverben (7) un
 (7) *Es* regnet. *Es* hagelt. *Es* schneit. ...   
 (8) *Mir* ist kalt. *Mir* graut es vor diesem Menschen. Rap-Musik gefällt *ihr* am besten.    
 
-Die Dependenzdiagramme [@engel2008deutsche] zeigen den Unterschied zwischen Nominalphrasen in Subjekt- und Objektfunktion an:   
+Die Dependenzdiagramme [@engel2004deutsche] zeigen den Unterschied zwischen Nominalphrasen in Subjekt- und Objektfunktion an:   
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_subjekt1.jpg")
-```
+<img src="pictures/valenz_subjekt1.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_subjekt2.jpg")
-```
+<img src="pictures/valenz_subjekt2.jpg" width="100%" height="100%" />
 
 
 *Verbklassen ohne Subjekt* sind ein Argument dafür, dass das Subjekt wie andere Ergänzungen von der Verbvalenz abhängen und dass es nicht notwendig ist, dem Subjekt im Valenzmodell eine Sonderrolle einzuräumen. Ein weiteres Argument sind auch *semantische Beschränkungen*, die durch die Valenz des Hauptverbs festgelegt werden und auch das Subjket betreffen.   
@@ -169,11 +157,9 @@ Für die *Sonderstellung des Subjekts* gegenüber anderen Ergänzungen gibt es m
 - E~sub~ (Satzglied) ==> E~gen~ (Attribut in NP) in (10).   
 - E~sub~ (Satzglied) ==> E~prp~ (Attribut in NP) in (11).   
 
-Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2008deutsche]:   
+Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2004deutsche]:   
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_subjekt3.jpg")
-```
+<img src="pictures/valenz_subjekt3.jpg" width="100%" height="100%" />
 
 Aus dem Subjekt eines Aktivsatzes wird im *Passivsatz* eine Präpositivergänzung (9) und in einer *Nominalisierung* ein Genitivattribut (Subjektgenitiv, Beispiel 10) oder ein Präpositionalattribut (Präpositivergänzung zum Nomen, Beispiel 11).   
 
@@ -201,11 +187,9 @@ Aus den Beispielen (3) und (4) ist ersichtlich, dass das Pronomen *es*, obwohl e
 **Kongruenz**:   
 Im Deutschen kongruiert die Akkusativergänzung nicht mit der finiten Verbform. 
 
-Das linke Dependenzdiagramme [@engel2008deutsche] zeigt einen Satz mit Akkusativergänzung:   
+Das linke Dependenzdiagramme [@engel2004deutsche] zeigt einen Satz mit Akkusativergänzung:   
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_subjekt1.jpg")
-```
+<img src="pictures/valenz_subjekt1.jpg" width="100%" height="100%" />
 
 **Semantik**:   
 Viele *Handlungsverben* fordern eine Akkusativergänzung, daher ist die Akkusativergänzung die zweithäufigste aller Ergänzungen. Bedeutungsmäßig ist die Akkusativergänzung von Handlungsverben häufig ein *Patiens* (d.h. ein von der Handlung betroffener oder erzeugter Gegenstand). 
@@ -223,11 +207,9 @@ ist die Nominalphrase im Akkusativ *einen Kilometer* nicht ersetzbar durch die A
 - E~akk~ (Aktivsatz) ==> E~sub~ (Passivsatz) in Beispiel (7),   
 - E~akk~ (Satzglied) ==> E~gen~ (Attribut in NP) in (8).   
 
-Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2008deutsche]:   
+Dependenzdiagrame mit einem Aktiv- und einem Passivsatz aus [@engel2004deutsche]:   
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_subjekt3.jpg")
-```
+<img src="pictures/valenz_subjekt3.jpg" width="100%" height="100%" />
 
 Aus der Akkusativergänzung eines Aktivsatzes wird im *Passivsatz* ein Subjekt (7) und in einer *Nominalisierung* ein Genitivattribut (Objektgenitiv, Beispiel 8).   
 
@@ -405,10 +387,10 @@ z.B.
 (25) Walter geht [mit dem Schirm]{.underline} in die Stadt.
 (komitativ)
 
-Engel & Schumacher (1978: 65) setzen in (22) neben der Lokalangabe (*in der Zentrale*) noch eine E~prp~ (*beim Operateur*) an.
+[@engel1977kleines: 65] setzen in (22) neben der Lokalangabe (*in der Zentrale*) noch eine E~prp~ (*beim Operateur*) an.
 Die *bei*-Phrase wird als E~prp~ gewertet, da die Präposition nicht kommutiert (d. h. nicht austauschbar ist, ohne die Funktion der Phrase im Satz zu verändern).
 Sonst sind ***bei*****-Phrasen** **meist als E~sit~** zu werten.
-In (23-24) scheint es Latour (1985: 65) im Gegensatz zu Engel & Schumacher (1978: 65), dass die **Komitativbestimmungen** dennoch nur bei bestimmten Verben vorkommen (also subklassenspezifisch sind).
+In (23-24) scheint es [@latour1985verbvalenz: 65] im Gegensatz zu [@engel1977kleines: 65], dass die **Komitativbestimmungen** dennoch nur bei bestimmten Verben vorkommen (also subklassenspezifisch sind).
 Dies soll laut Latour auch bei den **Instrumentalbestimmungen** der Fall sein.
 
 **Kommutation**:\
@@ -422,7 +404,7 @@ b) [da(r)- + Präposition]{.underline} "Pronominaladverb" bei Sachen, teilweise 
 Die Grenze zwischen a) und b) ist fließend, insbesondere bei Tieren, aber auch bei Institutionen (die Organisationseinheiten von Personengruppen darstellen) ist die Zuordnung nicht immer eindeutig.
 
 **Ausdrucksformen.**\
-Charakteristisch für die E~prp~ (in Engel & Schumacher: E~4~) ist ihre morphosyntaktische Vielfältigkeit: - Präp.
+Charakteristisch für die E~prp~ (in [@engel1977kleines]: E~4~) ist ihre morphosyntaktische Vielfältigkeit: - Präp.
 + NP\
 - Präp + P~rn~P\
 - Pronominaladverb (Präpositionaladverb)\
@@ -437,19 +419,18 @@ z.B.
 Er denkt [darüber]{.underline} nach, [ob er kommen soll]{.underline}.
 Wir erkundigen uns, [wann die Vorstellung beginnt]{.underline}.\
 (29) Er besteht [darauf, die Wahrheit zu erfahren]{.underline}.\
-selten : Präp.
-+ Adj (Engel & Schumacher 1978), (Latour 1985:61)
+selten : Präp. + Adj [@engel1977kleines; @latour1985verbvalenz: 61]
 
 z.B.
 (30) Alle halten ihn [für genial]{.underline}.
-(Helbig & Buscha 1987: Prädikativ)
+[@helbig1987deutsche] ordnet dies dem *Prädikativ* zu. 
 
 Das **Korrelat** ist **oft fakultativ**, **manchmal jedoch obligatorisch**.
 Wenn ein Verb mehrere Präpositionen regiert, die bedeutungsdifferenzierend wirken, dann ist das Korrelat obligatorisch.
 
-Die E~prp~ kommt bei ziemlich **vielen Verben** vor, nur fakultativ und nicht selten doppelt (Latour 1985: 62, 66)
+Die E~prp~ kommt bei ziemlich **vielen Verben** vor, nur fakultativ und nicht selten doppelt [@latour1985verbvalenz: 62, 66]
 
-**Transformationen**: (Helbig & Buscha 1987: 547)
+**Transformationen**: [@helbig1987deutsche: 547]
 
 z.B.
 (31) Man wartete [auf die ausländische Gäste]{.underline}.
@@ -464,14 +445,10 @@ Sie erinnert sich [ihrer Kindheit]{.underline}.
 
 Bei der Passiv- oder Nominalisierungstransformation bleibt die Präpositivergänzung gewöhnlich unverändert.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/transformationen_pass_nom.jpg")
-```
+<img src="pictures/transformationen_pass_nom.jpg" width="100%" height="100%" />
 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_adverbialergaenzungen.jpg")
-```
+<img src="pictures/valenz_adverbialergaenzungen.jpg" width="100%" height="100%" />
 
 
 ### Situativergänzung
@@ -479,8 +456,8 @@ knitr::include_graphics("pictures/valenz_adverbialergaenzungen.jpg")
 E5 , Esit ; pS/Adv , pSA
 
 Lokale wie temporale Esit benennen die Situation, in die ein Sachverhalt eingebettet ist.
-Deshalb wird diese Art von Ergänzung im Mannheimer Valenzmodell auch ***Situativergänzung*** genannt (sie entspricht der Ergänzungsklasse E5 in Engel & Schumacher 1978: 68 ff).
-Der Terminus "adverbiale Umstandsbestimmung des Ortes (bzw. der Zeit) in der deutschen Schulgrammatik verwischt (nach Latour 1985: 65) den **Unterschied**
+Deshalb wird diese Art von Ergänzung im Mannheimer Valenzmodell auch ***Situativergänzung*** genannt (sie entspricht der Ergänzungsklasse E5 in [@engel1977kleines: 68 ff].
+Der Terminus "adverbiale Umstandsbestimmung des Ortes (bzw. der Zeit) in der deutschen Schulgrammatik verwischt (nach Meinung von [@latour1985verbvalenz: 65] den **Unterschied**
 
 a)  **zwischen verbspezifischen und nichtverbspezifischen** Satzgliedern und
 
@@ -496,7 +473,7 @@ z.B.
 (2) *beginnen, anfangen, stattfinden, passieren; beißen*, ...
 
 Die Esit kommt vor allem bei den Verben des räumlichen Sich - Befindens vor, seltener bei anderen Verben, bei denen das Geschehen zeitlich näher bestimmt wird.
-[Engel 1988: 194 ff].
+[@engel1996deutsche: 194 ff].
 In der Grammatik von Engel werden auch einige wenige Verben zu dieser Klasse gezählt, die eine kausale Situativergänzung erfordern (z. B. *beißen*).
 
 **Anapher**:
@@ -508,8 +485,8 @@ b)  temporal [(dann)]{.underline}
 c)  kausal [(deshalb)]{.underline}
 
 Innerhalb einer Ergänzungskategorie liegen somit [drei]{.underline} (zumindest) unterschiedliche [*Anaphorisierungsmöglichkeiten*]{.underline} vor.
-Warum haben die beiden Vertreter des Mannheimer Valenzmodells (Engel und Schumacher) trotzdem nur eine Ergänzungsklasse und nicht zumindest zwei verschiedene (lokale + temporale) Ergänzungsklassen gebildet ?
-Laut Latour (1985: 66) taten sie dies eher aus praktischen Gründen, denn Verben mit einer [temporalen]{.underline} Esit sind nicht besonders häufig.
+Warum haben die beiden Vertreter des Mannheimer Valenzmodells (Engel und Schumacher in [@engel1977kleines]) trotzdem nur eine Ergänzungsklasse und nicht zumindest zwei verschiedene (lokale + temporale) Ergänzungsklassen gebildet ?
+Laut [@latour1985verbvalenz: 66] taten sie dies eher aus praktischen Gründen, denn Verben mit einer [temporalen]{.underline} Esit sind nicht besonders häufig.
 Daher hat man beide in einer E - Kategorie zusammengefasst.
 Noch seltener sind Verben mit einer kausalen Situativergänzung.
 Die meisten Kausalbestimmungen haben nämlich Angabestatus, d.h.
@@ -546,7 +523,7 @@ Die Esit erscheint in (5) und (6) als Präpositionalphrase (d. h. als Präpositi
 als Präp.
 + PrnP (6)), als Präpositionaladverb (7), Adverb (8) und wie die meisten anderen Ergänzungsklassen auch als generalisierende Nebensätze (9) oder indefinite Nebenätze.
 
-Nach Engel (1988: 195) ist die Esit immer *obligatorisch.* Fakultative Situativbestimmungen (10) betrachtet er als [Angaben]{.underline} (mit jeder Art von Verb verbindbar).\
+Nach [@engel1996deutsche: 195] ist die Esit immer *obligatorisch.* Fakultative Situativbestimmungen (10) betrachtet er als [Angaben]{.underline} (mit jeder Art von Verb verbindbar).\
 (10) Das Mädchen las [in ihrem Zimmer]{.underline} einen spannenden Arztroman und vergaß, zu ihrer Verabredung mit dem tollsten Junge in der Klasse zu gehen.
 
 **Transformationen**:
@@ -560,19 +537,13 @@ z.B.
 
 In den Beispielen (11) und (12) ist zu sehen, daß die Situativergänzung bei einer Nominalisierungs- oder bei einer Passivtransformationen unverändert bleibt.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/unterschiede_Eprp_Esit.jpg")
-```
+<img src="pictures/unterschiede_Eprp_Esit.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Esit_ausdrucksformen.jpg")
-```
+<img src="pictures/Esit_ausdrucksformen.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Esit_transformationen.jpg")
-```
+<img src="pictures/Esit_transformationen.jpg" width="100%" height="100%" />
 
-Weitere Beispiele und Erläuterungen zur Situativergänzung aus Latour (1985)
+Weitere Beispiele und Erläuterungen zur Situativergänzung aus [@latour1985verbvalenz]. 
 
 [Verben mit der Situativergänzung]{.underline}
 
@@ -630,7 +601,7 @@ Das Schloss befindet sich [da oben]{.underline}.
 
 Das Restaurant liegt [hinter dem Berg]{.underline}.\
 Das Restaurant liegt [im Wald.]{.underline}\
-(Latour 1985: 66, 67 ff)
+[@latour1985verbvalenz: 66, 67 ff]
 
 ### Direktivergänzung
 
@@ -721,7 +692,7 @@ b)  *Pronominaladverbiale Anaphorisierung* (Anaphpronadv)
 
 Die Subergänzungen *passierter Bereich* und *umgangener Bereich* sind nur durch b) Anaphpronadv anaphorisierbar.
 
-[Latour 1985: 71; 68 - 83 weitere Beispiele und Hinweise]
+([@latour1985verbvalenz: 71; 68 - 83] weitere Beispiele und Hinweise)
 
 Es gibt eine kleine Gruppe von Verben (Latour 1985: 68 ff), bei denen eine Zuordnung zur Edir nicht eindeutig ist.
 Vergleichen Sie die folgenden Beispielsätze !
@@ -735,7 +706,7 @@ Aber: (21) Er *wickelte* das Bündel [in eine Zeitung]{.underline}.
 
 Diese Verben (hier nicht vollständig aufgezählt) markieren einen **Überschneidungsbereich zwischen Esit und Edir**.
 Aber sonst sind Esit und Edir relativ klar abgrenzbar.
-[weitere Hinweise: Latour 1985: 68]
+(weitere Hinweise: [@latour1985verbvalenz: 68])
 
 Bei den Subergänzungen "***passierter***" bzw.
 "***umgangener Bereich***" ist nur Anaphpronadv möglich (Latour 1985: 82).
@@ -768,7 +739,7 @@ Die Anaphern zu [Edir]{.underline} in (25) offenbaren noch einen weiteren (leich
 Die Präposition [*in*]{.underline} einer Edir wird bei Anaphpronadv zu [*- ein*]{.underline}, bei Eprp bleibt sie [*- in*]{.underline}.
 
 Edir sind **teilweise obligatorisch, teils fakultativ**.
-Von fakultativen Edir sprechen Engel & Schumacher (1978: 71), wenn dem betreffenden Element ein besonders hoher Erwartungsgrad und damit eine *spezifische Relation zum Verb* zugeschrieben wird.
+Von fakultativen Edir sprechen [@engel1977kleines: 71), wenn dem betreffenden Element ein besonders hoher Erwartungsgrad und damit eine *spezifische Relation zum Verb* zugeschrieben wird.
 Im anderem Falle, wenn diese Bedingung nicht erfüllt wird, liegt eine [*Direktivangabe*]{.underline} vor.
 
 Vergleichen Sie !
@@ -777,20 +748,18 @@ z.B.
 (26) Der Vogel fliegt ([nach Süden]{.underline}).\
 (27) Er keuchte ([den Gang entlang]{.underline}).\
 (28) Er lächelte ([hinüber]{.underline}).\
-[Engel & Schumacher 1978: 71]
+[@engel1977kleines: 71]
 
-In (27) und (28) liegen gemäß Engel & Schumacher Angaben vor; die Verben dort kommen nur unter besonderen Kontextbedingungen mit Direktivangabe vor.
+In (27) und (28) liegen gemäß [@engel1977kleines] Angaben vor; die Verben dort kommen nur unter besonderen Kontextbedingungen mit Direktivangabe vor.
 
-Es ist gelegentlich kritisiert worden, daß die Edir und die Esit "semantisch definiert" seien, während beispielsweise die Esub und die Eprp morphologisch definiert sind, d.h.
-dass die Kriterien für die Klassifikation der E disparat seien.
-Dazu Engel & Schumacher (1978: 71 ff):
+Es ist gelegentlich kritisiert worden, daß die Edir und die Esit *semantisch definiert* seien, während beispielsweise die Esub und die Eprp morphologisch definiert sind, d.h. dass die Kriterien für die Klassifikation der E disparat seien. Dazu [@engel1977kleines: 71 ff]:
 
 1.  Die E beruhen auf Kommutationsreihen, die bereits [erhebliche semantische Voraussetzungen]{.underline} machen (die Elemente, die einander entsprechen - miteinander kommutieren, können semantisch ja nicht beliebig sein, wenn man [sinnvolle Sätze]{.underline} bilden will).
     -   Hierin liegt also kein Unterschied zwischen Edir und Esit einerseits und Esub und Eprp andererseits.
 2.  Die *Doppelnatur des sprachlichen Zeichen* (Inhalts- und Ausdrucksseite): Man kann zwar keine grundsätzliche 1 : 1 Entsprechung zwischen Inhalts- und Ausdrucksseite feststellen, was aber nicht unbedingt bedeutet, daß sich zu oberflächensyntaktisch ermittelten Kategorien stellenweise keine semantische Entsprechungen ergeben können; stellenweise fehlen solche semantischen Entsprechungen allerdings (nämlich bei Esub, Eakk, Edat, Egen, Eprp).
 
 Anmerkung: Das Subjekt transitiver Verben ist recht häufig **Agens** (d.h. Verursacher einer Handlung), die Akkusativergänzung recht häufig **Patiens** (d.h. betroffener oder erzeugter Gegenstand einer Handlung oder - seltener - Person einer Handlung), die Dativergänzung dagegen des öfteren **Adressat** (d. h. meist eine Person, an die die Handlung gerichtet ist).
-Zu charakteristischen semantischen Interpretationen letzterer Ergänzungsklassen siehe auch Helbig & Buscha 1987 (unter den semantischen Satzmodellen).
+Zu charakteristischen semantischen Interpretationen letzterer Ergänzungsklassen siehe auch [@helbig1987deutsche] (unter den semantischen Satzmodellen).
 
 **Transformationen** :
 
@@ -802,19 +771,15 @@ z.B.
 
 Bei Passiv- oder Nominalisierungstransformationen bleibt die Edir unverändert.
 
-Im Duden (1973: 488 ff) setzt man statt Esit und Edir (E6, E7 in Engel & Schumacher 1978) folgende Ergänzungsklassen an: Raumergänzung, Zeitergänzung, Begründungsergänzung.
+Im Duden [@grebe1973duden: 488 ff] setzt man statt Esit und Edir (E6, E7 in [@engel1977kleines) folgende Ergänzungsklassen an: *Raumergänzung*, *Zeitergänzung*, *Begründungsergänzung*.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Edir_ausdrucksformen.jpg")
-```
+<img src="pictures/Edir_ausdrucksformen.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Edir_transformationen.jpg")
-```
+<img src="pictures/Edir_transformationen.jpg" width="100%" height="100%" />
 
 Weitere Beispiele und Erläuterungen zur Direktivergänzung
 
-Nach Latour (1985: 69 ff) gibt es noch einige Verben, bei denen eine Zuordnung sowohl zu Edir als auch zu Esit möglich ist.
+Nach [@latour1985verbvalenz: 69 ff] gibt es noch einige Verben, bei denen eine Zuordnung sowohl zu Edir als auch zu Esit möglich ist.
 Diese Verben haben alle den trennbaren Verbzusatz [ein-]{.underline}.
 Die Präposition ist in den meisten Fällen *in* und ist nicht kommutierbar (d. h. sie kann nicht gegen eine andere Präposition ausgetauscht werden), was bei den Esit und den Edir sonst nicht vorkommt.
 
@@ -837,13 +802,9 @@ Diese Verben kennzeichnen einen **Überschneidungsbereich** zwischen den beiden 
 
 Anmerkung: Auch im Slowenischen gibt es entsprechende Überschneidungen zwischen Direktiv- und Situativergänzungen.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Edir_subergaenzungen.jpg")
-```
+<img src="pictures/Edir_subergaenzungen.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Edir_anaphorisierung_praepositionen.jpg")
-```
+<img src="pictures/Edir_anaphorisierung_praepositionen.jpg" width="100%" height="100%" />
 
 Beispiele:
 
@@ -1037,7 +998,7 @@ Der Weg führt { um den See.
 
 ### Expansivergänzung
 
-Die Expansivergänzung (E~exp~ ) ist eine von Engel (1988: 196) angesetzte Ergänzung, die in den Valenzmodellen der anderen von uns behandelten Grammatiker als besondere Ergänzungskategorie fehlt.
+Die Expansivergänzung (E~exp~ ) ist eine von [@engel1996deutsche: 196] angesetzte Ergänzung, die in den Valenzmodellen der anderen von uns behandelten Grammatiker als besondere Ergänzungskategorie fehlt.
 
 Stellen Sie in den folgenden Beispielsätzen Unterschiede zwischen den unterstrichenen Ergänzungen hinsichtlich ihrer **Anaphorisierung** fest!
 
@@ -1061,13 +1022,9 @@ Die Anaphorisierung macht folgende Unterschiede deutlich (in Klammern hinter der
 In (1) und (2) erscheinen Nominalphrasen im Akkusativ.
 Die Passiv- und die Nominalisierungstransformation zeigen wie schon das Anaphorisierungsverfahren einen syntaktischen Unterschied zwischen den beiden Nominalphrasen im Akkusativ an.
 
-(1) Er nahm ihr [den Schlüssel]{.underline} ab.
+(1) Er nahm ihr [den Schlüssel]{.underline} ab. -   Der Schlüssel wurde ihr von ihm abgenommen. (Passiv) - Das Abnehmen des Schlüssels (Nominalisierung)\
 
-    -   Der Schlüssel wurde ihr von ihm abgenommen. (Passiv) - Das Abnehmen des Schlüssels (Nominalisierung)\
-
-(2) Er nahm in dieser Zeit [zehn Kilo]{.underline} ab.
-
-    -   \* Zehn Kilo wurden in dieser Zeit von ihm abgenommen. (Passiv) - Das Abnehmen von zehn Kilo (Nominalisierung)
+(2) Er nahm in dieser Zeit [zehn Kilo]{.underline} ab. -   \* Zehn Kilo wurden in dieser Zeit von ihm abgenommen. (Passiv) - Das Abnehmen von zehn Kilo (Nominalisierung)
 
 (3) Eakk =\> Esub im Passivsatz; Eakk =\>Sg Attribut in Nominalisierung;
 
@@ -1099,9 +1056,7 @@ Transformationen: s.o.
 -   In anderen Valenzmodellen fällt die Eexp je nach Semantik und Paradigma unter Eakk, Eprp, Edir bzw. Raumergänzung, Zeitergänzung, u.a.
 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_praedikativergaenzung.jpg")
-```
+<img src="pictures/valenz_praedikativergaenzung.jpg" width="100%" height="100%" />
 
 
 ### Modifikativergänzung
@@ -1125,12 +1080,12 @@ Dieses Kriterium war auch bei den Situativergänzungen schon verwendet worden un
 (5) Unsere Oma hört und sieht *schlecht*. (modifizierende Angabe: sie hört / sieht so - wie hört und sieht sie?)   
 (6) Mein Freund fährt *schneller*, als die Polizei es erlaubt. (modifizierende Angabe: wie, auf welche Art und Weise fährt er?)   
 
-Allein aus diesen wenigen Beispielen ist ersichtlich, dass es zu Überschneidungen zwischen den beiden Ergänzungsklassen und der Angabeklasse kommt und dass die Modifikativergänzung als eigenständige Ergänzungsklasse nicht notwendig zu scheint. [@durovic2004proundcontra] schlägt vor, die Modifikativergänzung als Subklasse des Prädikativums, als Modalprädikativum, einzuordnen.      
+Allein aus diesen wenigen Beispielen ist ersichtlich, dass es zu Überschneidungen zwischen den beiden Ergänzungsklassen und der Angabeklasse kommt und dass die Modifikativergänzung als eigenständige Ergänzungsklasse nicht notwendig zu scheint. [@djurovic2008pro] schlägt vor, die Modifikativergänzung als Subklasse des Prädikativums, als Modalprädikativum, einzuordnen.      
 
 
 ### Prädikativergänzung
 
-Die Nominal- und die Adjektivalerängzung (E~nom~ und E~adj~) wurden in neueren Auflagen der Grammatik von [@engel2008deutsche] als Prädikativergänzung (E~prd~) zusammengefasst.
+Die Nominal- und die Adjektivalerängzung (E~nom~ und E~adj~) wurden in neueren Auflagen der Grammatik von [@engel2004deutsche] als Prädikativergänzung (E~prd~) zusammengefasst.
 
 #### Ehemalige Nominalergänzung (E~nom~)
 
@@ -1167,13 +1122,13 @@ zu c • Nominalisieren Sie!
 In (5,6): Vergleich der Bedeutung von *sein*
 
 In der Grammatik von Jung wird also das gesamte Prädikat ("Kopula" + Prädikativ) als primärer Valenzträger angesehen, die "kopulativen" Verben von den autosemantischen Verben unterschieden.
-Die Valenz des (prädikativen) Adjektivs (Substantivs) rückt damit auf die gleiche Stufe wie die Valenz des Verbs (Stepanowa / Helbig 1981: 171).
+Die Valenz des (prädikativen) Adjektivs (Substantivs) rückt damit auf die gleiche Stufe wie die Valenz des Verbs [@stepanowa1981wortarten: 171].
 
 Wenn das Verb als primärer Valenzträger im Satz angesehen wird, dann sind "kopulative" und autosemantische Verben syntaktisch gleichwertig.
-Man kann dann von einer Hierarchie der Valenz ausgehen (Stepanowa / Helbig 1981: 171).
+Man kann dann von einer Hierarchie der Valenz ausgehen [@stepanowa1981wortarten: 171].
 
-Glinz und die inhaltbezogene Grammatik wollten der "Kopula" (so Engel & Schumacher 1978: 72) wieder den Rang eines vollwertigen Verbs zugestehen.
-Sie verkannten aber die durch das Verb und das "Prädikatsnomen" ausgedrückte Beziehung und Namen und griffen daher zu Bezeichnungen wie "Gleichgröße" (Glinz), "Gleichsetzungsnominativ" (Grebe), "Artangabe" (Glinz), "Artergänzung" (Grebe).
+Glinz und die inhaltbezogene Grammatik wollten der "Kopula" (so [@engel1977kleines: 72) wieder den Rang eines vollwertigen Verbs zugestehen.
+Sie verkannten aber die durch das Verb und das *Prädikatsnomen* ausgedrückte Beziehung und Namen und griffen daher zu Bezeichnungen wie *Gleichgröße* (*Glinz* in in [@glinz1970deutsche]), *Gleichsetzungsnominativ* (*Grebe* in [@grebe1973duden]), *Artangabe* (*Glinz* in [@glinz1970deutsche]), *Artergänzung* (*Grebe* in [@grebe1973duden]).
 
 Warum sind die soeben angeführten Bezeichnungen problematisch?
 Vergleichen Sie die folgenden Beispielsätze!
@@ -1188,11 +1143,11 @@ z.B.: (11) Dieser Mann ist [sein Vater]{.underline}.\
 
 Nur in (11) und (12) geht es wirklich um eine Gleichsetzung der beiden Nominative.
 In den restlichen Sätzen muss man doch eher von einer Einordnung des Individuums in eine bestimmte Kategorie sprechen, die im Subjekt ausgedrückt wird.
-Das betreffende Element wird klassifiziert (siehe auch Latour 1985: 84f; Engel 1988: 197), sei es durch [Einordnung in eine Obermenge]{.underline}, sei es durch [Zuordnung eines Merkmals]{.underline}.
+Das betreffende Element wird klassifiziert (siehe auch [@latour1985verbvalenz: 84f; @engel1996deutsche: 197], sei es durch [Einordnung in eine Obermenge]{.underline}, sei es durch [Zuordnung eines Merkmals]{.underline}.
 Entsprechendes gilt übrigens auch für die Eadj .
 
-Eine Unterscheidung zwischen den Ergänzungsklassen Enom und Eadj erscheint den Vertretern des Mannheimer Valenzmodells (Engel 1988, Engel & Schumacher 1978 und Latour 1985) dennoch aus praktischen Gründen erstrebenswert.
-Warum wohl?
+Eine Unterscheidung zwischen den Ergänzungsklassen Enom und Eadj erscheint den Vertretern des Mannheimer Valenzmodells [@engel1996deutsche; @engel1977kleines; @latour1985verbvalenz] dennoch aus praktischen Gründen erstrebenswert.
+Warum sollte dies so sein?
 
 z.B.: (18) Dein Freund heißt [Manfred]{.underline}, nicht?\
 (19) Manfred ist [freundlich]{.underline}.
@@ -1326,16 +1281,16 @@ b)  morphosyntaktische Unterschiede (Phrasen mit verschiedenen Wortklassen als K
 
 ### Verbativergänzung
 
-In den Tabellen (Engel & Schumacher 1978; Engel 1988: 187), die eine Übersicht über die Ergänzungen in der deutschen Gegenwartssprache geben, fällt auf, dass die E~vrb~ (E9) nur eine ganz bestimmte Formen aufweist.
+In den Tabellen [@engel1977kleines; @engel1996deutsche: 187], die eine Übersicht über die Ergänzungen in der deutschen Gegenwartssprache geben, fällt auf, dass die E~vrb~ (E9) nur eine ganz bestimmte Formen aufweist.
 In welchen Formen kommt die Evrb nämlich vor?
 
 Die Evrb ist im Gegensatz zu den oben genannten Ergänzungen per definitionem **satzförmig**: sie kommutiert nicht mit einer NP, allenfalls mit einem Pronomen (Prn) wie [es]{.underline} oder [das]{.underline}.
-(Latour 1985: 89; Engel 1988: 198).
-Die Evrb wird in den meisten Grammatiken nicht als besondere Ergänzungsklasse ausgesondert, wie die Vergleichstabelle (Engel & Schumacher 1978: 22-23) nahelegt.
+[@latour1985verbvalenz: 89; @engel1996deutsche: 198].
+Die Evrb wird in den meisten Grammatiken nicht als besondere Ergänzungsklasse ausgesondert, wie die Vergleichstabelle [@engel1977kleines: 22-23] nahelegt.
 
 Ergänzungen in Form von Nebensätzen sind uns in den Beschreibungen der anderen Ergänzungsklassen bereits begegnet.
 
-Generalisierende Nebensätze sind (laut Engel & Schumacher 1978: 77; Latour 1985) bei allen Ergänzungen außer bei den Evrb möglich.
+Generalisierende Nebensätze sind (laut [@engel1977kleines: 77; @latour1985verbvalenz]) bei allen Ergänzungen außer bei den Evrb möglich.
 
 • Wodurch unterscheiden sich Evrb einerseits und die satzförmigen Ergänzungen (SE) und die generalisierenden Nebensätze (gen. NS) andererseits?\
 - SEakk(1), gen. NS (2), Evrb (3)
@@ -1347,14 +1302,14 @@ z.B.: (1) Er antwortete, [dass das neue Gesetz morgen in Kraft trete.]{.underlin
 Der Unterschied zeigt sich in der **(Nicht-) Kommutierbarkeit mit NP**: Bei den Evrb handelt es sich um obligatorische NS in Ergänzungsfunktion, die nicht durch NP oder andere Ausdrücke ersetzt werden können.
 Die SE und gen. NS können dagegen durch nicht-satzförmige Elemente ersetzt werden.
 Für die Evrb ist eine Stellung am Satzanfang wesentlich ungewöhnlicher als für die SE und gen. NS.
-(Latour 1985: 90)
+[@latour1985verbvalenz: 90]s
 
 Wie **anaphorisiert** man eine Evrb?
 
 Das ist eines der großen Probleme im Mannheimer Valenzmodell und der Valenztheorie überhaupt.
 Die Valenztheorie liegt keineswegs abgeschlossen vor uns.
 Es gibt bestimmte Probleme, für die sie (noch) keine befriedigenden Lösungen anzubieten hat.
-Ein Beispiel dafür ist die Anaphorisierung, das wichtigste Mittel (neben der Kommunikation) im Valenzmodell von Engel (1988), Engel & Schumacher (1978), Latour (1985), um die einzelnen E-Klassen gegeneinander abzugrenzen.
+Ein Beispiel dafür ist die Anaphorisierung, das wichtigste Mittel (neben der Kommunikation) im Valenzmodell von [@engel1996deutsche, [@engel1977kleines, [@latour1985verbvalenz], um die einzelnen E-Klassen gegeneinander abzugrenzen.
 Die Anaphorisierungsprobe versagt leider in einigen Fällen (z.B.: Eprp - Edir); daher wurden semantische Kriterien herangezogen.
 
 Wie anaphorisiert man einen Satz?
@@ -1385,18 +1340,17 @@ Die Verben [sein, werden, bleiben, heißen]{.underline} sind nur durch sich selb
 Die Evrb bei den Verben [zögern, sich weigern, es gilt, geruhen, (nicht) umhinkommen, es heißt + Infinitiv]{.underline} können nicht anaphorisiert werden.
 
 Kann bei einem bestimmten Verb eine Ergänzung nicht anders als satzförmig realisiert sein, so müssen wir wohl eine Evrb annehmen.
-(Latour 1985: 91-93)
+[@latour1985verbvalenz: 91-93]
 
 Die Evrb kommt nur bei einer kleinen Anzahl von Verben vor.
-Diese Ergänzungsklasse kommt regelmäßig bei allen Nebenverben vor und ist nach der Auffassung von Engel (1988: 198) dann [keine]{.underline} Satzergänzung (sondern Teil des Verbalkomplexes).
+Diese Ergänzungsklasse kommt regelmäßig bei allen Nebenverben vor und ist nach der Auffassung von [@engel1996deutsche: 198] dann [keine]{.underline} Satzergänzung (sondern Teil des Verbalkomplexes).
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Evrb.jpg")
-```
+<img src="pictures/Evrb.jpg" width="100%" height="100%" />
+
 
 ## Angaben
 
-(nach Engel 1988: 219-239)
+Zusammenfassung nach dem Kapitel in [@engel1996deutsche: 219-239]. 
 
 **0. ÜBERBLICK**
 
@@ -1404,7 +1358,7 @@ Jeder Satz und jedes satzartige Konstrukt (Nebensätze, Infinitivsätze, satzwer
 Diese Elemente heißen (**freie**) **Angaben**.
 Sie werden zwar wie die Ergänzungen vom Verb regiert, sind aber im Gegensatz zu den Ergänzungen **nicht valenzbedingt**, also **nicht subklassenspezifisch** (d.h. nicht spezifisch für bestimmte Verbklassen), und können daher prinzipiell zu den verschiedensten Verben hinzugefügt werden (*sie passen prinzipiell zu allen Verben*).
 
-Engel (1988: 219) unterscheidet vier **Großklassen von Angaben**:\
+Engel [@engel1996deutsche: 219] unterscheidet vier **Großklassen von Angaben**:\
 - **modifizierende** (modifikative) verbbezogene Angaben - A~mod~\
 - **situierende** (situative) satzbezogene Angaben - A~sit~\
 - **negative** Angaben - A~neg~\
@@ -1773,11 +1727,9 @@ Komitative Angaben nennen zu einem Sachverhalt einen **begleitenden** oder **feh
 
 Sofern Situativangaben als Nebensätze realisiert werden, sind über die angegebenen Beispiele hinaus noch zahlreiche weitere Subjunktoren sowie teilweise subjunktorlose Formen möglich.
 
-Tests für die Identifizierung von freien Angaben (nach Helbig 1981???):
+Tests für die Identifizierung von freien Angaben (nach [@helbig1982valenz]:
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Tests_freie_Angaben.jpg")
-```
+<img src="pictures/Tests_freie_Angaben.jpg" width="100%" height="100%" />
 
 ### Negative Angaben
 
@@ -1800,13 +1752,13 @@ Negationsangaben kommen nicht in Nebensatzform vor.
 Die Negationspartikel ist allein nicht vorfeld- oder nachfeldfähig, auch im Mittelfeld hat sie als Satznegator eine relativ feste Position.
 Sie zeigt recht ähnliche Stellungseigenschaften wie die Gradpartikeln.
 Die übrigen Formen sind, ähnlich wie situierende Angaben, freier verschiebbar.
-Sie können auch allein ins Vorfeld verschoben werden (mehr in S179ff, S193, 195).
+Sie können auch allein ins Vorfeld verschoben werden (mehr in [@engel1996deutsche: S179ff, S193, 195].
 
-Die gesamte **Skala der Negationsmöglichkeiten** wird in E002-006 (Engel 1988) beschrieben.
+Die gesamte **Skala der Negationsmöglichkeiten** wird in E002-006 [@engel1996deutsche] beschrieben.
 
 ### Existimatorische Angaben
 
-Nach (Engel 1988: 227-238).
+Eine Zusammenfassung nach dem Abschnitt in [@engel1996deutsche: 227-238].
 
 **Bedeutung**: Einschätzung des Sachverhaltes durch den Sprecher.\
 **Funktion**: Äußerung zur Äußerung, manche zusätzlich auf spezielle Teile der Äußerung hin orientiert.
@@ -1967,7 +1919,7 @@ Einteilung in 7 **Subklassen**:\
 ## Verbalkomplex
 
 Jedes satzartige Konstrukt (Hauptsatz, Nebensatz, Partphrase) enthält ein **Verb**, das Zahl und Art der Ergänzungen festlegt und damit die Grundstruktur des gesamten satzartigen Konstrukts bestimmt.
-Dieses Verb nennt Engel (1988: 443) das **zentrale Verb**.
+Dieses Verb nennt [@engel1996deutsche: 443] das **zentrale Verb**.
 
 Hauptsätze und finite Nebensätze enthalten immer ein **finites Verb.** Wenn sie nur eine einzige Verbform enthalten, fallen zentrales Verb und finites Verb notwendig zusammen.
 
@@ -1984,7 +1936,7 @@ Als **Regens** der Ergänzungen gilt nicht nur das finite Verb, sondern der Verb
 6.  Pronomen *es* (in Verbindung mit bestimmten Verben),\
 7.  Funktionsverbgefüge ( und einige andere lexikalische Fügungen).
 
-Nach Engel (1988) gehören neben den oben angeführten noch einige weitere Verbklassen zum Verbalkomplex (siehe dazu den Überblick über den Prädikatskomplex).
+Nach [@engel1996deutsche] gehören neben den oben angeführten noch einige weitere Verbklassen zum Verbalkomplex (siehe dazu den Überblick über den Prädikatskomplex).
 
 **Übersicht (Prädikatskomplex):**\
 · das [zentrale]{.underline} Verb,\
@@ -2011,18 +1963,10 @@ z.B.
 
 ### Trennbare Verbzusätze
 
-Engel & Schumacher (1978: 34 ff) und Engel
-(1988: 439 ff) verstehen unter **Präfixverben**
-lediglich Verben mit einem unbetonten, untrennbaren Morphem, das reihenbildend
-vor das Verb tritt oder zusammen mit dem Verb als isolierte Bildung vorkommt
-(z.B. *beantragen, entscheiden, verbieten,
-verlieren, gewinnen*).
+[@engel1977kleines: 34 ff] und [@engel1996deutsche: 439 ff] verstehen unter **Präfixverben** lediglich Verben mit einem unbetonten, untrennbaren Morphem, das reihenbildend vor das Verb tritt oder zusammen mit dem Verb als isolierte Bildung vorkommt (z.B. *beantragen, entscheiden, verbieten, verlieren, gewinnen*).
 Von Verben mit **Verbzusatz** sprechen diese Autoren, wenn die
 erste unmittelbare Konstituente des Verbs betont und trennbar ist.
-(vgl. dazu
-auch Fleischer 19XX - Wortbildung der deutschen Gegenwartssprache).
-
-
+(vgl. dazu auch [@fleischer2012wortbildung]).
 
 **Verbzusätze: Präpositionen** ([ein]{.underline}laden, [um]{.underline}steigen),
 
@@ -2171,22 +2115,10 @@ einteiliger Konjugationsform vom V~f~ **getrennt** werden?
 ### Komplexe Prädikate
 
 **Hilfsverben** (**zeiten- und passivbildende Auxiliarverben)** sowie
-**Modalveben und Modalitätsverben** (Verben
-mit obligatorischem *zu*-Infinitiv) werden bei Engel & Schumacher (1978: 45)
-bzw.
-Engel (1988: 443 ff) als verbale Erweiterungen betrachtet, die für die
-syntaktische Vollständigkeit von Sätzen nicht konstitutiv sind und denen auch **keine Valenz** zukommt (vgl. Helbig &
-Buscha 1987).
+**Modalveben und Modalitätsverben** (Verben mit obligatorischem *zu*-Infinitiv) werden bei [@engel1977kleines: 45] bzw. [@engel1996deutsche: 443 ff] als verbale Erweiterungen betrachtet, die für die syntaktische Vollständigkeit von Sätzen nicht konstitutiv sind und denen auch **keine Valenz** zukommt (vgl. [@helbig1987deutsche]).
 
-Es gibt jedoch Fälle, die eine Interpretation
-dieser Verben als Vollverben nicht ausschließen.
-In diesen Fällen handelt es
-sich um sehr übliche Verwendungsweisen, die nicht durch die Textkonstitution
-motiviert sind.
-Die isolierten Sätze ohne Infinitiv (2) - (3) erwecken kaum den
-Eindruck syntaktisch unvollständiger (elliptischer) Sätze oder den Eindruck
-spontaner legerer Rede (wie es bei der Ellipse des Partizips in (1) der Fall
-ist.
+Es gibt jedoch Fälle, die eine Interpretation dieser Verben als Vollverben nicht ausschließen. In diesen Fällen handelt es sich um sehr übliche Verwendungsweisen, die nicht durch die Textkonstitution
+motiviert sind. Die isolierten Sätze ohne Infinitiv (2) - (3) erwecken kaum den Eindruck syntaktisch unvollständiger (elliptischer) Sätze oder den Eindruck spontaner legerer Rede (wie es bei der Ellipse des Partizips in (1) der Fall ist.
 
 z.B.
  (1)  Er [ist]{.underline} in die Stadt.
@@ -2203,12 +2135,7 @@ gefahren, ...)
 
   V~f~ V~i~
 
-Im Gegensatz zu den eben behandelten
-(elliptischen) Fällen lassen sich für die Beschreibung von Hauptverben,
-Modalverben und Modalitätsverben + Infinitivum als Prädikatskomplexe starke
-Argumente anführen.
-**Speziell bei
-infinitivischen Verbalsyntagmen** tritt der Fall auf, dass zwischen
+Im Gegensatz zu den eben behandelten (elliptischen) Fällen lassen sich für die Beschreibung von Hauptverben, Modalverben und Modalitätsverben + Infinitivum als Prädikatskomplexe starke Argumente anführen. **Speziell bei infinitivischen Verbalsyntagmen** tritt der Fall auf, dass zwischen
 
 · infinitivischer satzförmiger Ergänzung
 einerseits,
@@ -2220,9 +2147,7 @@ E~vrb~ (E~9~)oder
 andererseits unterschieden werden muß.
 
 
-
-Engel & Schumacher (1978: 46 ff) haben die **Kommutation des fraglichen Infinitivs** mit
-einem nominalen Syntagma als Kriterium für seine **Klassifikation als satzförmiger Ergänzung** gewertet.
+[@engel1977kleines: 46 ff] haben die **Kommutation des fraglichen Infinitivs** mit einem nominalen Syntagma als Kriterium für seine **Klassifikation als satzförmiger Ergänzung** gewertet.
 
 z.B.
  (4)
@@ -2259,9 +2184,7 @@ gilt der Gewinn.
  \*Es
 beginnt mit dem Kaltwerden.
 
-Das Merkmal der **Anaphorisierung** ist bei diesen Fällen ein zu schwaches Kriterium,
-da es eine Klassifizierung der Infinitivkonstruktion als Ergänzung erlauben
-würde.
+Das Merkmal der **Anaphorisierung** ist bei diesen Fällen ein zu schwaches Kriterium, da es eine Klassifizierung der Infinitivkonstruktion als Ergänzung erlauben würde.
 
 z.B.
  (8')
@@ -2269,21 +2192,10 @@ z.B.
 
 (9')  Das traut er sich nicht.
 
-Mit dem Kriterium der **Kommutation** sind aber nur die infinitivischen satzförmigen
-Ergänzungen eindeutig identifiziert.
-Zur Unterscheidung zwischen
-infinitivischer E~vrb~ (E~9~)und dem Infinitiv eines Modalitätsverbs muss ein
-weiteres Kriterium herangezogen werden.
-Dieses Kriterium besteht in den
-unterschiedlichen **Rektionsverhältnissen**.
+Mit dem Kriterium der **Kommutation** sind aber nur die infinitivischen satzförmigen Ergänzungen eindeutig identifiziert.
+Zur Unterscheidung zwischen infinitivischer E~vrb~ (E~9~)und dem Infinitiv eines Modalitätsverbs muss ein weiteres Kriterium herangezogen werden. Dieses Kriterium besteht in den unterschiedlichen **Rektionsverhältnissen**.
 
-Bei [Modalitätsverben]{.underline} wird das Vorhandensein einer E~sub~ (E~0~)
-und deren semantische Füllung von dem abhängigen Infinitiv geregelt.
-Bei [Verben + infinitivischer E~vrb~ (E~9~)]{.underline}wird die Aktualisierung und semantische Füllung der E~sub~ (E~0~) nicht vom abhängigen Infinitiv
-gesteuert.
-Die E~sub~ bleibt in diesem Fall konstant, wenn man andere
-Verben als Infinitive einsetzt.
-Das V~f~ regelt die E~sub.~
+Bei [Modalitätsverben]{.underline} wird das Vorhandensein einer E~sub~ (E~0~) und deren semantische Füllung von dem abhängigen Infinitiv geregelt. Bei [Verben + infinitivischer E~vrb~ (E~9~)]{.underline}wird die Aktualisierung und semantische Füllung der E~sub~ (E~0~) nicht vom abhängigen Infinitiv gesteuert. Die E~sub~ bleibt in diesem Fall konstant, wenn man andere Verben als Infinitive einsetzt. Das V~f~ regelt die E~sub.~
 
 z.B.
  (10)
@@ -2304,17 +2216,9 @@ Modalitätsverb + abhängiger Infinitiv in (12) und (13).
 
 
 
-Das Subjekt des Modalitätsverbs (Engel 1988: 477)
-und das Subjekt des abhängigen Verbs bezeichnen immer dieselbe Größe.
-Daher
-wird das Subjekt nur einmal genannt.
-Die besondere Problematik des
-Modalitätsverben liegt darin, dass es zu den meisten von ihnen **homonyme Vollverben** gibt.
-Zwischen
-homonymen Vollverben und E~sub~ besteht eine Verträglichkeitsrelation,
-während **Modalitätsverben mit beliebiger
-E~sub~ kombinierbar** sind (unter Beachtung der Verträglichkeit
-zwischen E~sub~ und Infinitiv).
+Das Subjekt des Modalitätsverbs [@engel1996deutsche: 477] und das Subjekt des abhängigen Verbs bezeichnen immer dieselbe Größe. Daher
+wird das Subjekt nur einmal genannt. Die besondere Problematik des
+Modalitätsverben liegt darin, dass es zu den meisten von ihnen **homonyme Vollverben** gibt. Zwischen homonymen Vollverben und E~sub~ besteht eine Verträglichkeitsrelation, während **Modalitätsverben mit beliebiger E~sub~ kombinierbar** sind (unter Beachtung der Verträglichkeit zwischen E~sub~ und Infinitiv).
 
 z.B.
  (14)
@@ -2333,11 +2237,7 @@ schön zu werden.
  Das Buch hat hier liegenzubleiben.
 
 
-
-Die abhängige **Infinitivkonstruktion
-beim Vollverb** ist **anaphorisierbar**,
-bei den Modalitätsverben kann der abhängige Infinitiv nicht anaphorisiert und
-auch nicht kommutiert werden.
+Die abhängige **Infinitivkonstruktion beim Vollverb** ist **anaphorisierbar**, bei den Modalitätsverben kann der abhängige Infinitiv nicht anaphorisiert und auch nicht kommutiert werden.
 
 z.B.
 
@@ -2365,13 +2265,7 @@ Er
 versprach mir ein Geschenk.
  (VV)
 
-
-
-Schwieriger
-ist die **Unterscheidung von
-Modalitätsverb und homonymem Vollverb bei *anfangen,
-beginnen, aufhören***, da in diesen Fällen auch bei den Vollverben die E~sub~
-des V~f~ und des Infinitivs **referenzidentisch** sind. Aber nur die Modalitätsverben können mit relativ beliebigen E~sub~ kombiniert werden.
+Schwieriger ist die **Unterscheidung von Modalitätsverb und homonymem Vollverb bei _anfangen, beginnen, aufhören_**, da in diesen Fällen auch bei den Vollverben die E~sub~ des V~f~ und des Infinitivs **referenzidentisch** sind. Aber nur die Modalitätsverben können mit relativ beliebigen E~sub~ kombiniert werden.
 
 z.B.
  (22)  Die Sache fängt an, mir Spaß zu machen.
@@ -2392,14 +2286,7 @@ z.B.
 
  (25'')  Klaus fängt [mit dem Singen]{.underline} an.
 
-Der **semantische
-Unterschied** zwischen Vollverb und V~n~ besteht darin, dass das
-Vollverb auf eine intentionale Handlung referiert; das Modalitätsverb (V~n~)
-bezeichnet nur den Beginn eines Prozesses.
-
-
-
-
+Der **semantische Unterschied** zwischen Vollverb und V~n~ besteht darin, dass das Vollverb auf eine intentionale Handlung referiert; das Modalitätsverb (V~n~) bezeichnet nur den Beginn eines Prozesses.
 
 Eine Gruppe von Verben (*sein, bleiben, bekommen, kriegen, geben, es gibt*) verhält sich **ähnlich wie die Modalitätsverben (V~n~**).
 
@@ -2536,13 +2423,7 @@ in die Stadt *einkaufen*.
 
 (52') [Gehst]{.underline} du mit ins Freibad / ins Freibad *baden*.
 
-Trotz der möglichen Kommutation haben sich Engel
-& Schumacher (1978: 51) dafür entschieden, den Infinitiv als Teil eines
-komplexen Prädikats zu beschreiben, »da im Falle der Kommutation des Infinitivs
-mit einer E~dir~ (E~6~)
-in (34') die Kodierung des Infinitivs als Satzergänzung theoretisch nicht
-vertretbar ist.«
-
+Trotz der möglichen Kommutation haben sich [@engel1977kleines: 51] dafür entschieden, den Infinitiv als Teil eines komplexen Prädikats zu beschreiben, »da im Falle der Kommutation des Infinitivs mit einer E~dir~ (E~6~) in (34') die Kodierung des Infinitivs als Satzergänzung theoretisch nicht vertretbar ist.«
 
 
 **Situativverben**: *sein, bleiben, haben* + Infinitiv (ohne *zu*)
@@ -2558,15 +2439,7 @@ Krimskrams in ihrem Zimmer *herumliegen*.
  (56)  Der Tisch soll so *stehen* [bleiben]{.underline}.
 
 
-
-**\
-**
-
-
-
 ### Reflexivpronomina
-
-
 
 Nicht alle Reflexivpronomina gehören zum
 Verbkomplex.
@@ -2606,9 +2479,7 @@ erklärt.
 In (2) ist der Austausch nur mit
 Bedeutungsveränderung möglich.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/weigern_sich.jpg")
-```
+<img src="pictures/weigern_sich.jpg" width="100%" height="100%" />
 
 
 
@@ -2628,8 +2499,7 @@ z.B.
 Das Reflexivpronomen kommutiert mit einem
 anderen Glied im selben Kasus (eine E~x~ kann durch ein
 Reflexivpronomen realisiert sein), mit Nomina und Pronomina.
-In diesem Falle
-zählt das Reflexivpronomen [nicht]{.underline} zum Verbkomplex, sondern hat den Status
+In diesem Falle zählt das Reflexivpronomen [nicht]{.underline} zum Verbkomplex, sondern hat den Status
 einer Ergänzung.
 
 z.B.
@@ -2650,8 +2520,7 @@ Es ist · weder eliminierbar
  · noch austauschbar gegen andere Pronomina
 oder Nomina.
 
-Daher wird
-es von Engel & Schumacher als Bestandteil des Verbkomplexes gesehen.
+Daher wird es von [@engel1977kleines] als Bestandteil des Verbkomplexes gesehen.
 
 z.B.
  (5) Er zerbricht [sich]{.underline} den Kopf.
@@ -2734,7 +2603,7 @@ Er meint es gut mit dir.
 Das nicht-kommutierbare *es* wird **zum Verbalkomplex**, und nicht als Ergänzung gerechnet. Das hat die Konsequenz, dass einige der angeführten Sätze kein Subjekt haben. Andere Grammatiktheorien sprechen in einem solchem Falle von einem **formalen Subjekt**. In (10), (11) ist *es* stellungsgebunden: eliminiert man es an dieser 1.
 Stelle des Satzes, so wird der Aussagesatz (konstative Satz) zum Fragesatz; stellt man ein anderes Satzelement an die Spitze des Satzes, so fällt dieses *es* weg.
 
-Daher kategorisiert [Latour]{.underline} (1985:46) dieses nicht-kommutierbare stellungsgebundene Pronomen *es* weder als abhängiges Satzglied noch dem Verbalkomplex zugehörig.
+Daher kategorisiert [@latour1985verbvalenz: 46] dieses nicht-kommutierbare stellungsgebundene Pronomen *es* weder als abhängiges Satzglied noch dem Verbalkomplex zugehörig.
 
 
 ### Funktionsverbgefüge und andere lexikalische Fügungen
@@ -2788,18 +2657,7 @@ Leben [weit]{.underline} gebracht.
   \*Er
 hat es im Leben [so]{.underline} gebracht.
 
-
-
-Diese Fügungen können durch (z.T.) Attribute
-erweitert werden, d.h.
-ihre interne Struktur ist z.T.
-veränderbar.
-Bei den
-attribuierbaren Fügungen handelt es sich in erster Linie um eine bestimmte
-Gruppe von **Funktionsverbgefügen,** in
-denen das Verb nur noch strukturelle Verbfunktionen ausübt, während das
-Gefügenomen (in der Regel ein Deverbativum) einen verbalen Inhalt (meist eine
-Handlung oder einen Vorgang) ausdrückt.
+Diese Fügungen können durch (z.T.) Attribute erweitert werden, d.h. ihre interne Struktur ist z.T. veränderbar. Bei den attribuierbaren Fügungen handelt es sich in erster Linie um eine bestimmte Gruppe von **Funktionsverbgefügen,** in denen das Verb nur noch strukturelle Verbfunktionen ausübt, während das Gefügenomen (in der Regel ein Deverbativum) einen verbalen Inhalt (meist eine Handlung oder einen Vorgang) ausdrückt.
 
 Die attributiven Erweiterungen können
 verschiedener Art sein.
@@ -2839,102 +2697,74 @@ Funktionalverbgefügen gut vorstellbar -- die Basisverben sind nämlich
 kommutierbar).
 
 z.B.
- (9)  in Bewegung
-setzen -
-bewegen
+(9)  in Bewegung setzen - bewegen
 
- in Aufregung bringen
-- aufregen
+in Aufregung bringen - aufregen
 
- unter Kontrolle stehen
-- kontrolliert werden
+unter Kontrolle stehen - kontrolliert werden
 
-(Funktionalverbgefüge -- Basisverben: leisten
-aktionale Differenzierung)
+(Funktionalverbgefüge -- Basisverben: leisten aktionale Differenzierung)
 
-Engel & Schumacher (1978: 41) haben sich
-entschlossen, dieses Problem im Kleinen Valenzlexikon auszuklammern (»\*«) und begnügen sich mit Beispielsätzen.
+[@@engel1977kleines: 41] haben sich entschlossen, dieses Problem im Kleinen Valenzlexikon auszuklammern (»\*«) und begnügen sich mit Beispielsätzen.
 
 Die Gefügenomina (und die Nomina in anderen lexikalischen Fügungen) **werden [nicht]{.underline} als Ergänzungen
 gesehen,** sondern bilden zusammen mit dem Verb (und Präposition) den
 Verbkomplex, denn die **Gefügenomina sind
-nicht anaphorisierbar** (Latour 1985: 46 und Engel & Schumacher 1978: 38
-ff. behandeln nur Funktionalverbgefüge mit
-Präpositionalphrasen »pS«, bei Helbig/Buscha 1987 auch andere Typen).
+nicht anaphorisierbar** ( [@latour1985verbvalenz: 46; @engel1977kleines: 38ff.] behandeln nur Funktionalverbgefüge mit
+Präpositionalphrasen »pS«, bei [@helbig1987deutsche] auch andere Typen).
 
 
-Die hauptsächliche semantische Leistung der Funktionsverbgefüge besteht darin, dass sie ein Geschehen folgenderweise markieren (Helbig/Buscha, S.103):
+Die hauptsächliche semantische Leistung der Funktionsverbgefüge besteht darin, dass sie ein Geschehen folgenderweise markieren [@helbig1987deutsche: 103]:
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/valenz_engel1989.jpg")
-```
+<img src="pictures/valenz_engel1989.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/fvg_basisverben.jpg")
-```
+<img src="pictures/fvg_basisverben.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Funktionsverbgefuege.jpg")
-```
+<img src="pictures/Funktionsverbgefuege.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/verbzusaetze.jpg")
-```
+<img src="pictures/verbzusaetze.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/komplexe_praedikate.jpg")
-```
+<img src="pictures/komplexe_praedikate.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/modalitaetsverben.jpg")
-```
+<img src="pictures/modalitaetsverben.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/pronomen_es.jpg")
-```
+<img src="pictures/pronomen_es.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/reflexivpronomina.jpg")
-```
+<img src="pictures/reflexivpronomina.jpg" width="100%" height="100%" />
 
 
 ----------------------------------------------------------------------
 
-[°](#_ftnref1) Ein
-Pseudoverbkomplex ist ein Verb, dessen erstes Kompositionsglied als Ergänzung
-beschrieben werden kann.
+[°](#_ftnref1) Ein Pseudoverbkomplex ist ein Verb, dessen erstes Kompositionsglied als Ergänzung beschrieben werden kann.
 
 
 
-[°](#_ftnref2) KVL ( Engel & Schumacher: Kleines
-Valenzlexikon deutscher Verben; 1978)
+[°](#_ftnref2) KVL = [@engel1977kleines]
 
 
 ## Leipziger Valenzmodell
 
 Ende der 60-er Jahre entstand im **Leipziger Linguistenkreis** um Gerhard Helbig ein Valenzmodell, das seinen Niederschlag u.a.
 im "Wörterbuch zur Valenz und Distribution deutscher Verben" von G.
-Helbig und W.
-Schenkel fand.
-Dieses Modell ging zunächst von der syntaktischen Valenz (d.h. von der Valenz der Ausdrucksebene) und von der Wortart "Verb" aus (erst später - in den 70-er Jahren - Übertragung auf andere Wortarten - Adjektiv, Substantiv)
+Helbig und W. Schenkel [@helbig2011worterbuch] fand.
+Dieses Modell ging zunächst von der *syntaktischen Valenz* (d.h. von der Valenz der Ausdrucksebene) und von der Wortart "Verb" aus (erst später - in den 70-er Jahren - Übertragung auf andere Wortarten - Adjektiv, Substantiv)
 
 Zu den valenzgebundenen ("syntaktisch notwendigen") Gliedern gehören solche, die im entsprechenden Stellenplan des Verbs verankert und folglich für dessen Subkategorisierung von Bedeutung sind.
 Dabei wird im dreistufigen Modell unter Valenz die Fähigkeit des Verbs verstanden, bestimmte Leerstellen um sich herum zu eröffnen, die durch obligatorische oder fakultative Aktanten zu besetzen sind (Valenz hier im semantischen und syntaktischen Sinne gefasst!).
 
-Leerstellen: die vom Valenzträger (hier: Verb) gefordert und obligatorisch bzw.
-fakultativ zu besetzenden Stellen, die im "Stellenplan" des Verbs (bzw. eines anderen Valenzträgers) verankern und in dessen Bedeutung angelegt sind.
+Leerstellen: die vom Valenzträger (hier: Verb) gefordert und obligatorisch bzw. fakultativ zu besetzenden Stellen, die im "Stellenplan" des Verbs (bzw. eines anderen Valenzträgers) verankern und in dessen Bedeutung angelegt sind.
 
 **Aktanten** ("Mitspieler") Glieder, die diese Leerstellen besetzen.
 
 Zu adäquaten Beschreibung der Aktanten muss man kennen:\
 a) ihre *Zahl* und\
 b) ihre *Art* (syntaktisch und semantisch), d.h.
-die Distribution des Valenzträgers: im Anschluss an Harris verstehen Helbig & Schenkel unter Distribution eines sprachlichen Elements "die Summe aller Umgebungen, in denen es vorkommt".
+die *Distribution des Valenzträgers*: im Anschluss an Harris verstehen [@helbig2011worterbuch] unter Distribution eines sprachlichen Elements "die Summe aller Umgebungen, in denen es vorkommt".
 
-Auszusondern sind die valenzabhängigen Glieder.
+Auszusondern sind die *valenzabhängigen* Glieder.
 Die valenzabhängige Umgebungen (Kontexte) sind also nur eine Untermenge der Umgebungen (Distribution) des Valenzträgers (Verb).
 
-Entsprechend dieser Bestimmungen der Begriffe "Valenz" und "Distribution" werden im Helbig & Schenkels Valenzwörterbuch die Verben auf folgende 3 Stufen interpretiert:
+Entsprechend dieser Bestimmungen der Begriffe *Valenz* und *Distribution* werden die Verben  im Valenzwörterbuch von [@helbig2011worterbuch] auf folgende 3 Stufen interpretiert:
 
 1\.
 die *quantitative Anzahl der Aktanten*:\
@@ -2954,7 +2784,7 @@ z.B.: (1) Ich berichte.\
 (2) Ich berichte ihm.\
 (3) Ich berichte ihm mein Erlebnis / über meine Reise / ,wo ich gewesen bin.
 
-• Vergleichen Sie mit dem Valenzmodell von Engel (1988), Engel & Schumacher (1978), Latour (1985)!
+• Vergleichen Sie mit dem Valenzmodell von [@engel1996deutsche], [@engel1977kleines], [@latour1985verbvalenz] !
 
 3\.
 die *qualitative Festlegung der Aktanten* durch Angabe der [semantischen]{.underline} Umgebung der Verben ("Selektionsregeln") - mit Hilfe von Begriffen wie z.B.: Hum, Abstr,...
@@ -2968,46 +2798,33 @@ I.
 II.
 Sn Sa\
 III.
-+Anim O; + Hum O; - Abstr.
-O
++Anim O; + Hum O; - Abstr. O
 
-• Vgl.
-Sie mit H/B (1987,625)!\
-• Vgl.
-Sie wiederum mit den Mannheimer Valenzmodellen!
+• Vgl. Sie mit [@helbig1987deutsche: 625] !\
+• Vgl. Sie wiederum mit den Mannheimer Valenzmodellen!
 
 ----------------------------------------------------------------------
 
 [[1]](#_ftnref1) Die **Hauptverben** (in anderen Grammatiken meist *Vollverben* genannt) sind im Gegensatz zu den Nebenverben und Funktionsverben in der Lage, ohne weitere Verben bzw.
-stützende Nominal- oder Präpositionalphrasen einen Satz zu konstituieren - z.B.
-in der finiten Verbform (Engel 1988: 409).
+stützende Nominal- oder Präpositionalphrasen einen Satz zu konstituieren - z.B. in der finiten Verbform [@engel1996deutsche: 409] .
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig_Buscha_aktanten0.jpg")
-```
+Es folgen einige Beispiele aus der **Satzmodellliste** in [@helbig1987deutsche], die auf dem **Leipziger Valenzmodell** beruht.  
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig_Buscha_aktanten1.jpg")
-```
+<img src="pictures/Helbig_Buscha_aktanten0.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig_Buscha_aktanten2.jpg")
-```
+<img src="pictures/Helbig_Buscha_aktanten1.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig_Buscha_aktanten3.jpg")
-```
+<img src="pictures/Helbig_Buscha_aktanten2.jpg" width="100%" height="100%" />
+
+<img src="pictures/Helbig_Buscha_aktanten3.jpg" width="100%" height="100%" />
 
 
 ## Semantisierte Valenz
 
-Aus Helbig & Buscha (1987): semantische Valenz.   
+Aus [@helbig1987deutsche] zum Thema *semantische Valenz* im Rahmen des Leipziger Valenzmodells: Korrespondenzen zwischen morphosyntaktischer Valenz und semantischer Valenz.   
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig1980_sem_valenz1.jpg")
-```
+<img src="pictures/Helbig1980_sem_valenz1.jpg" width="100%" height="100%" />
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
-knitr::include_graphics("pictures/Helbig1980_sem_valenz2.jpg")
-```
+<img src="pictures/Helbig1980_sem_valenz2.jpg" width="100%" height="100%" />
 
+In [@engel1996deutsche; @engel2004deutsche; @engel2009deutsche] werden ebenfalls Korrespondenzen zwischen *morphosyntaktischer* und *semantisierter Valenz* gezeigt. 

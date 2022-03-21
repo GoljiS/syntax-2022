@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Gegenstand und Sinn der Syntax
 
 Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich formulierten Texten.
@@ -12,7 +7,7 @@ Hier sollen vor allem diejenigen Bereiche angeführt werden, die gemeinsam die G
 
 <img src="pictures/grammatische_bereiche.png" width="60%" />
 
-Der **Text** ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel2008deutsche: 33].
+Der **Text** ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel1996deutsche: 33].
 
 ## Äußerung
 
@@ -21,7 +16,7 @@ Eine **sprachliche Äußerung** kann als sinnvolle Lautfolge (oder Schrifzeichen
 Inhalt + Absicht >>   
 Äußerung: Satzförmig \<--> nicht-satzförmig
 
-Sprachliche Äußerungen haben meist die Form (d.h. die Struktur, den Aufbau) von satzförmigen bzw. satzartigen Konstruktionen (z.B. Hauptsätze, Nebensätze, Infinitivgruppen), sie können aber auch nicht-satzförmig realisiert sein (z.B. als Nominalphrase) [@engel2008deutsche: 33]. Die Form einer sprachlichen Äußerung hängt von der Absicht des Kommunikationsteilnehmers, den zu übermittelnden semantischen Merkmalen und verschiedenen situativen Umständen ab (den Adressaten der Botschaft, den zeitlichen und räumlichen Kommunikationsverhältnisse u.a.).  Die systematische Ermittlung der Formaspekte sprachlicher Äußerungen und ihrer Beziehungen zur Semantik und Pragmatik ist eine der wesentlichen Aufgaben der Syntax. Im Rahmen der Syntax spielt der Satzbegriff eine zentrale Rolle. 
+Sprachliche Äußerungen haben meist die Form (d.h. die Struktur, den Aufbau) von satzförmigen bzw. satzartigen Konstruktionen (z.B. Hauptsätze, Nebensätze, Infinitivgruppen), sie können aber auch nicht-satzförmig realisiert sein (z.B. als Nominalphrase) [@engel1996deutsche: 33]. Die Form einer sprachlichen Äußerung hängt von der Absicht des Kommunikationsteilnehmers, den zu übermittelnden semantischen Merkmalen und verschiedenen situativen Umständen ab (den Adressaten der Botschaft, den zeitlichen und räumlichen Kommunikationsverhältnisse u.a.).  Die systematische Ermittlung der Formaspekte sprachlicher Äußerungen und ihrer Beziehungen zur Semantik und Pragmatik ist eine der wesentlichen Aufgaben der Syntax. Im Rahmen der Syntax spielt der Satzbegriff eine zentrale Rolle. 
 
 <img src="pictures/aeusserung_vs_satz.png" width="100%" />
 
@@ -37,7 +32,7 @@ Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit au
 
 In mehreren Jahrzehnten intensiver syntaktischer Forschung wurden mehrere hundert Satzdefinitionen vorgeschlagen. Trotz Gemeinsamkeiten heben sie verschiedene Aspekte eines Satzes hervor. So wie bei vielen anderen Begriffen in der Linguistik (und in der Natur überhaupt) ist eine allgemein gültige Definition nicht möglich (vgl. etwa den *Wortbegriff*: Was ist ein Wort?)
 
-Wir wollen in Anschluss an die deutsche Grammatik von [@engel2008deutsche: 33] einen **prototypischen Satz** definieren, und zwar mit folgenden Eigenschaften:       
+Wir wollen in Anschluss an die deutsche Grammatik von [@engel1996deutsche: 33] einen **prototypischen Satz** definieren, und zwar mit folgenden Eigenschaften:       
 - er soll eine finite Verbform enthalten;     
 - er soll sich dazu eignen, Sprechhandlungen eindeutig auszudrücken    
 - er soll kommunikativ selbständig sein und demnach kein unterordnendes Element (z.B. einen Subjunktor) enthalten.   
@@ -111,7 +106,7 @@ Agglutinierende Sprachen (z.B. Türkisch) nähern sich diesem "Ideal" (als eines
 
 Mehr über die Beziehung zwischen Inhalt und Ausdruck ist aus den Folien über die Kodierverfahren zu ersehen.
 
-Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg2004satz: 45-47] auf verschiedene Weise:   
+Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg1994grundriss: 45-47] auf verschiedene Weise:   
 • durch *Variierung der Reihenfolge* von Satzelementen (Haben zwei Sätze dieselben Elemente und treten diese Satzelemente in verschiedener Reihenfolge auf, dann haben die beiden Sätze eine verschiedene Form, und zwar ohne Rücksicht auf Bedeutungsunterschiede oder Bedeutungsgleichheit der beiden Sätze);   
 • durch *Intonation* (d.h. die Kombination aus Tonhöhe, Tondauer und Tonstärke) in der gesprochenen Sprache bzw.
 durch Interpunktion (d.h. Komma, Punkt, Doppelpunkt, usw.) in der geschriebenen Sprache (Die Intonation ist zweifellos ein Formmittel, denn man hört, auf welchem Satzelement der Hauptakzent liegt, oder ob die Tonhöhe am Satzende steigt);   
@@ -127,8 +122,7 @@ Syntagmatische und paradigmatische Beziehungen werden zur Veranschaulichung oft 
 Auf der horizontalen Achse werden die syntagmatischen Beziehungen und auf der vertikalen Achse die paradigmatischen Beziehungen abgebildet.
 Die horizontale Achse wird auch als Strukturachse und die vertikale Achse auch als Systemachse oder Wahlachse bezeichnet (z.B. eine Satzstruktur mit Pronominalparadigma zur Veranschaulichung einzeichnen).
 
-Speziell in der Syntax bestehen *syntagmatische* Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes).
-Für das Deutsche setzt Eisenberg (1989: 52) *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
+Speziell in der Syntax bestehen **syntagmatische** Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes). Für das Deutsche setzt [@eisenberg1994grundriss: 52; @eisenberg2013satz: 30] *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
 
 1.  *Rektion*
 
@@ -147,11 +141,11 @@ In Konkurrenz zur Rektion steht der von Tesnière geprägte Valenzbegriff (engl.
 *Valenz* ist ein der aus der Chemie entlehnter Begriff (vgl. die Fähigkeit von Atomkernen eine bestimmte Anzahl von Elektronen zu binden mit der Fähigkeit von bestimmten Lexemen eine bestimmte Anzahl von anderen Lexemen oder Wortgruppen zu binden).
 
 Nach Helbig & Buscha ist Valenz eine semantisch begründete Fähigkeit von lexikalischen Elementen (insbesondere Verben, Nomina, Adjektiven), Leerstellen im Satz zu eröffnen, die von Aktanten (d.h. Ergänzungen) besetzt werden können oder müssen.
-Nach Eisenberg ist Valenz eine besondere Form von Rektion.
+Nach [@eisenberg2013satz] ist Valenz eine besondere Form von Rektion.
 
 2.  *Identität*
 
-"Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind." (Eisenberg 21989: 54) Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton.
+"Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind." [@eisenberg1994grundriss: 54] Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton.
 
 3.  *Kongruenz*
 
@@ -198,11 +192,11 @@ Wie oben gezeigt wurde, ist dies auch bei adjektivischen Prädikatsergänzungen 
 Im Gegenwartsdeutschen ist diese Kongruenzerscheinung nicht bekannt.
 
 Traditionell wird noch ein weiterer Fall von formaler Übereinstimmung als Kongruenz behandelt, nämlich die formale Übereinstimmung zwischen dem Nomen und seinen vorangestellten Begleitern, den Adjektiven und Artikelwörtern.
-In der Grammatik von [@Eisenberg2004satz] finden wir dazu eine andere Ansicht.
+In der Grammatik von [@eisenberg1994grundriss] finden wir dazu eine andere Ansicht.
 
 4.  *Positionsbezug*
 
-"Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt." (Eisenberg 21989: 56) Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen.
+"Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt." [@eisenberg1994grundriss: 56] Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen.
 
 In Abhängigkeit vom Sprachtyp werden Wortverbindungen nach vorgegebenen Stellungsregeln behandelt.
 In den sogenannten SVO-Sprachen, zu denen man das Englische, Französische und Slowenische aufgrund der charakteristischen Abfolge Subjekt vor Verb und Verb vor Objekt zählen könnte, gibt es eine Präferenz, einen regierten Ausdruck rechts vom Regens anzuordnen: z.B.
@@ -552,7 +546,7 @@ Das Nomen *Vortrag* hat zwar wie das Verb vortragen eine gemeinsame Bedeutungsko
 1.  Was ist eine sprachliche Äußerung?\
 2.  Wie haben wir den prototypischen Satz definiert?\
 3.  Welches Verhältnis besteht zwischen Äußerungen und Sätzen?\
-4.  Welche syntaktischen Mittel können laut Eisenberg unterschieden werden?\
+4.  Welche syntaktischen Mittel können laut [@eisenberg1994grundriss] unterschieden werden?\
 5.  Welche (syntaktischen) Identifikationsverfahren haben wir im Unterricht eingeführt?\
 6.  Zeigen Sie an einem oder zwei geeigneten Textbeispielen den Unterschied zwischen kommunikativer Funktion, syntaktischer Funktion und Bedeutung!\
 :::
@@ -629,8 +623,8 @@ In welchem der beiden werden öfters dieselben Wortformen benutzt?\
 
 
 ```{=html}
-<div id="htmlwidget-2ed58f7abfb371dd2ebd" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-2ed58f7abfb371dd2ebd">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"lengthMenu":[2,12,18],"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-52dc0ff64d5856cbbee5" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-52dc0ff64d5856cbbee5">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"lengthMenu":[2,12,18],"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 
@@ -638,8 +632,8 @@ In welchem der beiden werden öfters dieselben Wortformen benutzt?\
 
 
 ```{=html}
-<div id="htmlwidget-a31c6f30dbe6f20e0716" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-a31c6f30dbe6f20e0716">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-ed28f0e039af673555e7" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-ed28f0e039af673555e7">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 

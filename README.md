@@ -1,2 +1,1 @@
-# syntax-2022
- Syntax Course
+Syntax der deutschen Gegenwartssprache (Lehrveranstaltungsmaterial an der Philosophischen Fakultät der Universität Maribor

@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Gegenstand und Sinn der Syntax
 
 Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich formulierten Texten.
@@ -14,7 +9,7 @@ Hier sollen vor allem diejenigen Bereiche angeführt werden, die gemeinsam die G
 knitr::include_graphics("pictures/grammatische_bereiche.png")
 ```
 
-Der **Text** ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel2008deutsche: 33].
+Der **Text** ist die umfangreichste und hierarchisch höchste kommunikative Einheit, die aus inhaltlich zusammenhängenden *Äußerungen* besteht und eine nachvollziehbare und sortenspezifische Struktur aufweist [@engel1996deutsche: 33].
 
 ## Äußerung
 
@@ -23,7 +18,7 @@ Eine **sprachliche Äußerung** kann als sinnvolle Lautfolge (oder Schrifzeichen
 Inhalt + Absicht >>   
 Äußerung: Satzförmig \<--> nicht-satzförmig
 
-Sprachliche Äußerungen haben meist die Form (d.h. die Struktur, den Aufbau) von satzförmigen bzw. satzartigen Konstruktionen (z.B. Hauptsätze, Nebensätze, Infinitivgruppen), sie können aber auch nicht-satzförmig realisiert sein (z.B. als Nominalphrase) [@engel2008deutsche: 33]. Die Form einer sprachlichen Äußerung hängt von der Absicht des Kommunikationsteilnehmers, den zu übermittelnden semantischen Merkmalen und verschiedenen situativen Umständen ab (den Adressaten der Botschaft, den zeitlichen und räumlichen Kommunikationsverhältnisse u.a.).  Die systematische Ermittlung der Formaspekte sprachlicher Äußerungen und ihrer Beziehungen zur Semantik und Pragmatik ist eine der wesentlichen Aufgaben der Syntax. Im Rahmen der Syntax spielt der Satzbegriff eine zentrale Rolle. 
+Sprachliche Äußerungen haben meist die Form (d.h. die Struktur, den Aufbau) von satzförmigen bzw. satzartigen Konstruktionen (z.B. Hauptsätze, Nebensätze, Infinitivgruppen), sie können aber auch nicht-satzförmig realisiert sein (z.B. als Nominalphrase) [@engel1996deutsche: 33]. Die Form einer sprachlichen Äußerung hängt von der Absicht des Kommunikationsteilnehmers, den zu übermittelnden semantischen Merkmalen und verschiedenen situativen Umständen ab (den Adressaten der Botschaft, den zeitlichen und räumlichen Kommunikationsverhältnisse u.a.).  Die systematische Ermittlung der Formaspekte sprachlicher Äußerungen und ihrer Beziehungen zur Semantik und Pragmatik ist eine der wesentlichen Aufgaben der Syntax. Im Rahmen der Syntax spielt der Satzbegriff eine zentrale Rolle. 
 
 ```{r echo=FALSE, fig.keep='all', message=FALSE, warning=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/aeusserung_vs_satz.png")
@@ -41,7 +36,7 @@ Im Gegensatz zu Sätzen sind sie *kommunikative* Einheiten und gehören somit au
 
 In mehreren Jahrzehnten intensiver syntaktischer Forschung wurden mehrere hundert Satzdefinitionen vorgeschlagen. Trotz Gemeinsamkeiten heben sie verschiedene Aspekte eines Satzes hervor. So wie bei vielen anderen Begriffen in der Linguistik (und in der Natur überhaupt) ist eine allgemein gültige Definition nicht möglich (vgl. etwa den *Wortbegriff*: Was ist ein Wort?)
 
-Wir wollen in Anschluss an die deutsche Grammatik von [@engel2008deutsche: 33] einen **prototypischen Satz** definieren, und zwar mit folgenden Eigenschaften:       
+Wir wollen in Anschluss an die deutsche Grammatik von [@engel1996deutsche: 33] einen **prototypischen Satz** definieren, und zwar mit folgenden Eigenschaften:       
 - er soll eine finite Verbform enthalten;     
 - er soll sich dazu eignen, Sprechhandlungen eindeutig auszudrücken    
 - er soll kommunikativ selbständig sein und demnach kein unterordnendes Element (z.B. einen Subjunktor) enthalten.   
@@ -117,7 +112,7 @@ Agglutinierende Sprachen (z.B. Türkisch) nähern sich diesem "Ideal" (als eines
 
 Mehr über die Beziehung zwischen Inhalt und Ausdruck ist aus den Folien über die Kodierverfahren zu ersehen.
 
-Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg2004satz: 45-47] auf verschiedene Weise:   
+Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg1994grundriss: 45-47] auf verschiedene Weise:   
 • durch *Variierung der Reihenfolge* von Satzelementen (Haben zwei Sätze dieselben Elemente und treten diese Satzelemente in verschiedener Reihenfolge auf, dann haben die beiden Sätze eine verschiedene Form, und zwar ohne Rücksicht auf Bedeutungsunterschiede oder Bedeutungsgleichheit der beiden Sätze);   
 • durch *Intonation* (d.h. die Kombination aus Tonhöhe, Tondauer und Tonstärke) in der gesprochenen Sprache bzw.
 durch Interpunktion (d.h. Komma, Punkt, Doppelpunkt, usw.) in der geschriebenen Sprache (Die Intonation ist zweifellos ein Formmittel, denn man hört, auf welchem Satzelement der Hauptakzent liegt, oder ob die Tonhöhe am Satzende steigt);   
@@ -133,8 +128,7 @@ Syntagmatische und paradigmatische Beziehungen werden zur Veranschaulichung oft 
 Auf der horizontalen Achse werden die syntagmatischen Beziehungen und auf der vertikalen Achse die paradigmatischen Beziehungen abgebildet.
 Die horizontale Achse wird auch als Strukturachse und die vertikale Achse auch als Systemachse oder Wahlachse bezeichnet (z.B. eine Satzstruktur mit Pronominalparadigma zur Veranschaulichung einzeichnen).
 
-Speziell in der Syntax bestehen *syntagmatische* Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes).
-Für das Deutsche setzt Eisenberg (1989: 52) *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
+Speziell in der Syntax bestehen **syntagmatische** Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes). Für das Deutsche setzt [@eisenberg1994grundriss: 52; @eisenberg2013satz: 30] *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
 
 1.  *Rektion*
 
@@ -153,11 +147,11 @@ In Konkurrenz zur Rektion steht der von Tesnière geprägte Valenzbegriff (engl.
 *Valenz* ist ein der aus der Chemie entlehnter Begriff (vgl. die Fähigkeit von Atomkernen eine bestimmte Anzahl von Elektronen zu binden mit der Fähigkeit von bestimmten Lexemen eine bestimmte Anzahl von anderen Lexemen oder Wortgruppen zu binden).
 
 Nach Helbig & Buscha ist Valenz eine semantisch begründete Fähigkeit von lexikalischen Elementen (insbesondere Verben, Nomina, Adjektiven), Leerstellen im Satz zu eröffnen, die von Aktanten (d.h. Ergänzungen) besetzt werden können oder müssen.
-Nach Eisenberg ist Valenz eine besondere Form von Rektion.
+Nach [@eisenberg2013satz] ist Valenz eine besondere Form von Rektion.
 
 2.  *Identität*
 
-"Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind." (Eisenberg 21989: 54) Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton.
+"Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind." [@eisenberg1994grundriss: 54] Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton.
 
 3.  *Kongruenz*
 
@@ -204,11 +198,11 @@ Wie oben gezeigt wurde, ist dies auch bei adjektivischen Prädikatsergänzungen 
 Im Gegenwartsdeutschen ist diese Kongruenzerscheinung nicht bekannt.
 
 Traditionell wird noch ein weiterer Fall von formaler Übereinstimmung als Kongruenz behandelt, nämlich die formale Übereinstimmung zwischen dem Nomen und seinen vorangestellten Begleitern, den Adjektiven und Artikelwörtern.
-In der Grammatik von [@Eisenberg2004satz] finden wir dazu eine andere Ansicht.
+In der Grammatik von [@eisenberg1994grundriss] finden wir dazu eine andere Ansicht.
 
 4.  *Positionsbezug*
 
-"Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt." (Eisenberg 21989: 56) Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen.
+"Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt." [@eisenberg1994grundriss: 56] Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen.
 
 In Abhängigkeit vom Sprachtyp werden Wortverbindungen nach vorgegebenen Stellungsregeln behandelt.
 In den sogenannten SVO-Sprachen, zu denen man das Englische, Französische und Slowenische aufgrund der charakteristischen Abfolge Subjekt vor Verb und Verb vor Objekt zählen könnte, gibt es eine Präferenz, einen regierten Ausdruck rechts vom Regens anzuordnen: z.B.
@@ -558,7 +552,7 @@ Das Nomen *Vortrag* hat zwar wie das Verb vortragen eine gemeinsame Bedeutungsko
 1.  Was ist eine sprachliche Äußerung?\
 2.  Wie haben wir den prototypischen Satz definiert?\
 3.  Welches Verhältnis besteht zwischen Äußerungen und Sätzen?\
-4.  Welche syntaktischen Mittel können laut Eisenberg unterschieden werden?\
+4.  Welche syntaktischen Mittel können laut [@eisenberg1994grundriss] unterschieden werden?\
 5.  Welche (syntaktischen) Identifikationsverfahren haben wir im Unterricht eingeführt?\
 6.  Zeigen Sie an einem oder zwei geeigneten Textbeispielen den Unterschied zwischen kommunikativer Funktion, syntaktischer Funktion und Bedeutung!\
 :::

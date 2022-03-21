@@ -4,7 +4,7 @@ Im Kapitel über den Aufbau deutscher Sätze haben wir bereits das Feldermodell 
 
 ## Grundfolge nach Eroms (1986)
 
-[@eroms1986stellung] hat im Rahmen seines Valenzmodells auch ein Schema für die Grundfolge der Ergänzungen und Angaben in deutschen Hauptsätzen (Aussagesätzen) vorgeschlagen:   
+[@eroms1986germanistische] hat im Rahmen seines Valenzmodells auch ein Schema für die Grundfolge der Ergänzungen und Angaben in deutschen Hauptsätzen (Aussagesätzen) vorgeschlagen:   
 
 - die finite (V~f~) und infinite Verbform (V~i~) bilden den Satzrahmen,   
 - das Subjekt (hier: E~1~) steht häufig im Vorfeld (also vor der linken Satzklammer);   
@@ -15,7 +15,7 @@ Im Kapitel über den Aufbau deutscher Sätze haben wir bereits das Feldermodell 
 knitr::include_graphics("pictures/konstituentenstellung_eroms.jpg")
 ```
 
-Die von Eroms vorgeschlagene Grundfolge für das Mittelfeld deutscher Hauptsätze richtet sich nach dem **Prinzip der Verbnähe**: da die Ergänzungen von der Valenz des zentralen Verbs abhängen, stehen sie im Mittelfeld in der Nähe des zentralen Verbs, das bei diskontinierlichem Prädikat in der rechten Satzklammer steht. Die Angaben stehen verbferner (weiter weg von der rechten Satzklammer), da sie nicht valenzabhängig sind.   
+Die von [@eroms1986germanistische] vorgeschlagene Grundfolge für das Mittelfeld deutscher Hauptsätze richtet sich nach dem **Prinzip der Verbnähe**: da die Ergänzungen von der Valenz des zentralen Verbs abhängen, stehen sie im Mittelfeld in der Nähe des zentralen Verbs, das bei diskontinierlichem Prädikat in der rechten Satzklammer steht. Die Angaben stehen verbferner (weiter weg von der rechten Satzklammer), da sie nicht valenzabhängig sind.   
 
 (1) [ E~~sub~ Till Eulenspiegel] [ V~f~ hat] [ A~temp~ vorige Nacht] [ A~kaus~ aus lauter Verdruss] [ A~lok~ im Hühnerstall] [ E~dat~ den Hühnern] [ E~akk~ die Federn] [ V~i~ ausgerissen].   
 
@@ -24,7 +24,7 @@ Die von Eroms vorgeschlagene Grundfolge für das Mittelfeld deutscher Hauptsätz
 
 ### Ergänzungen
 
-In der Grammatik von [@engel2008deutsche] wird die Grundfolge der Termergänzungen mit Hilfe der Kriterien *Wortklassenzugehörigkeit* (z.B. Pronomen vs. Nomen), *Referenzgefälle* (definit vs. indefinit) und *Ergänzungstyp* (z.B. Term- vs. Adverbialergänzung u.a.) festgelegt. Im folgenden Grundfolgeschema für das Mittelfeld sind:    
+In der Grammatik von [@engel1996deutsche] wird die Grundfolge der Termergänzungen mit Hilfe der Kriterien *Wortklassenzugehörigkeit* (z.B. Pronomen vs. Nomen), *Referenzgefälle* (definit vs. indefinit) und *Ergänzungstyp* (z.B. Term- vs. Adverbialergänzung u.a.) festgelegt. Im folgenden Grundfolgeschema für das Mittelfeld sind:    
 - pronominal realisierte Ergänzungen mit Kleinbuschstaben symbolisiert (z.B. *sub*),    
 - Ergänzungen, die einen nominalen Kopf und definiten Artikel enthalten, mit einem großen Anfangsbuchstaben (z.B: *Akk*),    
 - Ergänzungen, die einen nominalen Kopf und indefiniten Artikel enthalten, mit Großbuchstaben (z.B. *DAT*),   
@@ -49,13 +49,13 @@ Die Abtönungspartikeln stehen vor den anderen existimatorischen Angaben (2), un
 (2) [ A~lok~ Auf der Brücke] [ ~LSK~ konnte] [ E~sub~ man] [ E~akk~ ~definit~ die Gefahr] [ A~ex~ ~Abtönungspartikel~ ja] [ A~ex~ ~verifikativ~ tastsächlich] [ A~ex~ ~judikativ~ bemerkenswerterweise] [ A~ex~ ~kautiv~ geradezu] [ rechtes MF: --] [ ~RSK~ spüren].   
 (2) [ A~lok~ Auf der Brücke] [ ~LSK~ konnte] [ E~sub~ man] [ A~ex~ ~Abtönungspartikel~ ja] [ E~akk~ ~definit~ die Gefahr] [ A~ex~ ~verifikativ~ tastsächlich] [ A~ex~ ~judikativ~ bemerkenswerterweise] [ A~ex~ ~kautiv~ geradezu] [ A~neg~ nicht] [ ~RSK~ spüren].   
 
-Die folgende Grundfolge im Falle mehrerer im Satz auftretender existimatorischer Angaben wird von [@engel2008deutsche] angegeben:   
+Die folgende Grundfolge im Falle mehrerer im Satz auftretender existimatorischer Angaben wird von [@engel1996deutsche] angegeben:   
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/grundfolge_mf_Aexist.jpg")
 ```
 
-In den Grammatiken von [@engel2008deutsche] und [@eisenberg2004satz] werden die folgenden Kriterien für die Reihenfolge von Ergänzungs- und Angabeklassen im Mittelfeld angegeben und besprochen.   
+In den Grammatiken von [@engel1996deutsche] und [@eisenberg2004satz] werden die folgenden Kriterien für die Reihenfolge von Ergänzungs- und Angabeklassen im Mittelfeld angegeben und besprochen.   
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/mf_termergaenzungen_kriterien.jpg")

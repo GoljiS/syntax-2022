@@ -459,7 +459,7 @@ knitr::include_graphics("pictures/Stellungsfelder_Tab3.jpg")
 -   Die finiten Verbformen können **je nach Satztyp** (Hauptsatz oder Nebensatz) entweder nur an einer **syntaktischen Position** oder sogar an zwei verschiedenen syntaktischen Positionen auftreten können: in Hauptsätzen treten die Teile der Verbalphrasen **diskontinuierlich** auf (eine im Sprachenvergleich markiertere Option), in Nebensätzen hingegen in **Kontaktposition** (eine im Sprachenvergleich weniger markierte Möglichkeit). Hauptsätze zeigen eine **komplexere Satzstruktur** als die von der Funktion her spezialisierteren Nebensätze.\
 -   Das **Nachfeld** eines deutschen Satzes steht im Gegensatz zu Vor- und Mittelfeld meist leer und kann lediglich nach besonderen Regularitäten von bestimmten (in der Regel formal komplexeren) Satzkonstituenten besetzt werden (in der germanistischen Literatur spricht man oft von **Ausklammerung oder Ausrahmung**).
 
-(vgl. auch Abraham 1995: Deutsche Sprache im Sprachenvergleich, Tübingen)
+Vgl. auch [@abraham1995deutsche]
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/Stellungsfelder_Tab4.jpg")
@@ -481,7 +481,7 @@ knitr::include_graphics("pictures/Stellungsfelder_Tab5.jpg")
 
 **Anmerkungen zur Tabelle 5:**
 
-Nach den Vorgaben der Rektions- und Bindungstheorie (vgl. Cook & Newson ^2^1996 und Haftka 1996) ergibt sich ein differenzierteres Bild der Stellungsfelder in slowenischen Sätzen (Tabelle 2), deren Besonderheiten man im Vergleich zu den Stellungsfeldern in deutschen Sätzen folgendermaßen beschreiben kann:\
+Nach den Vorgaben der Rektions- und Bindungstheorie (vgl. [@cook1996mark] und [@haftka2019deutsch]) ergibt sich ein differenzierteres Bild der Stellungsfelder in slowenischen Sätzen (Tabelle 2), deren Besonderheiten man im Vergleich zu den Stellungsfeldern in deutschen Sätzen folgendermaßen beschreiben kann:\
 - Die syntaktische **Position eine slowenischen Verbs** im Satz scheint **von seiner Form abhängig** zu sein: die klitisierten Formen des Auxiliarverbs *biti* (dt. "sein") erscheinen in der klitischen Reihung unmittelbar nach der Position C^0^, Vollverben vor allem in den tieferen Positionen V^0^ und I^0^, die Imperativformen möglicherweise auch vor der klitischen Reihung im Knoten C^0^ (d.h. dort, wo deutsche finite Verbformen erscheinen).\
 - Ein slowenischer Aussagesatz wird durch die klitische Reihung[[1]](#_ftn1) sowie durch Verbformen in I^0^ und V^0^ in **vier Stellungsfelder** geteilt, die wir als Vorfeld, linkes (thematisches) Mittelfeld, rechtes (rhematisches) Mittelfeld und Nachfeld bezeichnen.
 Während ein deutscher Aussagesatz immer ein langes Mittelfeld aufweist (d.h. nicht durch eine finite Verbform zerlegt wird), kann ein slowenischer über ein langes Mittelfeld (bei diskontinuierlicher Position der Verbformen in der klitischen Reihung und in V^0^) oder ein kurzes Mittelfeld (bei diskontinuierlicher Position der Verbfomen in I^0^ und V^0^) verfügen.\
@@ -530,7 +530,7 @@ Bei der syndetischen Konstruktion sind die beiden Teile der Satzverbindung durch
 Die Konnektoren leiten den zweiten Satz ein.
 Im Gegensatz zu den Junktoren sind die **Konjunktionaladverbien** wie Adverbien und andere Satzkonstituenten selbständig im Satz verschiebbar.
 
-(3) Peter studiert in Leipzig, ~VVF~ aber  ~VF~ seine Schwester (aber) ~LSK~ studiert ~MF~ in Berlin.
+(3) Peter studiert in Leipzig, ~VVF~ aber ~VF~ seine Schwester (aber) ~LSK~ studiert ~MF~ in Berlin.
 (4) Peter studiert in Leipzig, ~VF~ dagegen ~LSK~ studiert ~MF~ seine Schwester in Berlin.
 (5) Peter studiert in Leipzig, ~VF~ seine Schwester ~LSK~ studiert ~MF~ dagegen in Berlin.
 
@@ -681,7 +681,7 @@ knitr::include_graphics("pictures/Stellungsfelder_Tab8_Junktoren.jpg")
 
 ##### Auslassung des Subjekts nach und in zusammengezogenen Sätzen
 
-1.  Wenn zwei Hauptsätze das gleiche Subjekt haben und mit und verbunden sind, dann ist es stilistisch besser, das Subjekt nach und wegzulassen. Es entsteht ein Hauptsatz mit zwei Satzaussagen, und das Komma fällt weg. Nach Helbig & Buscha (1987) handelt es sich allerdings in solchen Fällen um einen zusammengezogenen Satz mit zwei Teilsätzen (Hauptsätzen), von denen einer aufgrund der Auslassung des Subjekts unvollständig ist. Das Kriterium ist der Grad der Unterschiedlichkeit der beiden Teilsätze: unterscheiden sich (wie oben beispielsweise) zwei von drei Satzgliedern, gehen sie von zwei Hauptsätzen aus, unterscheiden sich zwei Teilsätze jedoch nur durch ein Satzglied, wird lediglich ein Hauptsatz angesetzt.
+1.  Wenn zwei Hauptsätze das gleiche Subjekt haben und mit und verbunden sind, dann ist es stilistisch besser, das Subjekt nach und wegzulassen. Es entsteht ein Hauptsatz mit zwei Satzaussagen, und das Komma fällt weg. Nach [@helbig2001deutsche] handelt es sich allerdings in solchen Fällen um einen zusammengezogenen Satz mit zwei Teilsätzen (Hauptsätzen), von denen einer aufgrund der Auslassung des Subjekts unvollständig ist. Das Kriterium ist der Grad der Unterschiedlichkeit der beiden Teilsätze: unterscheiden sich (wie oben beispielsweise) zwei von drei Satzgliedern, gehen sie von zwei Hauptsätzen aus, unterscheiden sich zwei Teilsätze jedoch nur durch ein Satzglied, wird lediglich ein Hauptsatz angesetzt.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/Stellungsfelder_Tab9_Junktoren.jpg")
@@ -851,7 +851,8 @@ Das Prädikativ dient als Einordnungsinstanz (*Subsumptiv*).
 Zahlreiche Bedeutungsklassen werden gewöhnlich bei Adverbialbestimmungen unterschieden.
 Eingehender wird die semantische Klassifizierung der Adverbialbestimmungen im Rahmen der Ergänzungs- und Angabeklassen besprochen.
 
-Engel (1988: 219) unterscheidet vier Großklassen von Angaben: • modifizierende (modifikative) verbbezogene Angaben ($A_{mod}$),\
+Engel [@engel1996deutsche: 219] unterscheidet **vier Großklassen** von **Angaben**:    
+• modifizierende (modifikative) verbbezogene Angaben ($A_{mod}$),\
 • situierende (situative) satzbezogene Angaben ($A_{sit}$),\
 • negative Angaben (Aneg),\
 • existimatorische äußerungsbezogene Angaben ($A_{ex}$).
@@ -888,7 +889,7 @@ Die syntaktischen Funktionen und semantischen Klassen werden im Rahmen des Valen
 
 #### Relativsätze
 
-Nach ENGEL (1988: 292-295) sind Relativsätze nominale Angaben und haben ähnlich den Adjektiven die semantische Funktion, ein Nomen näher zu bestimmen (zu qualifizieren, klassifizieren usw.). Wie alle Attributsätze haben sie ihre reguläre Stelle hinter dem Nomen. Voranstellung ist in dichterischer oder rhetorisch ausschmückender Rede, ebenso bei ironischer Verwendung derselben Ausdrucksformen möglich. Die Voranstellung des Relativsatzes bewirkt die Hervorhebung des Attributsatzes, sind aber in der Standardsprache nicht üblich.
+Nach [@engel1996deutsche: 292-295] sind Relativsätze nominale Angaben und haben ähnlich den Adjektiven die semantische Funktion, ein Nomen näher zu bestimmen (zu qualifizieren, klassifizieren usw.). Wie alle Attributsätze haben sie ihre reguläre Stelle hinter dem Nomen. Voranstellung ist in dichterischer oder rhetorisch ausschmückender Rede, ebenso bei ironischer Verwendung derselben Ausdrucksformen möglich. Die Voranstellung des Relativsatzes bewirkt die Hervorhebung des Attributsatzes, sind aber in der Standardsprache nicht üblich.
 
 (56a)	Den Mann, der all dies durchgestanden hat, will ich mir zukommen lassen. (nachgest.)
 (56b)	Der all dies durchgestanden hat, den Mann will ich mir kommen lassen. (vorangestellt)
@@ -906,16 +907,19 @@ Von **nicht-restriktiven** Relativsätzen (58) spricht man, wenn lediglich ein M
 (58)	Ein Junge lebte in München. Dort lebte auch sein Großvater. Der Freund des Jungen 	wollte mehr über den Großvater erfahren. Der Junge erzählte:
 Mein Großvater, der (übrigens) Chemiker war, war ein kluger Mann. Trotzdem lebte er in ständigen Geldsorgen. ... (n-r)
 
-Nach EISENBERG (^3^1994:254) wird der Relativsatz in (1a) appositiv genannt, weil er - im Gegensatz zu dem in (1b) - keinen Einfluß auf die Extension der übergeordneten NGr (=NP) hat, Oberbürgermeister Eichel wird hinsichtlich des Begriffsumfanges vom Relativ¬satz nicht verändert. (Wort mit Hauptakzent durch Großbuchstaben gekennzeichnet)
+Nach [@eisenberg1994grundriss: 254] wird der Relativsatz in (1a) appositiv genannt, weil er - im Gegensatz zu dem in (1b) - keinen Einfluß auf die Extension der übergeordneten NGr (=NP) hat, Oberbürgermeister Eichel wird hinsichtlich des Begriffsumfanges vom Relativ¬satz nicht verändert. (Wort mit Hauptakzent durch Großbuchstaben gekennzeichnet)   
+
 (1a) 	Oberbürgermeister EICHEL, der mit den Grünen koaliert, hat noch auf Jahre eine sichere Mehrheit.
+
 (1b)	Ein OBERBÜRGERMEISTER, der mit den Grünen koaliert, hat noch auf Jahre eine sichere Mehrheit. 
 (Mit Betonung auf ein ergäbe sich ein Zahlwort und ein n-r Relativsatz!)
 
-EISENBERG (^3^1994:228-229) betrachtet das semantische Verhältnis von Relativsatz und Kernsubstantiv. »(8) und (9) zeigen, daß dieses Verhältnis in einem wichtigen Punkt uneinheitlich ist.
+Eisenberg [@eisenberg1994grundriss: 228-229] betrachtet das semantische Verhältnis von Relativsatz und Kernsubstantiv. »(8) und (9) zeigen, daß dieses Verhältnis in einem wichtigen Punkt uneinheitlich ist.
 
-(8)	a. Die Pädagogik ist eine Disziplin, die der Menschheit immer Segen gebracht hat
-b. Diejenigen Bäume, die morsch sind, werden gefällt
-c. Jeder Linguist, der was auf sich hält, geht zweimal jährlich zum Friseur
+(8)	a. Die Pädagogik ist eine Disziplin, die der Menschheit immer Segen gebracht hat   
+b. Diejenigen Bäume, die morsch sind, werden gefällt   
+c. Jeder Linguist, der was auf sich hält, geht zweimal jährlich zum Friseur   
+
 (9)	a. Seine Eltern, die wohlhabende Leute sind, ließen ihn verkommen 
 b. Du, der du immer Glück gehabt hast, solltest dich da heraushalten 
 c. Die Sonne, die jetzt eigentlich sieben Stunden täglich scheinen sollte, ist überhaupt nicht zu sehen 
@@ -926,9 +930,9 @@ Die Relativsätze in (9) werden nichtrestriktiv oder appositiv genannt,. weil de
 
 Beide Arten von Relativsätzen geben uns eine »nähere Bestimmung« des modifizierten Nominals. Bei den restriktiven betrifft diese Bestimmung aber den Umfang der bezeichneten Klasse, bei den nichtrestriktiven nicht. Erstere tragen zur Identifizierung des Bezeichneten bei, letztere nicht.
 
-Viele Relativsätze können in Isolierung sowohl restriktiv als auch nichtrestriktiv gelesen werden. Wenn jemand sagt »Die Kirche, die wir gestern noch besucht haben, ist abgebrannt«, und dem Adressaten ist bekannt, um welche Kirche es sich handelt, dann ist die Lesung nichtrestriktiv. Wird die Kirche erst durch den Relativsatz identifiziert, dann ist restriktiv gelesen worden. Allgemein gilt: ist das Nominal ohne Relativsatz definit, dann kann er nur nichtrestriktiv gelesen werden, sonst auch restriktiv. Häufig wird der nichtrestriktive Relativsatz durch eine Pause vom Kern getrennt und durch eine Partikel oder ein Adverb abgetönt (Die Kirche, die wir ja/übrigens/zufälligerweise. . . gestern noch besucht haben, ist abgebrannt). Es sind noch eine Reihe weiterer Formkriterien bekannt, mit deren Hilfe sich beide Gruppen unterscheiden lassen (Motsch 1965; Becker 1978). Dennoch bleibt es dabei, daß der größte Teil der Relativsätze sowohl restriktiv als auch nichtrestriktiv gelesen werden kann (Aufgabe 66).«
+Viele Relativsätze können in Isolierung sowohl restriktiv als auch nichtrestriktiv gelesen werden. Wenn jemand sagt »Die Kirche, die wir gestern noch besucht haben, ist abgebrannt«, und dem Adressaten ist bekannt, um welche Kirche es sich handelt, dann ist die Lesung nichtrestriktiv. Wird die Kirche erst durch den Relativsatz identifiziert, dann ist restriktiv gelesen worden. Allgemein gilt: ist das Nominal ohne Relativsatz definit, dann kann er nur nichtrestriktiv gelesen werden, sonst auch restriktiv. Häufig wird der nichtrestriktive Relativsatz durch eine Pause vom Kern getrennt und durch eine Partikel oder ein Adverb abgetönt (*Die Kirche, die wir* [ja/übrigens/zufälligerweise, ...]{.underline} *gestern noch besucht haben, ist abgebrannt*). Es sind noch eine Reihe weiterer Formkriterien bekannt, mit deren Hilfe sich beide Gruppen unterscheiden lassen [@motsch1965grammar]. Dennoch bleibt es dabei, daß der größte Teil der Relativsätze sowohl restriktiv als auch nichtrestriktiv gelesen werden kann.«
 
-KRITERIEN zur Unterscheidung nicht-restriktiver Relativsätzen von restriktiven:
+**KRITERIEN** zur Unterscheidung nicht-restriktiver Relativsätzen von restriktiven:
 •	zwischen Bezugselement und Relativsatz ist eine Pause möglich (Parenthese-Intonation), auch eine fallende Kadenz auf dem Bezuselement ist realisierbar ;
 •	Artikelwörter und Pronomina in der Bezugs-NP ( vgl. auch Aufgabe 66) lassen sich – semantisch gesehen - nicht durch selektierende oder einschränkende Artikelwörter wie derjenige ersetzen;
 •	Abtönungspartikeln (vor allem ja, doch, eben, halt, eigentlich), solche Partikeln wie übrigens und Elemente wie wie du weißt und bekanntlich sind einsetzbar;
@@ -1039,19 +1043,19 @@ Einige weitere Beispiele mit Korrelat-Nebensatz-Konstruktionen:
 
 ## Satzmodus
 
-Grundlage für diesen Abschnitt ist das Satzmodusmodell von Altmann (1987), beschrieben auch in Thurmair 1989: 42ff.
+Grundlage für diesen Abschnitt ist das Satzmodusmodell von [@altmann1987problematik], beschrieben auch in [@thurmair1989modalpartikeln: 42].
 
 ### Definitionen
 
-Als **Satzmodi** oder **Satzarten** bezeichnet man feste sprachliche Muster, die aus dem Zusammenwirken formal und funktional bestimmter Faktoren entstehen (s. Thurmair 1989: 46, Tabelle 3) und zum Ausdruck von propositionalen Grundeinstellungen dienen (s. Thurmair 1989: 46, Tabelle 4).
+Als **Satzmodi** oder **Satzarten** bezeichnet man feste sprachliche Muster, die aus dem Zusammenwirken formal und funktional bestimmter Faktoren entstehen (s. [@thurmair1989modalpartikeln: 46, Tabelle 3] und zum Ausdruck von propositionalen Grundeinstellungen dienen (s. [@thurmair1989modalpartikeln: 46, Tabelle 4].
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/satzmodus_image001.png")
 ```
 
-Ein **Formtyp** konstituiert sich durch mehrere formale Kennzeichen (s. Thurmair 1989: 46, Tabelle 3).
+Ein **Formtyp** konstituiert sich durch mehrere formale Kennzeichen (s. [@thurmair1989modalpartikeln: 46, Tabelle 3].
 
-Jeder Formtyp ist genau einem **Funktionstyp** zugeordnet (s. Thurmair 1989: 46, Tabelle 4) und dient zum direkten Ausdruck einer abstrakt zu verstehenden grundlegenden Einstellung eines Sprechers zur Proposition (d.h. einer propositionalen Grundeinstellung).
+Jeder Formtyp ist genau einem **Funktionstyp** zugeordnet (s. [@thurmair1989modalpartikeln: 46, Tabelle 4]) und dient zum direkten Ausdruck einer abstrakt zu verstehenden grundlegenden Einstellung eines Sprechers zur Proposition (d.h. einer propositionalen Grundeinstellung).
 
 Die konkrete **lexikalische Füllung** (z.B. W-Wörter, Modalverben, Abtönungspartikeln) ergibt im Zusammenwirken mit einem **Funktionstyp** einen bestimmten **Illoktionstyp**.
 
@@ -1091,7 +1095,7 @@ knitr::include_graphics("pictures/satzmodus_image005.png")
 
 ### Fragesätze
 
-**Tabelle 1: Prototypische Merkmale deutscher Fragesätze** **(im Altmannschen Satzmodusmodell)** (zusammengestellt nach den Angaben in Thurmair 1989: 44, 46, 66-73)
+**Tabelle 1: Prototypische Merkmale deutscher Fragesätze** **(im Altmannschen Satzmodusmodell)**, zusammengestellt nach den Angaben in [@thurmair1989modalpartikeln: 44, 46, 66-73]
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/Satzmodus_Tab1_Fragesatztypen.jpg")
@@ -1099,7 +1103,7 @@ knitr::include_graphics("pictures/Satzmodus_Tab1_Fragesatztypen.jpg")
 
 #### Vergleich mit anderen Grammatiken
 
-Im Duden (1995: 592-594) und in Engel (1988: 52-58) werden teilweise andere Termini für den Bezug auf die verschiedenen Fragesatztypen verwendet:
+Im Duden [@drosdowski1995duden: 592-594] und in [@engel1996deutsche: 52-58] werden teilweise andere Termini für den Bezug auf die verschiedenen Fragesatztypen verwendet:
 
 **Tabelle 2:** **Vergleich frage(satz)bezogener Termini in grammatischen Werken**
 
@@ -1107,10 +1111,10 @@ Im Duden (1995: 592-594) und in Engel (1988: 52-58) werden teilweise andere Term
 knitr::include_graphics("pictures/satzmodus_vergleich_Fragesatztypen.jpg")
 ```
 
-**Unterschied zwischen "Fragesatz" und "Frage"** (Aussagesatz und Aussage, usw.): *Fragesatz* bezieht sich auf den Satzmodus eines Satzes und damit auf den Formtyp, *Frage* dagegen auf den Sprechakt (den Illokutionstyp) einer Äußerung (prinzipiell sind verschiedene Formtypen möglich). Entsprechendes gilt für die beiden Ausdrücke "Aussagesatz" und "Aussage". In Thurmair (1989) und Duden (1995) werden Satzmodi (Satzarten) beschrieben, in Engel (1988) hingegen Sprechakttypen.   
+**Unterschied zwischen "Fragesatz" und "Frage"** (Aussagesatz und Aussage, usw.): *Fragesatz* bezieht sich auf den Satzmodus eines Satzes und damit auf den Formtyp, *Frage* dagegen auf den Sprechakt (den Illokutionstyp) einer Äußerung (prinzipiell sind verschiedene Formtypen möglich). Entsprechendes gilt für die beiden Ausdrücke "Aussagesatz" und "Aussage". In [@thurmair1989modalpartikeln] und [@drosdowski1995duden] werden Satzmodi (Satzarten) beschrieben, in [@engel1996deutsche] hingegen Sprechakttypen.   
 
 
-**Beispiele aus Thurmair (1989)**
+**Beispiele aus [@thurmair1989modalpartikeln]**
 
 #### Alternativfragesätze
 
