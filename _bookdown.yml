@@ -6,4 +6,4 @@ edit: https://github.com/tpetric7/syntax-2022/edit/master/%s
 view: https://github.com/tpetric7/syntax-2022/blob/master/%s
 language:
   ui:
-    chapter_name: "Kapitel "
+    chapter_name: ""

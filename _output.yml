@@ -11,11 +11,15 @@ bookdown::gitbook:
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
 download: ["pdf", "epub"]
 bookdown::pdf_book:
+  fig_caption: true
+  number_sections: yes
   includes:
     in_header: preamble.tex
+    before_body: frontpage.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  template: template.tex
   dev: "cairo_pdf"
 bookdown::epub_book: default
 bookdown::bs4_book: default
