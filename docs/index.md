@@ -41,5 +41,7 @@ editor_options:
 
 <script type="text/javascript">
 title=document.getElementById('header');
-title.innerHTML = '<img src="https://tpetric7.github.io/syntax-2022/docs/images/umlogo1.png" alt="Univerza v Mariboru">' + title.innerHTML
+title.innerHTML = '<img src="https://www.um.si/wp-content/themes/um_si/assets/images/logo.svg" alt="Univerza v Mariboru">' + title.innerHTML
 </script>
+
+<!-- <https://www.um.si/wp-content/themes/um_si/assets/images/logo.svg> -->
