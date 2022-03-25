@@ -99,6 +99,20 @@ Bei den *Zustandsverben* sind unterscheidbar:\
 - Emotionsverben,\
 - ...
 
+
+:::rmdrobot
+
+1. Womit befasst sich die Dependenzgrammatik? 
+
+2. Was ist ein Regens, was ein Dependens? 
+
+3. Was versteht man in der Sprachwissenschaft unter Valenz?
+
+4. Was ist der Unterschied zwischen Ergänzungen und Angaben? Illustrieren Sie den Unterschied mit entsprechenden Beispielen!
+
+:::
+
+
 ## Ergänzungsklassen
 
 In den folgenden Tabellen sind die Ergänzungsklassen zu sehen, die im Rahmen der Mannheimer Valenzgrammatik unterschieden werden: [@engel1977kleines; @latour1985verbvalenz; @engel1996deutsche; @engel2004deutsche]. Gegenübergestellt werden auch Vorschläge aus anderen grammatischen Werken: [@helbig1987deutsche; @helbig1982valenz; @stepanowa1981wortarten; @grebe1973duden; @glinz1970deutsche]. 
@@ -115,6 +129,18 @@ knitr::include_graphics("pictures/valenz_engel2004.jpg")
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/valenz_termergaenzungen.jpg")
 ```
+
+
+:::rmdrobot
+
+1. Welche Ergänzungsklassen werden im Mannheimer Valenzmodell unterschieden? 
+
+2. Mit welchen Verfahren erschließen wir die Ergänzungsklassen? 
+
+3. Welchen Zusammenhang zwischen der Bedeutung eines Verbs und seiner syntaktischen Valenz haben wir anhand von mehreren Beispielen erkennen können? 
+
+:::
+
 
 ### Subjekt
 
@@ -1388,6 +1414,20 @@ knitr::include_graphics("pictures/Evrb.jpg")
 ```
 
 
+:::rmdrobot
+
+1. Welche Valenz (Wertigkeit) haben die Verben (*sitzen, kommen, gehen, gratulieren, bekommen, sich erheben, meinen, entschuldigen, sein*) in dem Witz 1? In welche Bedeutungsgruppe gehören die einzelnen Verben? Zur Ermittlung der Ergänzungsklassen verwenden sie vor allem die Ersatzprobe, für die Ermittlung fakultativer Ergänzungen die Weglassprobe (Eliminierungsprobe)! Die Verschiebeprobe können Sie zusätzlich verwendet werden, falls Sie sicherstellen wollen, dass ein Wort oder Phrase ein Satzglied darstellen.
+
+Witz:
+
+ZweiMänner sitzen nervös im Wartezimmer der Entbindungsstation eines Krankenhauses.    
+Endlich kommt eine Schwester und geht auf einen von ihnen zu.   
+"Ich gratuliere Ihnen, Sie haben einen Sohn bekommen!"   
+Darauf erhebt sich der andere und meint: "Entschuldigen Sie bitte, aber ich war vor ihm hier..."    
+
+:::
+
+
 ## Angaben
 
 Zusammenfassung nach dem Kapitel in [@engel1996deutsche: 219-239]. 
@@ -1773,6 +1813,13 @@ Tests für die Identifizierung von freien Angaben (nach [@helbig1982valenz]:
 knitr::include_graphics("pictures/Tests_freie_Angaben.jpg")
 ```
 
+
+:::rmdrobot
+
+1. Was unterscheidet eine Situativergänzung von einer Situativangabe oder eine Direktivergänzung von einer Direktivangabe? Führen Sie ein Beispiel an, das diesen Unterschied demonstriert! 
+
+:::
+
 ### Negative Angaben
 
 Negative Angaben negieren Sachverhalte oder Teile eines Sachverhaltes.
@@ -1957,6 +2004,23 @@ Einteilung in 7 **Subklassen**:\
 (42) Und daß du [*mir*]{.underline} nicht der [*Tante Emma*]{.underline} von diesem Ausflug erzählst!\
 (43) Sie kann [*dir dem General der Heilsarmee*]{.underline} ein Glas Wein anbieten.
 
+
+:::rmdrobot
+
+Bestimmten Sie, welche Angabeklassen in Andersens Märchen vorkommen (Beschreibung der Bedeutung, eine charakteristische Frage und Anapher für die Identifizierung der Angabe, den Namen der Angabeklasse)!
+
+Adresse der gemeinsamen Google-Tabelle:    https://docs.google.com/spreadsheets/d/1TXU64zYDXU9gpPyQJYORe3I91KQ8SRbuaIVJB0GCW9o/edit?usp=sharing
+
+Bei Abtönungspartikeln sind entsprechende Beschreibungen bereits in die gemeinsame Tabelle eingetragen. 
+
+:::
+
+
+:::rmdrobot
+
+1. Beschreiben Sie in einem oder zwei Sätzen, wodurch sich existimatorische Angaben von den anderen Angabeklassen unterscheiden! Illustrieren Sie Ihre Bechreibung mit zwei Beispielen! 
+
+:::
 
 ## Verbalkomplex
 
@@ -2900,3 +2964,28 @@ knitr::include_graphics("pictures/Helbig1980_sem_valenz2.jpg")
 ```
 
 In [@engel1996deutsche; @engel2004deutsche; @engel2009deutsche] werden ebenfalls Korrespondenzen zwischen *morphosyntaktischer* und *semantisierter Valenz* gezeigt. 
+
+
+:::rmdrobot
+
+Fragen zur Valenzanalyse des Textes *Desperada des Deutschrap*  (https://www.spiegel.de/kultur/musik/haiyti-unser-album-der-woche-a-fccc358a-f75d-4612-b09f-2da442d25cf5), die wir in unserer gemeinsamen Google-Tabelle gemacht haben (https://docs.google.com/spreadsheets/d/14T6rpriQndHjK3KDasWuXjQV5qgujEi3yCm2L1HZ3Y8/edit#gid=0):
+
+1. Nennen Sie die drei häufigsten Hauptverben im Text (nicht die Hilfsverben)! 
+
+2. Welche Verben kamen im Text am häufigsten vor: ein-, zwei- oder dreiwertige Verben? 
+
+3. Welches Satzmuster kam im Text am häufigsten vor? 
+
+4. Beschreiben Sie in einem oder zwei Sätzen, wie Präfixe die Bedeutung des Verbstammes und damit auch die syntaktische Valenz verändern! Illustrieren Sie Ihre Beschreibung mit zwei Beispielen! 
+
+:::
+
+
+:::rmdrobot
+
+1.	Tragen Sie deutsche und slowenische Verben ins zweisprachige Verbvalenzwörterbuch ein (insbesondere solche im Dative)! (gemeinsame Google-Tabelle). Unterscheiden Sie Anzahl und Klasse der Ergänzungen, ob obligatorisch oder fakultativ! 
+
+Adresse der gemeinsamen Google-Tabelle: https://docs.google.com/spreadsheets/d/1DgfJUF0wJuplg5SEI6QPSfwfa642sqckrwf3OTNtW7U/edit#gid=0
+
+:::
+

@@ -184,13 +184,13 @@ Tabellen: Rmarkdown (T.P)
 
 
 ```{=html}
-<div id="htmlwidget-85b80be091b3eef3485f" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-85b80be091b3eef3485f">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"2\" data-max=\"55\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","VERB"],[20,36,17,15,5,40,55,10,2,15,55,19]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":1,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-88215c1743e721ff0a78" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-88215c1743e721ff0a78">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"2\" data-max=\"55\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","VERB"],[20,36,17,15,5,40,55,10,2,15,55,19]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":1,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```{=html}
-<div id="htmlwidget-088937be8e52c8076f88" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-088937be8e52c8076f88">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"4\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2"],["und","doch"],["CCONJ","CCONJ"],[4,1]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":2,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-f52511603ecd805467d2" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f52511603ecd805467d2">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"4\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons","ColReorder","RowReorder","FixedColumns","KeyTable","Scroller"],"fillContainer":true,"data":[["1","2"],["und","doch"],["CCONJ","CCONJ"],[4,1]],"container":"<table class=\"display fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"autowidth":true,"colReorder":true,"rowReorder":true,"order":[["0","asc"]],"keys":true,"deferRender":true,"scrollY":600,"scroller":true,"scrollX":true,"fixedColumns":{"leftColumns":2,"rightColumns":1},"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 ```
@@ -200,6 +200,7 @@ Tabellen: Rmarkdown (T.P)
 ```
 ## [1] "Subjunktor:  "
 ```
+
 
 ## Verbstellungstypen
 
@@ -372,6 +373,66 @@ In affirmativen slowenischen Sätzen erscheint das unflektierte Lexem *bi* in de
 
 [[1]](#_ftnref1)  In der klitischen Reihung in einem slowenischen Satz erscheinen die klitisierten Formen des Auxiliarverbs *biti* (dt. "sein"),  das klitisierte  Reflexivpronomen *se* (dt. "sich"), die klitisierten Personalpronomina im Genitiv, Dativ und Akkusativ (z.B. *mu, ga, jim*, dt. "ihm", "ihn", "ihnen") und unflektierte Lexeme (z.B. *bi*, dt. "würde"; *naj*, dt. "soll").
 
+:::rmdrobot
+
+**Fragen:**
+
+1. Beschreiben Sie eine deutsche Wortform, an der erkennbar ist, dass zwischen Inhalt und Ausdruck kein 1:1 Verhältnis besteht!   
+2. Zeigen Sie mit je einem Beispiel den Unterschied zwischen syntagmatischen und paradigmatischen Beziehungen!   
+3. Welche syntagmatischen Beziehungen haben wir unterschieden?   
+4. Zeigen Sie mit je einem Beispiel den Unterschied zwischen Konstituenz- und Dependenzbeziehungen im Satz!   
+5. Welche Stellungstypen kann man in deutschen Sätzen unterscheiden? Definieren Sie jeden in einem Satz!   
+6. Welche Stellungsfelder kann man in deutschen Sätzen unterscheiden? Definieren Sie jedes in einem Satz!   
+
+:::
+
+:::rmdrobot
+
+**Analysebeispiel 1:**    
+
+1. Bestimmen Sie den Stellungstyp aller satzartigen Konstruktionen Hauptsätze, Nebensätze, Infinitivkonsktruktionen, Partizipialkonstruktionen - falls vorhanden) im Witz *Dialog zwischen Mann und Frau*!   
+2. Legen Sie dazu eine Tabelle an (1. Spalte: Stellungstyp; 2. Spalte: Satz aus dem Text).   
+3. Falls im Satz keine finite Verbform auftritt, versuchen Sie eine entsprechende (in runden Klammern) hinzuzufügen bzw. die infinite durch eine finite Verbform zu ersetzen!   
+
+:::
+
+
+:::rmdrobot
+
+**Analysebeispiel 2:**    
+
+1. Verwenden Sie wiederum den Witz *Dialog zwischen Mann und Frau* als sprachliches Material!   
+2. Legen Sie eine zweite Tabelle an, und zwar mit den Spalten Vorfeld, Linke Satzklammer (LSK), Mittelfeld, Rechte Satzklammer (RSK), Nachfeld!   
+3. Tragen Sie die Konstituenten der jeweiligen Sätze (satzartigen Konstruktionen) in die entsprechenden Stellungsfelder ein!   
+
+:::
+
+
+:::rmdrobot
+
+**Fragen:** 
+
+1. Welche Stellungsfelder haben wir den bereits besprochenen Feldern (Vorfeld, linke Satzklammer, Mittelfeld, rechte Satzklammer, Nachfeld) hinzugefügt?   
+
+2. Führen Sie je zwei Satzbeispiele für Elemente an, die (a) vor bzw. (b) nach einem Satz auftreten!   
+
+3. Welche vier Typen von Konnektoren haben wir unterschieden und nach welchen drei Kriterien haben wir diese Klassifizierung vorgenommen?   
+
+4. In welches Stellungsfeld (Satzfeld) setzen wir den Junktor "oder"? Wählen Sie eine Äußerung aus einem Text zur Veranschaulichung! Zeigen Sie mit der Verschiebe- und Ersatzprobe, dass ein anderes Stellungsfeld nicht in Frage kommt!   
+
+5. Wählen Sie drei komplexe satzförmige Äußerungen aus den drei Beispieltexten: Dialog zwischen Mann und Frau, Melania Tump in Baltimore ausgebuht, Billi Eillish ...) aus und ordnen Sie die darin enthaltenen Phrasen in die entsprechenden Stellungsfelder (Vor-Vorfeld; Vorfeld, LSK, Mittelfeld, RSK, Nachfeld) ein! 
+
+(a) eine Beispieläußerung soll einen Nebensatz mit Subjunktor (z.B. dass, ob, wenn, ...) enthalten; 
+
+(b) eine einen Nebensatz mit Relativpronomen oder Relativadverb (z.B. der, die, das, was, wo, worauf, ...);
+
+(c) eine Äußerung soll dagegen zwei (oder mehrere) nebengeordnete Sätze enthalten - mit einem Junktor wie "und, oder, ..." verknüpft (dafür brauchen Sie auch ein zusätzlich Feld: das Vor-Vorfeld).
+
+In der Tabelle soll jede Zeile nur einen Satz enthalten und entsprechend in die Stellungsfelder gliedern.
+
+:::
+
+
 ## Komplexe satzförmige Äußerungen
 
 Komplexe satzförmige Äußerungen (in vielen Grammatiken oft als „zusammengesetzte Sätze" bezeichnet) entstehen durch die Zusammenfügung mehrerer Grundstrukturen zu einer komplexen Einheit.
@@ -524,6 +585,16 @@ HS und fakultatives **Konjunktionaladverb** *trotzdem* im Mittelfeld des 2.HS:
 
 Im Deutschen gibt es relativ viele Möglichkeiten, ein konzessives Verhältnis auszudrücken: die Ausdrucksmöglichkeiten reichen von Konjunktionaladverbien über Präpositionalphrasen bis zu Haupt-, Neben- und Infinitivsätzen sowie Partizipialkonstruktionen.
 
+
+:::rmdrobot
+
+1. Welche semantische Klassen von Satzverbindungen kann man unterscheiden? 
+
+2. Welchen Vorteil hat die syndetische Konstruktion gegenüber der asyndetischen für den Sprecher, welchen Nachteil? Welcher Vor- und Nachteil ergibt sich für den Hörer? 
+
+:::
+
+
 #### Position der Konnektoren
 
 ##### Grundfolge nach Junktor
@@ -653,6 +724,15 @@ Konjunktionaladverbien im Vorfeld (a) und bei Umstellung (b):
 Zu a) Die Konjunktionaladverbien stehen meistens zwischen den Sätzen in Vorfeldposition, dann folgt das konjugierte Verb in der LSK (Position 2) und ein Satzglied im Mittelfeld -- in den Beispielen das Subjekt.
 
 Zu b) Die meisten Konjunktionaladverbien iVorfeld können nach den Regeln der Umstellung auch im Mittelfeld stehen, und zwar auch nach unbetontem (thematischem) Pronomen.
+
+
+:::rmdrobot
+
+1. Führen Sie Sätze mit slowenischen Konnektoren an, die mit den deutschen Konnektoren in Satzverbindungen semantisch vergleichbar oder äquivalent sind! Kann man in slowenischen Satzverbindungen ebenfalls zwei syntaktisch unterscheidbare Konnektortypen unterscheiden (führen Sie Beispiele an)? 
+
+2. Formulieren Sie eine Regel, wonach in einer Satzverbindung ein koreferentes Subjekt im zweiten Hauptsatz weglassbar ist bzw. wann es obligatorisch auch im zweiten Hauptsatz auftritt! 
+
+:::
 
 ### Subordinative Verbindung
 
@@ -894,6 +974,58 @@ Einige weitere Beispiele mit Korrelat-Nebensatz-Konstruktionen:
 (77) *Obwohl Till fleißig gearbeitet hatte*, \<== wurde er [ ~AdvP~ *dennoch*] vom Hof verjagt. (fakultatives Korrelat)
 
 
+:::rmdrobot
+
+1. Koordinierte Sätze: In welches Stellungsfeld (Satzfeld) setzen wir das Konjunktionaladverb "deswegen"? Wählen Sie eine Äußerung aus einem Text zur Veranschaulichung! Zeigen Sie mit der Verschiebe- und Ersatzprobe, dass ein anderes Stellungsfeld nicht in Frage kommt!   
+2. Koordinierte Sätze: In welches Stellungsfeld (Satzfeld) setzen wir den Subjunktor "obowhl"? Wählen Sie eine Äußerung aus einem Text zur Veranschaulichung! Zeigen Sie mit der Verschiebe- und Ersatzprobe, dass ein anderes Stellungsfeld nicht in Frage kommt!   
+3. Subordinierte Sätze: In welche Stellungsfelder (Satzfelder) können wir das Relativpronomen "die" (Nebensatzeinleiter + Satzglied !) einsetzen? Wählen Sie eine Äußerung aus einem Text zur Veranschaulichung! Zeigen Sie mit der Verschiebe- und Ersatzprobe, dass ein anderes Stellungsfeld nicht in Frage kommt!   
+4. Subordinierte Sätze: In welche Stellungsfelder (Satzfelder) können wir das Interrogativpronomen "warum" (Nebensatzeinleiter + Satzgflied !) einsetzen? Wählen Sie eine Äußerung aus einem Text zur Veranschaulichung! Zeigen Sie mit der Verschiebe- und Ersatzprobe, dass ein anderes Stellungsfeld nicht in Frage kommt!   
+5. Welche semantischen Klassen von koordinativen Satzverbindungen unterscheiden Helbig und Buscha in ihrer deutschen Grammatik?   
+6. Lesen Sie die beiden Äußerungen, die aus jeweils zwei koordinierten Sätzen bestehen:   
+
+(a) Die Flut holte uns ein und sie würde alles mit sich mitzureißen. 
+
+(b) Die Flut holte ihn ein und bald würde sie alles mit sich reißen.  
+
+Im welcher Äußerung kann man im zweiten Satz nach dem Junktor "und" das Subjekt auslassen? Womit können Sie Ihre Entscheidung begründen?
+
+:::
+
+
+:::rmdrobot
+
+1. Zeichnen Sie ein Stufendiagramm einer Periode aus Kleists Novelle Michael Kohlhaas! (--> s. Učno gradivo > Textsammlung > Kleist_kohlhaas_perioden.docx mit einem Beispiel vom 18.11.2021)   
+
+:::
+
+
+:::rmdrobot
+
+1. Welche komplexen Äußerungen nennen wir Satzverbindungen oder Satzreihen, welche nennen wir Satzgefüge? Zeigen Sie mit je einem Beispiel den Unterschied zwischen Satzverbindungen und Satzgefügen!
+
+2. In welchem Fall spricht man von einem zusammengezogenen Satz? Führen Sie ein Beispiel an!
+
+3. Welche Sätze nennt man Parenthesen? Führen Sie ein Beispiel an! In welchem Stellungsfeld des übergeordneten Satzes werden sie gewöhnlich eingesetzt? Warum werden sie nicht ausgeklammert?
+
+4. Führen Sie ein Beispiel für einen uneingeleiteten Verbzweitnebensatz (auch abhängiger Hauptsatz genannt) und ein Beispiel für einen uneingeleiteten Verberstnebensatz an!
+
+5. Führen Sie ein Beispiel mit einem Pronominalnebensatz an und tragen Sie seine einzelnen Teile in Stellungsfelder ein! Vergessen Sie nicht, dass erkennbar sein muss, warum die linke Satzklammer für die finite Verbform blockiert ist!
+
+6. Führen Sie je ein Beispiel für eine satzwertige Infinitivkonstruktion (auch inkohärenter Infinitivsatz genannt) und eine satzwertige Partizipialkonstruktion an!
+
+7. Führen Sie je ein Beispiel für einen restriktiven und einen nicht-restriktiven Relativsatz an!
+
+8. Führen Sie ein Beispiel für ein Korrelat (auch Bezugselement genannt) mit dazugehörigem Nebensatz an!
+
+9. Wo stehen Nebensätze in Bezug zum Hauptsatz (HS) selten: im Vorfeld des HS, im Mittelfeld des HS, im Nachfeld des HS?
+
+10. Wodurch unterscheidet sich das Demonstrativpronomen vom Relativpronomen - syntaktisch gesehen (vgl. (a) Das ist der Fisch, den hat Egon geangelt <--> (b) Das ist der Fisch, den Egon geangelt hat)? 
+
+11. Wozu dient die Ausklammerung von Satzelementen? Nennen Sie Fälle, in denen Sie zum besseren Verständnis beiträgt!
+
+:::
+
+
 ## Satzmodus
 
 Grundlage für diesen Abschnitt ist das Satzmodusmodell von [@altmann1987problematik], beschrieben auch in [@thurmair1989modalpartikeln: 42].
@@ -1024,3 +1156,39 @@ Im Duden [@drosdowski1995duden: 592-594] und in [@engel1996deutsche: 52-58] werd
 <img src="pictures/satzmodus_ueberblick.jpg" width="100%" height="100%" />
 
 
+:::rmdtip
+
+**Gesprächssequenz** = eine Aufeinanderfolge von zwei Beiträgen verschiedener Sprecher
+
+**Gesprächszug** = Beitrag (oder Teil eines Beitrags) eines Gesprächsteilnehmers
+
+*initiierender Gesprächszug* = beginnender Beitrag eines Gesprächsteilnehmers
+
+*respondierender Gesprächszug* = zweiter oder abschließender Beitrag eines Gesprächsteilnehmers
+
+z.B.    
+A: Haben die Iren auch so einen Humor wie die Engländer oder eher so wie die Deutschen ? (initiierend)   
+B: Ja, eher wie die Engländer ... (respondierend)   
+
+:::
+
+
+:::rmdrobot
+
+1. Bestimmen Sie  die Fragesätze im Video-Clip von *Easy German* (*How Germans react to jokes about Germans*).
+
+Die Adresse des YouTube-Videos:    https://www.youtube.com/watch?v=hW28HSSfEg0
+
+Tragen Sie Ihre Beispiele in die gemeinsame Google-Tabelle ein (https://docs.google.com/spreadsheets/d/1KizQScYk2vPaPATxIo901ABFtV_XbuhgRb6RlWpDYDo/edit?usp=sharing).
+
+Den Zeitpunkt der ausgewählten Beispiele können Sie in die Tabelle kopieren, indem auf auf das YouTube-Video mit der rechten Maustiste klicken und dann "Kopiraj spletni nalsov posnetka prit tem času" auswählen.
+
+2. Tragen Sie die Fragesatz-Belege in die gemeinsame Google-Tabelle zum Thema Fragesätze in der *Easy-German*-Sendung *Dates* ein!
+
+Tabelle:  https://docs.google.com/spreadsheets/d/1KizQScYk2vPaPATxIo901ABFtV_XbuhgRb6RlWpDYDo/edit#gid=1753548406
+
+Video: https://www.youtube.com/watch?v=73BDlF5k-Ao
+
+Den Zeitpunkt der ausgewählten Beispiele können Sie in die Tabelle kopieren, indem auf auf das YouTube-Video mit der rechten Maustiste klicken und dann "Kopiraj spletni nalsov posnetka prit tem času" auswählen.
+
+:::

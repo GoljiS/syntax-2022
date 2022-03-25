@@ -98,6 +98,15 @@ knitr::include_graphics("pictures/mf_termergaenzungen._eisenberg_erlaeuter5.jpg"
 ```
 
 
+:::rmdrobot
+
+1. Welche Aufeinanderfolge von Angaben und Ergänzungen ist gemäß Eroms (1986) im Mittelfeld eines deutschen Satzes grundlegend? Für welche Satzglieder gilt das Prinzip der Verbnähe? 
+
+2. Welchen Einfluss hat die Wortklasse (Pronomen vs. Substantiv), Definitheit (Identifizierbarkeit: bestimmter Artikel) und Indefinitheit (Nicht-Identizierbarkeit: unbestimmter Artikel) auf die Aufeinanderfolge von Ergänzungen im Mittelfeld eines deutschen Satzes? Führen Sie je ein Beispiel an! 
+
+:::
+
+
 ## Satznegation im Mittelfeld
 
 Gemäß der Grundfolge tritt die Satznegation (Negationspartikel *nicht* oder Negationsartikel *k-ein*) im **rechten Teil des Mittelfeldes** auf, in dem rhematische Informationen übermittelt werden. 
@@ -116,3 +125,15 @@ knitr::include_graphics("pictures/mf_konstituentenstellung_negation_bsp1.jpg")
 knitr::include_graphics("pictures/mf_konstituentenstellung_negation_bsp2.jpg")
 ```
 
+
+:::rmdrobot
+
+1. Wo im deutschen Mittelfeld stehen die Angaben, wo die Ergänzungsklassen (gemäß Eroms)? Bilden Sie zwei Sätze - mit Subjekt im Vorfeld, mit einer Angabe und einer Ergänzung im Mittelfeld! Wählen Sie jeweils verschiedene Angabe- und Ergänzungsklassen! 
+
+2.	Was unterscheidet die Satznegation von der Sondernegation? Führen Sie je ein Beispiel an! Erläutern Sie, woran man den semantischen Unterschied erkennen kann! 
+
+3. Wo im Mittelfeld steht die Satznegation (Partikel nicht)? Zeigen Sie den Zusammenhang mit der Informationsverteilung im Satz (Thema-Rhema-Gliederung) anhand von zwei ausgewählten Satzbeispielen!
+
+4. Nennen Sie Kriterien, nach denen im deutschen Mittelfeld die Reihenfolge von Satzkonstituenten festgelegt wird! Führen Sie zu jedem Kriterium je ein Beispiel an!
+
+:::

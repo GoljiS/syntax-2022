@@ -115,6 +115,19 @@ Das *Folgeschema* zeigt die *unmarkierte Abfolge der Determinative* [@engel1996d
 knitr::include_graphics("pictures/det_folgeschema.jpg")
 ```
 
+
+:::rmdrobot
+
+Drei Fragen zu den Attributen (Antwort in jeweils einem Satz ist ausreichend): 
+
+1. Wozu dient ein Determinativ in einer deutschen Nominalphrase? 
+
+2. Was unterscheidet die "stellungsfesten" und "frei verschiebbaren" Attribute von den dislozierbaren Attributen? 
+
+3. Wie unterscheiden wir, ob ein Attribut in einer Nominalphrase Angabe oder Ergänzung ist? 
+
+:::
+
 ## Pränominale Attribute
 
 Im Vorfeld können folgende Attribute stehen (**pränominale Attribute** -- Klammern = markierte Verwendung):
@@ -319,6 +332,17 @@ Jahrhunderts findet, konnte das Adjektiv in unflektierter Form dem regierenden N
 (42b) Golf Diesel, Opel Ascona, Mitsubishi Colt (Nomen invarians vergleichbar mit Adj (42a))
 
 (43) ein Mägdelein [fein]{.underline}
+
+
+:::rmdrobot
+
+1. Ordnen Sie fünf verschiedenartige Adjektive nach den fünf semantischen Klassen (quantifizierende, situierende/relationale, qualitative, Herkunftsadjektive, bereichspezifizierende)!
+
+Gemeinsame Google-Tabelle: https://docs.google.com/spreadsheets/d/1S_qEPvrQAyysa7vi6bl1YPXK4-evDIafeHDq3sc35_Q/edit#gid=0
+
+
+:::
+
 
 #### Verschiebung Nachfeld \>\> Vorfeld
 
@@ -1425,3 +1449,33 @@ Ein anderes klassisches Beispiel: Wer trägt den Schlafanzug?
 Die Präpositionalphrase könnte eine Angabe zum Subjekt (*ich*) sein oder eine Angabe zum Objekt (*Elefant*).   
 
 
+:::rmdrobot
+
+**Fragen:**
+
+1. Welche Vorgehensweisen (Verfahren) können wir wählen, um bei engen Appositionen (Engel: Nomen varians, Nomen invarians) den Kopf der Nominalphrase zu bestimmen? Demonstrieren Sie Ihr Verfahren mit einem Beispiel!
+
+2. Welche Verfahren können wir benutzen, um Genitivattribute semantisch zu unterscheiden und in Klassen einzuordnen? Demonstrieren Sie Ihr Verfahren mit einem Beispiel!
+
+3. Beschreiben Sie in einem oder zwei Sätzen, welchen Einfluss die Wortbildung des Adjektivs auf die Anordnung in der Nominalphrase hat!
+
+4. Führen Sie je ein Beispiel für koordinierte und subordinierte Attribute an!
+
+5. Bilden Sie ein Beispiel mit einem syntaktisch ambigen Attribut!
+
+:::
+
+
+:::rmdrobot
+
+1. Zeigen Sie mit einem Verfahren (Ersatzprobe, Frageprobe, Transformation in einen Satz), wie man das postnominale Attribut, den sogenannten Objektgenitiv (Genitivus objectivus) , identifizieren kann! Wählen Sie ein passendes Beispiel zur Demonstration! 
+
+2. Welches semantische Verhältnis drückt der partitive Genitiv aus? Führen Sie ein slowenisches Beispiel an! Führen Sie ein Beispiel an, in dem er im Gegenwartsdeutschen noch vorkommen kann! Nennen Sie eine der alternativen Ausdrucksmöglichkeiten im Gegenwartsdeutschen (mit Beispiel)! --> Eisenberg (03l_Eisenberg_-_Enge_Appositionen.ppt) 
+
+3. Bilden Sie zwei komplexe Nominalphrasen, in denen außer einem Determinativ zwei oder mehrere adjektivische Attribute verschiedener Bedeutungsklassen pränominal auftreten! Achten Sie dabei auf die Reihenfolge der adjektivischen Attribute!
+
+4. Bilden Sie zwei komplexe Nominalphrasen, in denen ein oder mehrere postnominale Attribute verschiedener Ergänzungs- und/oder Angabeklassen auftreten. 
+
+5. Analysieren Sie die Attribute von zwei Nominalphrasen im Text "https://www.msn.com/de-de/nachrichten/finance-top-stories/was-soll-ich-studieren-warum-sich-geisteswissenschaften-und-eine-karriere-in-der-tech-welt-nicht-ausschlie%c3%9fen/ar-BB1c0QLZ" nach Form, Funktion und Position, und zwar nach dem vorgegebenem Muster in der gemeinsamen Google-Tabelle (https://docs.google.com/spreadsheets/d/1r08qCE5suB6zvjqbKlo0zGItKFZ9c_TaJA0rQd8Bqf8/edit?usp=sharing). 
+
+:::

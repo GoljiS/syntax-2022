@@ -4,6 +4,14 @@ gegenstand-und-sinn-der-syntax
 prototypischer-satz
 syntax
 syntaktische-grundbeziehungen
+inhalt-vs.-ausdruck
+syntagmatisch-vs.-paradigmatisch
+rektion
+identität
+kongruenz
+positionsbezug
+konstituenz
+dependenz
 identifikationsverfahren
 verschiebeprobe
 ersatzproben

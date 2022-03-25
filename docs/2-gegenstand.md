@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Gegenstand und Sinn der Syntax
 
 Im Alltag, sei es privat oder im Beruf, verständigen wir uns vorrangig mit Hilfe von mündlich oder schriftlich formulierten Texten.
@@ -47,10 +42,16 @@ Wir wollen in Anschluss an die deutsche Grammatik von [@engel1996deutsche: 33] e
 
 Im Deutschen gibt es eine Reihe von sprachlichen Konstruktionen, die zu verschiedenen Graden diese drei Eigenschaften aufweisen. Diese Konstruktionen nennen wir satzförmige oder satzartige Konstruktionen (sogenannte Haupt- und Nebensätze, Infinitiv- und Partizipialkonstruktionen). Am anderen Ende dieser Skala stehen nicht-satzartige Konstruktionen (z.B. Nominalphrasen).   
 
-Satzartigkeit:   
-<< HS << HS-Rest << abhängige HS >> selbständige NS >> NS >> IS >> PK >> NP
+::: rmdtip
+**Satzartigkeit**:   
 
-Die *Satzartigkeit der Konstruktionen* nimmt demnach von (1) bis (9) ab:    
+**HS << HS-Rest << abhängige HS >> selbständige NS >> NS >> IS >> PK >> NP >> ... **   
+
+HS = Hauptsatz, NS = Nebensatz, IS = Infinitivsatz,    
+PK = Partizipialkonstruktion, NP = Nominalphrase
+:::
+
+Die *Satzartigkeit sprachlicher Konstruktionen* nimmt demnach von (1) bis (9) ab:    
 (1) Die Sonne scheint. Es regnet. Verstehst du sie? Wo ist der Ball? Fang!   
 (2) Sie glaubte, (dass ...). Ich frage mich, (ob ...). Wer hat gefragt, (ob ...)? Verstehst du, (was der Mann uns zuruft)?   
 (3) (Sie meinte), er nimmt / nehme sie nicht ernst. Er rief: Kommst du jetzt oder nicht?     
@@ -58,10 +59,10 @@ Die *Satzartigkeit der Konstruktionen* nimmt demnach von (1) bis (9) ab:
 (5) (Er wies sie darauf hin), dass der Laden bald schließen werde.   
 (6) (Sie versicherte ihm), den Roller für sich kaufen zu wollen. (Sie besuchten ihn), um ihm zum Geburtstag zu gratulieren.    
 (7) Am Schwimmbad angekommen, (stellten wir unsere Fahrräder ab.)    
-(8) der Besuch der alten Dame, Die Blendung, die Fahrt auf dem Wasserwerfer durch Frankfurt, die Verschwendung von Ressourcen in unserer Gemeinde, die Behandlung des Patienten durch den berühmten Zahnarzt.
+(8) der Besuch der alten Dame, Die Blendung, die Fahrt auf dem Wasserwerfer durch Frankfurt, die Verschwendung von Ressourcen in unserer Gemeinde, die Behandlung der Patientin durch den berühmten Schönheitsmediziner.      
 (9) Tür zu! Ja. Oh! Verflixt! Jung und schön, hie und da, das Haus meiner Eltern, Kramer gegen Kramer, ...
 
-*Haupt- oder Matrixsätze* (1) weisen alle drei Eigenschaften auf: eine finite Verbform, ihre syntaktische Struktur ermöglicht es, eine kommunikative Absicht (Sprechhandlung) eindeutig auszudrücken, außerdem sind eine abgeschlossene Redeeinheit, d.h. kommunikativ und syntaktisch selbständig. *Haupt- oder Obersatzreste* (2) sind nicht mehr selbständig, da ein syntaktisch notwendiger Bestandteil fehlt (nämlich das, was im Nebensatz steht). Sogenannte *abhängige Hauptsätze* oder V2-Nebensätze (3) haben zwar die Form von Hauptsätzen, sind aber vom Hauptverb im übergeordneten Satz abhängig. Das kann auch an der Konjunktivform des finiten Verbs erkennbar sein. Sogenannte *selbständige Nebensätze* (4) sind dagegen selbständig verwendbar, enthalten jedoch ein unterordnendes Element (einen Subjunktor). *Selbständige Infinitivsätze* (4) sind bei entsprechendem (situativen) Kontext selbständig verwendbar, weisen jedoch eine infinite Verbform auf. *Nebensätze* oder eingebettete Sätze (5) enthalten zwar wie Hauptsätze eine finite Verbform, sind jedoch nicht selbständig (weder kommunikativ noch syntaktisch, mehrere Nebensatztypen auch prosodisch nicht) und werden durch einen Subjunktor einem anderen Satz untergeordnet und in diesen syntaktisch (und prosodisch) integriert. Inkohärente *Infinitivsätze* (6) haben im Gegensatz zu Nebensätzen keine finite, sondern eine infinite Verbform. Ihre syntaktische Struktur ist aber auch in anderer Hinsicht beschränkt (ihnen fehlt ein explizites Subjekt) oder mit dem übergeordneten Satz verwobenund kontrolliert. *Partizipialkonstruktionen* (7) weisen ebenfalls eine infinite Verbform auf und sind ähnlich wie Infinitivkonstruktionen in mehrfacher Hinsicht vom übergeordneten Satz abhängig. *Nominalphrasen* (8) sind definitionsmäßig keine Sätze, da sie weder eine finite noch eine finite Verbform enthalten. Aber deverbative Nomina, also solche, die einen Verbstamm als Basis enthalten, haben einen vergleichbaren semantischen Gehalt (Proposition) und können ähnliche syntaktische Funktionen erfüllen wie Neben- oder Infinitivsätze. *Phrasen* in (9) enthalten weder eine Verbform noch eine andere Worart mit Verbstamm als Basis. Definitionsmäßig sind sie daher keine satzartigen Konstrukte. Aber sie können in entsprechenden Kontexten Satzfunktionen übernehmen oder zu Sätzen erweitert werden, da sie potentielle Satzinhalte (Propositionen) darstellen.     
+*Haupt- oder Matrixsätze* (1) weisen alle drei Eigenschaften auf: (a) eine finite Verbform, (b) ihre syntaktische Struktur ermöglicht es, eine kommunikative Absicht (Einstellung zum Sachverhalt, Sprechhandlung) eindeutig auszudrücken, (c) außerdem sind sie eine abgeschlossene Redeeinheit, d.h. kommunikativ und syntaktisch selbständig. *Haupt- oder Obersatzreste* (HS-Rest), in Beispiel (2), sind nicht mehr selbständig, da ein syntaktisch notwendiger Bestandteil fehlt (nämlich das, was im Nebensatz steht). Sogenannte *abhängige Hauptsätze* oder V2-Nebensätze (3) haben zwar die Form von Hauptsätzen, sind aber vom Hauptverb des übergeordneten Satzes abhängig. Das kann auch an der Konjunktivform des finiten Verbs erkennbar sein. Sogenannte *selbständige Nebensätze* (4) sind dagegen in spezifischen Kontexten selbständig verwendbar, enthalten jedoch ein unterordnendes Element (einen Subjunktor) und lassen sich in vielen Fällen als elliptische Konstruktion erklären (d.h. dass man sich einen nicht ausgesprochenen Hauptsatz hinzudenken kann, dem sie untergeordnet sind). *Selbständige Infinitivsätze* (4) sind bei entsprechendem (situativen) Kontext selbständig verwendbar, weisen jedoch eine infinite Verbform auf. *Nebensätze oder eingebettete Sätze* (5) enthalten zwar wie Hauptsätze eine finite Verbform, sind jedoch nicht selbständig (weder kommunikativ noch syntaktisch, mehrere Nebensatztypen auch prosodisch nicht) und werden durch einen Subjunktor einem anderen Satz untergeordnet und in diesen syntaktisch (und prosodisch) integriert. Inkohärente *Infinitivsätze* (6), also solche, die Nebensätze vertreten können, haben im Gegensatz zu Nebensätzen keine finite, sondern eine infinite Verbform. Ihre syntaktische Struktur ist aber auch in anderer Hinsicht beschränkt (ihnen fehlt ein explizites Subjekt) oder mit dem übergeordneten Satz verwobenund kontrolliert. *Partizipialkonstruktionen* (7) weisen ebenfalls eine infinite Verbform auf und sind ähnlich wie Infinitivkonstruktionen in mehrfacher Hinsicht vom übergeordneten Satz abhängig. *Nominalphrasen* (8) sind definitionsmäßig keine Sätze, da sie weder eine finite noch eine infinite Verbform enthalten. Aber deverbative Nomina, also solche, die einen Verbstamm als Basis enthalten, haben einen vergleichbaren semantischen Gehalt und können ähnliche syntaktische Funktionen erfüllen wie Neben- oder Infinitivsätze. Sie stellen also potentielle Satzinhalte (Propositionen) dar. *Phrasen* in (9) enthalten weder eine Verbform noch eine andere Worart mit Verbstamm als Basis. Definitionsmäßig sind sie daher keine satzartigen Konstrukte. Aber sie können in entsprechenden Kontexten Satzfunktionen übernehmen oder zu Sätzen erweitert werden, da sie potentielle Satzinhalte (Propositionen) darstellen. Deshalb werden sie auch *Satzäquivalente* genannt.     
 
 
 ::: rmdrobot
@@ -93,23 +94,29 @@ In den folgenden Abschnitten sollen die folgenden syntaktischen Grundbeziehungen
 3.  Konstituenzbeziehungen zwischen sprachlichen Zeichen
 4.  Dependenzbeziehungen zwischen sprachlichen Zeichen
 
+
+### Inhalt vs. Ausdruck
+
 Jedes sprachliche Zeichen hat hat zwei Seiten:    
 • die *Inhalts- oder Bedeutungsseite*    
 • die *Ausdrucks- oder Formseite*.
 
-Nur die *Ausdrucksseite* ist direkt zugänglich, während die Inhaltsseite erschlossen werden muß.
+Nur die *Ausdrucksseite* ist direkt zugänglich, während die *Inhaltsseite* erschlossen werden muß.
 Die Form einer Münze z.B.
 können wir mit unseren Sinnen wahrnehmen, welche Bedeutung sie jedoch für uns hat, müssen wir erst mit Hilfe unseres gespeicherten Wissens u.a.
 erschließen.
 
-In flektierenden bzw. fusionierenden Sprachen (z.B. Deutsch, Slowenisch) wird ein und derselbe Inhalt häufig durch verschiedene Formen ausgedrückt (vgl. derselbe Sachverhalt in Aktiv vs. Passiv, verschiedene Suffixe für Personenbezeichnungen, verschiedene Suffixe für Plural usw.).
+In flektierenden bzw. *fusionierenden Sprachen* (z.B. Deutsch, Slowenisch) wird ein und derselbe Inhalt häufig durch verschiedene Formen ausgedrückt (vgl. derselbe Sachverhalt in Aktiv vs. Passiv, verschiedene Suffixe für Personenbezeichnungen, verschiedene Suffixe für Plural usw.).
 Umgekehrt gilt, daß ein Ausdruck oft polyfunktional bzw.
 polysem ist, d.h.
 daß er je nach sprachlicher oder außersprachlicher Umgebung mehrere Bedeutungen auszudrücken vermag (vgl. die verschiedenen Funktionen der Suffixe -en oder -er, der Partikeln ja, doch, eben, denn, der Tempora Präsens oder Perfekt usw.).
 Eine eineindeutige Entsprechung (1:1 Entsprechung) zwischen Inhalt und Ausdruck besteht somit nicht.
-Agglutinierende Sprachen (z.B. Türkisch) nähern sich diesem "Ideal" (als eines "Ideale" gilt 1:1 Entsprechung zwischen Inhalt und Form deshalb, weil das Gedächtnis weniger belastet ist als bei 1:n Entsprechungen).
+*Agglutinierende Sprachen* (z.B. Türkisch) nähern sich diesem "Ideal" (als eines "Ideale" gilt 1:1 Entsprechung zwischen Inhalt und Form deshalb, weil das Gedächtnis weniger belastet ist als bei 1:n Entsprechungen).
 
-Mehr über die Beziehung zwischen Inhalt und Ausdruck ist aus den Folien über die Kodierverfahren zu ersehen.
+Mehr über die Beziehung zwischen Inhalt und Ausdruck ist aus den Folien über die *Kodierverfahren* zu ersehen.
+
+
+### Syntagmatisch vs. paradigmatisch
 
 Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg1994grundriss: 45-47] auf verschiedene Weise:   
 • durch *Variierung der Reihenfolge* von Satzelementen (Haben zwei Sätze dieselben Elemente und treten diese Satzelemente in verschiedener Reihenfolge auf, dann haben die beiden Sätze eine verschiedene Form, und zwar ohne Rücksicht auf Bedeutungsunterschiede oder Bedeutungsgleichheit der beiden Sätze);   
@@ -117,19 +124,19 @@ Die *syntaktische Form von Sätzen* verändert sich nach [@eisenberg1994grundris
 durch Interpunktion (d.h. Komma, Punkt, Doppelpunkt, usw.) in der geschriebenen Sprache (Die Intonation ist zweifellos ein Formmittel, denn man hört, auf welchem Satzelement der Hauptakzent liegt, oder ob die Tonhöhe am Satzende steigt);   
 • durch *morphologische Veränderung* von Einheiten im Satz (Verändert man die im Satz vorkommenden Elemente durch Präfixe, Suffixe, Infixe, Umlaut oder Ablaut, verändert man auch die syntaktische Form eines Satzes).
 
-"Dadurch daß eine linguistische Einheit in einem bestimmten Kontext vorkommen kann, können zweierlei Relationen entstehen. Sie steht in paradigmatischer Relation zu all jenen Einheiten, die gleichfalls in demselben Kontext vorkommen können (gleichgültig, ob sie mit der ersten Einheit kontrastieren oder in freier Variation sind) und in syntagmatischer Relation zu jenen anderen Einheiten derselben Stufe, mit denen zusammen sie vorkommt und die ihren Kontext bilden." (Lyons 71989: 75) *Paradigmatische und syntagmatische Beziehungen* sind nicht nur auf syntaktischer Ebene, sondern auf allen Ebenen linguistischer Beschreibung bedeutend, also etwa auch auf phonologischer, morphologischer und semantischer Ebene (Lyons 71989: 76).
-Die Elemente, die ein Paradigma bilden, sind somit füreinander austauschbar und können nicht gleichzeitig stehen.
-Die Elemente, die ein Syntagma bilden, sind nicht füreinander austauschbar und kommen in demselben Kontext vor.
+"Dadurch daß eine linguistische Einheit in einem bestimmten Kontext vorkommen kann, können *zweierlei Relationen* entstehen. Sie steht in **paradigmatischer Relation** zu all jenen Einheiten, die gleichfalls in demselben Kontext vorkommen können (gleichgültig, ob sie mit der ersten Einheit kontrastieren oder in freier Variation sind) und in **syntagmatischer Relation** zu jenen anderen Einheiten derselben Stufe, mit denen zusammen sie vorkommt und die ihren Kontext bilden." (Lyons 71989: 75) Paradigmatische und syntagmatische Beziehungen sind nicht nur auf syntaktischer Ebene, sondern *auf allen Ebenen* linguistischer Beschreibung bedeutend, also etwa auch auf phonologischer, morphologischer und semantischer Ebene (Lyons 71989: 76). 
+
+Die Elemente, die ein **Paradigma** bilden, sind somit füreinander austauschbar und können nicht gleichzeitig stehen.
+Die Elemente, die ein **Syntagma** bilden, sind nicht füreinander austauschbar und kommen in demselben Kontext vor.
 Elemente in syntagmatischer Beziehungen bilden eine Struktur.
 Die Zahl der möglichen Strukturen ist theoretisch gesehen unendlich.
-Ein Paradigma oder System ist hingegen eine endliche Menge von Wahlmöglichkeiten, die dem Sprecher in einem bestimmten Kontext zur Verfügung stehen.
-Syntagmatische und paradigmatische Beziehungen werden zur Veranschaulichung oft in einem zweidimensionalen Koordinatensystem abgebildet.
-Auf der horizontalen Achse werden die syntagmatischen Beziehungen und auf der vertikalen Achse die paradigmatischen Beziehungen abgebildet.
-Die horizontale Achse wird auch als Strukturachse und die vertikale Achse auch als Systemachse oder Wahlachse bezeichnet (z.B. eine Satzstruktur mit Pronominalparadigma zur Veranschaulichung einzeichnen).
+Ein **Paradigma** oder System ist hingegen eine endliche Menge von Wahlmöglichkeiten, die dem Sprecher in einem bestimmten Kontext zur Verfügung stehen.
+
+Syntagmatische und paradigmatische Beziehungen werden zur Veranschaulichung oft in einem zweidimensionalen *Koordinatensystem* abgebildet. Auf der horizontalen Achse werden die syntagmatischen Beziehungen und auf der vertikalen Achse die paradigmatischen Beziehungen abgebildet. Die horizontale Achse wird auch als Strukturachse und die vertikale Achse auch als Systemachse oder Wahlachse bezeichnet (z.B. eine Satzstruktur mit Pronominalparadigma zur Veranschaulichung einzeichnen).
 
 Speziell in der Syntax bestehen **syntagmatische** Beziehungen zwischen Konstituenten (d.h. Einheiten eines Satzes). Für das Deutsche setzt [@eisenberg1994grundriss: 52; @eisenberg2013satz: 30] *vier Typen* solcher Beziehungen an, und zwar *Rektion*, *Identität*, *Kongruenz* und *Positionsbezug*.
 
-1.  *Rektion*
+#### Rektion
 
 Der Begriff Rektion (lat. regere „regieren"; engl. government; slow. vezavnost) wird in Abhängigkeit von der jeweiligen Grammatiktheorie verschieden verwendet.
 Das regierende Element wird als Regens, das von ihm abhängige Element dagegen als Rektum oder Dependens bezeichnet.
@@ -145,14 +152,14 @@ Beispiel: Ein Substantiv (Paradigmenkategorie SUBSTANTIV) kann ein Genitivattrib
 In Konkurrenz zur Rektion steht der von Tesnière geprägte Valenzbegriff (engl. valency; slow. vezljivost).
 *Valenz* ist ein der aus der Chemie entlehnter Begriff (vgl. die Fähigkeit von Atomkernen eine bestimmte Anzahl von Elektronen zu binden mit der Fähigkeit von bestimmten Lexemen eine bestimmte Anzahl von anderen Lexemen oder Wortgruppen zu binden).
 
-Nach Helbig & Buscha ist Valenz eine semantisch begründete Fähigkeit von lexikalischen Elementen (insbesondere Verben, Nomina, Adjektiven), Leerstellen im Satz zu eröffnen, die von Aktanten (d.h. Ergänzungen) besetzt werden können oder müssen.
+Nach [@helbig1987deutsche] ist **Valenz** eine semantisch begründete Fähigkeit von lexikalischen Elementen (insbesondere Verben, Nomina, Adjektiven), Leerstellen im Satz zu eröffnen, die von Aktanten (d.h. Ergänzungen) besetzt werden können oder müssen.
 Nach [@eisenberg2013satz] ist Valenz eine besondere Form von Rektion.
 
-2.  *Identität*
+#### Identität
 
 "Eine Konstituente f1 steht in der Identitätsbeziehung zu einer Konstituente f2, wenn es bestimmte grammatische Kategorien gibt, denen beide Konstituenten zugeordnet sind." [@eisenberg1994grundriss: 54] Als Beispiel: koordinierte Nominalphrasen, enge Apposition: der Bürger Danton.
 
-3.  *Kongruenz*
+#### Kongruenz
 
 Unter Kongruenz versteht man im allgemeinen die formale Übereinstimmung einer Wortform mit einer anderen oder mit anderen Wortformen.
 
@@ -199,7 +206,7 @@ Im Gegenwartsdeutschen ist diese Kongruenzerscheinung nicht bekannt.
 Traditionell wird noch ein weiterer Fall von formaler Übereinstimmung als Kongruenz behandelt, nämlich die formale Übereinstimmung zwischen dem Nomen und seinen vorangestellten Begleitern, den Adjektiven und Artikelwörtern.
 In der Grammatik von [@eisenberg1994grundriss] finden wir dazu eine andere Ansicht.
 
-4.  *Positionsbezug*
+#### Positionsbezug
 
 "Eine Konstituente f1 ist positionsbezogen auf eine Konstituente f2, wenn die Position von f2 relativ zu f1 festliegt." [@eisenberg1994grundriss: 56] Als Beispiele können uns die Konstruktionen Präposition + N; Subjunktor + V-Letzt-Stellung dienen.
 
@@ -229,7 +236,8 @@ Fügewörter, die der regierten Nominalphrase folgen und ihr nicht voranstehen.
 Postpositionen sind in Sprachen mit dominanter SVO-Stellung selten oder überhaupt nicht vorhanden.
 An der Tatsache, dass im Deutschen sowohl Präpositionen als auch Postpositionen vorkommen, obwohl letztere präferent zu erwarten gewesen wären, zeigt sich andererseits, dass eine Sprache häufig einen Mischtyp verschiedener Kodierungsstrategien darstellt.
 
-3.  *KONSTITUENZ*
+
+###  Konstituenz
 
 Sprachliche Ausdrücke treten notgedrungenerweise linear in einem Satz auf, d.h. zeitlich oder räumlich nacheinander, z.B.:
 
@@ -283,7 +291,8 @@ Im oben verwendeten Satz Unsere Studenten haben die Pflichtlektüre nicht gelese
 Da syntaktische Funktionen wie beispielsweise Subjekt, Objekt oder Adverbialbestimmung Relationscharakter haben, lassen sich nicht isoliert vom Kontext aufzählen wie beispielsweise die Wortklassen Nomen, Adjektiv oder Verb.
 Ein Adjektiv kann im Satz verschiedene Funktionen ausüben: es kann als Begleiter eines Nomens (das ist die sogenannte Attributfunktion) oder als Ergänzung zum Verb (das ist die sogenannte Prädikativfunktion, in Valenzmodellen auch Adjektivalergänzung genannt) auftreten.
 
-4.  *DEPENDENZ*
+
+### Dependenz
 
 Als Grundbeziehung zwischen (linear auftretenden) sprachlichen Elementen gilt auch das Prinzip der Dependenz, d.h.
 der Abhängigkeit eines Elementes von einem anderen.
@@ -300,11 +309,24 @@ Derartige Valenzmodelle werden übrigens als Valenzverbgrammatiken bezeichnet.
 
 ## Identifikationsverfahren
 
-*Identifikationsverfahren* 1.
-Verschiebeprobe 2.
-Austauschprobe, Ersatzprobe (Fragetest) 3.
-Eliminierungsprobe 4.
-Hinzufuegungsprobe (5. Koordinationsprobe, Häufungsprobe, Akzentuierungsprobe mit Satz- oder Kontrastakzent)
+Für die Identifizierung und Klassifizierung von Satzelementen verwenden wir eine Reihe paradigmatischen und syntagmatischen Verfahren (Proben, Tests).   
+
+:::rmdtip
+**Identifikationsverfahren**   
+
+**1. Verschiebeprobe**    
+**2. Austauschprobe, Ersatzprobe**    
+**3. Eliminierungsprobe**    
+**4. Hinzufuegungsprobe**   
+
+Kombination aus Ersatz- und Verschiebeprobe:   
+**5. Fragetest**   
+
+Zusätzliche Tests:   
+6. Koordinationsprobe, Häufungsprobe, Akzentuierungsprobe mit Satz- oder Kontrastakzent   
+
+:::
+
 
 ### Verschiebeprobe
 
@@ -359,9 +381,9 @@ Der Ausdruck *die Professorin* kommutiert außerdem mit einer speziellen Anapher
 Für jede Satzgliedklasse (Ergänzungsklasse) kann man im Prinzip eine spezielle Anapher finden. Auf diese Weise ist eine Satzgliedklassifizierung möglich. Die Anaphorisierungsprobe wirkt so wie die Kommutationsprobe entlang der paradigmatischen Achse (y-Achse).
 
 
-#### Fragewortprobe
+### Fragewortprobe
 
-Die *Fragewortprobe* ist ebenfalls eine Ersetzungsprobe, bei der man aber meist zusätzlich die Reihenfolge der Satzelemente verändert, da man das Fragewort gewöhnlich an den Satzanfang stellt. Sie dient wie die Anaphorisierungsprobe der Ermittlung der Satzgliedklasse. Eine Konstituente des Satzes wird durch ein entsprechendes Fragewort ersetzt, d.h. man versucht die betreffende Konstituente zu erfragen.
+Die *Fragewortprobe* ist eine Ersetzungsprobe, bei der man aber meist zusätzlich die Reihenfolge der Satzelemente verändert, da man das Fragewort im Deutschen gewöhnlich an den Satzanfang stellt. Sie dient wie die Anaphorisierungsprobe der Ermittlung der Satzgliedklasse. Eine Konstituente des Satzes wird durch ein entsprechendes Fragewort ersetzt, d.h. man versucht die betreffende Konstituente zu erfragen.
 
 (6a) *Die Professorin* hält einen Vortrag über Textlinguistik.   
 (6b) *Wer* hält einen Vortrag über Textlinguistik?   
@@ -377,7 +399,7 @@ Sie ist also ein syntagmatischer Test (a), gleichzeitig aber auch ein paradigmat
 
 ### Eliminierungsprobe
 
-Die *Eliminierungsprobe* (auch *Weglaßprobe* oder *Tilgungsprobe* genannt) dient zur Ermittlung von obligatorischen und fakultativ auftretenden Konstituenten des Satzes. In der Valenzgrammatik wird betont, daß die Unterscheidung zwischen Ergänzungen und Angaben mit ihr nicht möglich ist.
+Die *Eliminierungsprobe* (auch *Weglassprobe* oder *Tilgungsprobe* genannt) dient zur Ermittlung von obligatorischen und fakultativ auftretenden Konstituenten des Satzes. In der Valenzgrammatik wird betont, daß die Unterscheidung zwischen Ergänzungen und Angaben mit ihr nicht möglich ist.
 
 (6a) Die Professorin hält einen Vortrag über Textlinguistik.   
 (6b) \*Die Professorin hält über Textlinguistik.   
@@ -425,7 +447,7 @@ Hier fällt ein semantischer Unterschied zwischen dem "Ziel" des Verbs *fahren* 
 
 Wenn sich zwei oder mehrere Elemente eines Satzes durch eine koordinierende Konjunktion (wie *und* oder *oder*) verbinden lassen, bilden sie eine Konstituente.
 
-(1) [[Die Studenten] und [Professoren]] machen eine gemeinsame Exkursion.   
+(1) [[Die Studierenden] und [Professor_innen]] machen eine gemeinsame Exkursion.   
 (2) [Der eine freut sich] und [der andere ärgert sich].   
 (3) eine [reizvolle] und [intelligente] Frau   
 
@@ -444,13 +466,18 @@ sie können gleichzeitig im Satz auftreten, ohne daß sie durch eine koordiniere
 
 ### Akzentuierung
 
-Durch entsprechende Akzentuierung (Satzakzent, Kontrastakzent)) und Herstellung eines entsprechenden Kontextes zeigt sich erst, ob eine bestimmte Satzform in einer Sprache möglich ist.
+Durch entsprechende Akzentuierung (Satzakzent, Kontrastakzent)) und Herstellung eines entsprechenden Kontextes (z.B. einer tatsächlich im Text vorkommenden oder nur gedachten allgemeinen oder einer spezifischen Fragestellung) zeigt sich erst, ob eine bestimmte Satzform in einer Sprache möglich ist. Die Großschreibung in den folgenden Beispielen indiziert den Satz- bzw. den Kontrastakzent.   
+
+(1) Kontext: *Heute Abend findet das Queen-Konzert statt*.    
+(gedachte spezifische Frage: Wer nimmt den Wagen, da wir nur einen haben?) *Den Wagen nehme ICH*. (Kontrastakzent)    
+(2) Kontext (allgemeine Frage von A): *Was ist denn hier passiert?* - B: *Ich bin mit unserem Wagen in ein VerKEHRSschild geknallt*. (Satz- oder Fokusakzent)   
 
 
 ### Identifizierungsprobleme
 
-Nachdem vier grundlegende Verfahren zur Identifizierung von Satzkonstituenten und ihrer Rolle im Satz vorgeführt wurden, soll in den nächsten Absätzen einige der möglichen *Schwierigkeiten* gezeigt werden, die *bei der Verwendung dieser Verfahren* auftreten können.
-Die Verschiebeprobe liefert beispielsweise nicht in allen Fällen eindeutige Ergebnisse, d.h. man kann mit ihr nicht immer eindeutig nachweisen, daß ein sprachliches Element keine Konstituente des Satzes ist. In (3) ist dieses Problem veranschaulicht.
+Nachdem vier grundlegende Verfahren zur Identifizierung von Satzkonstituenten und ihrer Rolle im Satz vorgeführt wurden, soll in den nächsten Absätzen einige der möglichen *Schwierigkeiten* gezeigt werden, die *bei der Verwendung dieser Verfahren* auftreten können.   
+
+Die *Verschiebeprobe* liefert beispielsweise nicht in allen Fällen eindeutige Ergebnisse, d.h. man kann mit ihr nicht immer eindeutig nachweisen, daß ein sprachliches Element keine Konstituente des Satzes ist. In (3) ist dieses Problem veranschaulicht.
 
 (3a) Die Professorin hält einen Vortrag [über Textlinguistik].   
 (3b) [Über Textlinguistik] hält die Professorin einen Vortrag.   
@@ -628,8 +655,8 @@ In welchem der beiden werden öfters dieselben Wortformen benutzt?\
 
 
 ```{=html}
-<div id="htmlwidget-1d446a2bd82cdbcd3f28" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1d446a2bd82cdbcd3f28">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"lengthMenu":[2,12,18],"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-8f75fc816779000d435e" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-8f75fc816779000d435e">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"disabled\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"161\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13"],["doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1","doc1"],["ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","SCONJ","VERB"],[74,100,50,28,37,110,161,16,5,51,121,1,66]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>doc_id<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"lengthMenu":[2,12,18],"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 
@@ -637,8 +664,8 @@ In welchem der beiden werden öfters dieselben Wortformen benutzt?\
 
 
 ```{=html}
-<div id="htmlwidget-62183e84d4f781f589d2" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-62183e84d4f781f589d2">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
+<div id="htmlwidget-a73dbbc51e8d75d87faf" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a73dbbc51e8d75d87faf">{"x":{"filter":"top","vertical":false,"filterHTML":"<tr>\n  <td><\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"character\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n  <\/td>\n  <td data-type=\"integer\" style=\"vertical-align: top;\">\n    <div class=\"form-group has-feedback\" style=\"margin-bottom: auto;\">\n      <input type=\"search\" placeholder=\"All\" class=\"form-control\" style=\"width: 100%;\"/>\n      <span class=\"glyphicon glyphicon-remove-circle form-control-feedback\"><\/span>\n    <\/div>\n    <div style=\"display: none;position: absolute;width: 200px;opacity: 1\">\n      <div data-min=\"1\" data-max=\"32\"><\/div>\n      <span style=\"float: left;\"><\/span>\n      <span style=\"float: right;\"><\/span>\n    <\/div>\n  <\/td>\n<\/tr>","extensions":["Buttons"],"fillContainer":true,"data":[["1","2","3","4","5","6"],["und","sowie","aber","dass","oder","sondern"],["CCONJ","CCONJ","CCONJ","SCONJ","CCONJ","CCONJ"],[32,2,1,1,1,1]],"container":"<table class=\"ColReorder fill-container\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>token<\/th>\n      <th>upos<\/th>\n      <th>n<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":10,"colReorder":true,"dom":"Bfrtip","buttons":["colvis","copy","csv","excel","pdf","print"],"columnDefs":[{"className":"dt-right","targets":3},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"orderCellsTop":true,"rowCallback":"function(row, data, displayNum, displayIndex, dataIndex) {\nvar value=data[2]; $(row).css({'background-color':value == 0 ? \"gray30\" : value == 1 ? \"lightblue\" : null});\n}"}},"evals":["options.rowCallback"],"jsHooks":[]}</script>
 ```
 
 
