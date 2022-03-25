@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Einführung
 
 <img src="pictures/Syntax_intro_01.png" width="100%" />

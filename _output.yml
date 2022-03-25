@@ -4,6 +4,7 @@ bookdown::gitbook:
   toc_depth: 4
   config:
     toc:
+      collapse: section
       before: |
         <li><a href="./">Deutsche Syntax</a></li>
       after: |
