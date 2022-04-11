@@ -36,7 +36,7 @@ In der Grammatik von [@engel1996deutsche] wird die Grundfolge der Termergänzung
 Die Grundfolge der **Angabeklassen** wird angegeben mit:   
 *A~exist~ / A~sit~ >> A~neg~ >> A~mod~* .   
 
-Die *modifizierenden Angaben* stehen dem Verb am nächsten, deshalb stehen sie im Mittelfeld weit rechts in der Nähe der rechten Satzklammer. Die *existimatorischen* und die *situierenden* Angaben sind verbnäher, denn sie modifizieren den gesamten Sachverhalt bzw. bilden ein ein vom Sprecher abgegebenes Urteil über den im Satz ausgedrückten Sachverhalt. Die *negative Angabe* (gewöhnlich als Negationspartikel *nicht*, vor indefiniten Ergänzungen aber auch der negierte Determinativ *k-ein*) ist Bestandteil der neuen oder wichtigen Information und kommt daher in der Grundfolge vor dem rhematischen Bestandteil des Satzes zu stehen.   
+Die *modifizierenden Angaben* stehen dem Verb am nächsten, deshalb stehen sie im Mittelfeld weit rechts in der Nähe der rechten Satzklammer. Die *existimatorischen* und die *situierenden* Angaben sind verbferner, denn erstere bilden ein ein vom Sprecher abgegebenes Urteil über den im Satz ausgedrückten Sachverhalt bzw. letzere modifizieren den gesamten Sachverhalt. Die *negative Angabe* (gewöhnlich als Negationspartikel *nicht*, vor indefiniten Ergänzungen aber auch der negierte Determinativ *k-ein*) ist Bestandteil der neuen oder wichtigen Information und kommt daher in der Grundfolge vor dem rhematischen Bestandteil des Satzes zu stehen.   
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.height="100%", out.width="100%"}
 knitr::include_graphics("pictures/grundfolge_mf_engel.jpg")
