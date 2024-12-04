@@ -478,7 +478,7 @@ Die E~prp~ kommt bei ziemlich **vielen Verben** vor, nur fakultativ und nicht se
 
 z.B.
 (31) Man wartete [auf die ausländische Gäste]{.underline}.
-Auf die ausländischen Gäste]{.underline} wurde gewartet.
+[Auf die ausländischen Gäste]{.underline} wurde gewartet.
 Es wurde [auf die ausländische Gäste]{.underline} gewartet.\
 (32) Die Regierung hofft [auf bessere Beziehung]{.underline}.
 Die Hoffnung der Regierung auf die bessere Beziehung.\
